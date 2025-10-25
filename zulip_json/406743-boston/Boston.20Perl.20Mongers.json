@@ -1,0 +1,62 @@
+[
+    {
+        "content": "<p>Hi, I just noticed that the Boston Perl Mongers group on Meetup is shutting down. <br>\nMaybe you'd like to invite them to use this forum to organize their events.<br>\n<a href=\"https://www.meetup.com/boston-pm/\">https://www.meetup.com/boston-pm/</a></p>",
+        "id": 497832607,
+        "sender_full_name": "Gabor Szabo",
+        "timestamp": 1738743534
+    },
+    {
+        "content": "<p>Hmm, it's a bummer they aren't on Mastodon ( <a href=\"https://boston-pm.github.io/#social-media\">https://boston-pm.github.io/#social-media</a> ) of I'd see if <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> wants to toot at them. <span aria-label=\"big smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"big smile\">:big_smile:</span></p>",
+        "id": 497880539,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1738758231
+    },
+    {
+        "content": "<p>But anyway, yes <span class=\"user-mention\" data-user-id=\"627035\">@Gabor Szabo</span> it's fine with me if they want to use <a class=\"stream\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston\">#boston</a> to organize their events. Maybe you can reach out to them?</p>",
+        "id": 497881564,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1738758600
+    },
+    {
+        "content": "<p>well we are now (as was hinted in coming attractions on the #social-media anchor)  . @Boston_PM@fosstodon.org <br>\nThanks for the invitation here. I'll add this too !</p>",
+        "id": 499090878,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1739304870
+    },
+    {
+        "content": "<p>(For the time being, I've added <code>BostonPM</code> as a watch-word for myself here. <br>\nWhether BostonPM should be a Channel or Organization or just a Topic under Boston I can't infer immediately and needn't be decided until we see how many of our MailingList hop on here in the next month or two as I promote it.)</p>",
+        "id": 499096902,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1739307453
+    },
+    {
+        "content": "<p>Cool, welcome! <span aria-label=\"wave\" class=\"emoji emoji-1f44b\" role=\"img\" title=\"wave\">:wave:</span></p>",
+        "id": 499142544,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1739332341
+    },
+    {
+        "content": "<p>Boston.PM monthly virtual tech meeting is tomorrow, Second Tuesday as (almost) always, March 11th, 7pm EDT (if there was a formal presentation planned it would start 7.30, so not late until then).</p>\n<p>(I'll put a new post in the #perl channel, while I just extending this topic thread in #boston .)<br>\n<a href=\"https://mobilizon.us/tag/perl\">https://mobilizon.us/tag/perl</a></p>",
+        "id": 504685786,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1741640208
+    },
+    {
+        "content": "<p>See #Perl channel for announcement/link for tonight's Boston.PM virtual meet.</p>",
+        "id": 511035873,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1744150884
+    },
+    {
+        "content": "<p>and another for this month (tomorrow)</p>",
+        "id": 517681128,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1747089336
+    },
+    {
+        "content": "<p>And BostonPM returns in the fall as usual, see #Perl channel <a href=\"#narrow/channel/393688-perl/topic/Boston.2EPM.20returns.20-.20September/with/537776198\">msg</a></p>",
+        "id": 537776430,
+        "sender_full_name": "Bill Ricker",
+        "timestamp": 1757033450
+    }
+]

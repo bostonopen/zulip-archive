@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>Boston Python is heavily open source, from all the times I've gone. Plus <span class=\"user-mention\" data-user-id=\"786998\">@Ned Batchelder</span> runs it. I'm planning on going to this social event the evening of Wed, Aug 27: <a href=\"https://www.meetup.com/bostonpython/events/308729723/\">https://www.meetup.com/bostonpython/events/308729723/</a></p>",
+        "id": 531961183,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753925511
+    },
+    {
+        "content": "<p>Just a reminder that this is coming up in less than a week, on Wednesday night.</p>",
+        "id": 535704198,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755875565
+    },
+    {
+        "content": "<p>Good heavens! That's a lot of people!</p>\n<p><span aria-label=\"ticket\" class=\"emoji emoji-1f39f\" role=\"img\" title=\"ticket\">:ticket:</span> Get ready: You and 97 other Pythonistas are going to \"Social at the Kendall Rooftop Garden\" tomorrow</p>",
+        "id": 536316601,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756244639
+    },
+    {
+        "content": "<p>Wow, sort of jealous.</p>",
+        "id": 536317857,
+        "sender_full_name": "Dan",
+        "timestamp": 1756245482
+    },
+    {
+        "content": "<p>Juggling!</p>\n<p><a href=\"/user_uploads/56571/pZHRa-YkgwqLCrqVMRr3ABiO/IMG_20250827_192754661.jpg\">IMG_20250827_192754661.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/pZHRa-YkgwqLCrqVMRr3ABiO/IMG_20250827_192754661.jpg\" title=\"IMG_20250827_192754661.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"3264x2448\" src=\"/user_uploads/thumbnail/56571/pZHRa-YkgwqLCrqVMRr3ABiO/IMG_20250827_192754661.jpg/840x560.webp\"></a></div>",
+        "id": 536509662,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756338155
+    },
+    {
+        "content": "<p>A dang that's cool. Ned brought a bunch of extra?</p>",
+        "id": 536511593,
+        "sender_full_name": "Dan",
+        "timestamp": 1756339678
+    },
+    {
+        "content": "<p>I brought 27 bean bags! <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 536517047,
+        "sender_full_name": "Ned Batchelder",
+        "timestamp": 1756344366
+    }
+]

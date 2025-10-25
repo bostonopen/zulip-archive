@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>Yesterday I was going around showing my website and <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> &amp; <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> suggested that I should upload it on Zulip. In the process, we thought it might be fun to have a whole topic for sharing personal websites<br>\nso here it is!</p>\n<p>I’ll go first:<br>\n<a href=\"https://tanmayspace.pages.dev/\">https://tanmayspace.pages.dev/</a></p>\n<p>Would love to see what others have built!</p>",
+        "id": 533888227,
+        "sender_full_name": "Tanmay Sharma",
+        "timestamp": 1754959155
+    },
+    {
+        "content": "<p>Nice! Here's mine: <a href=\"http://greptilian.com\">http://greptilian.com</a></p>\n<p>Source at <a href=\"https://github.com/pdurbin/pdurbin.github.com\">https://github.com/pdurbin/pdurbin.github.com</a></p>",
+        "id": 533898383,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1754967833
+    },
+    {
+        "content": "<p>My website isn't interesting. My deploy scripts and configs may be somewhat interesting though. Maybe I could make that public.</p>",
+        "id": 534012164,
+        "sender_full_name": "Dan",
+        "timestamp": 1755014632
+    },
+    {
+        "content": "<p>I spin up a new linode, run a couple scripts from here (have to enter my root password a couple times), swap IP addresses with my old one, reboot it, and it's up. Linode has an API, I could maybe even automate some of the spinups and shutdowns and IP swap stuff in the future.</p>",
+        "id": 534012571,
+        "sender_full_name": "Dan",
+        "timestamp": 1755014743
+    },
+    {
+        "content": "<p>I guess your blog isn't in the source?</p>",
+        "id": 534012989,
+        "sender_full_name": "Dan",
+        "timestamp": 1755014881
+    },
+    {
+        "content": "<p>Nope, the source for <a href=\"http://blog.greptilian.com\">http://blog.greptilian.com</a> is at <a href=\"https://github.com/pdurbin/blog.greptilian.com\">https://github.com/pdurbin/blog.greptilian.com</a></p>",
+        "id": 534074752,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755046893
+    },
+    {
+        "content": "<p>4 messages were moved from this topic to <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site/with/534326645\">#boston &gt; HTTPS everywhere, even Phil's site</a> by <span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span>.</p>",
+        "id": 534326646,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1755134259
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>Martin Owens, who's come to our meetup a couple times, was quoted on Security Now, a podcast I (and Phil) like, in a story about AI crawlers effectively DOSing FOSS code repo websites.</p>",
+        "id": 511937775,
+        "sender_full_name": "Dan",
+        "timestamp": 1744574319
+    },
+    {
+        "content": "<p>Wow, that's cool.</p>",
+        "id": 511958201,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1744590907
+    },
+    {
+        "content": "<p>Yeah, it's pretty bad. Related: <a href=\"https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html\">https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html</a></p>",
+        "id": 511958234,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1744590948
+    }
+]

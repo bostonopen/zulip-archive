@@ -1,0 +1,62 @@
+[
+    {
+        "content": "<p>I know of two other jugglers in this group, perhaps only one of whom is on Zulip. I just heard about this:</p>\n<p><a href=\"http://www.jugglingedge.com/event.php?EventID=6127\">www.jugglingedge.com/event.php?EventID=6127</a></p>",
+        "id": 469150889,
+        "sender_full_name": "Dan",
+        "timestamp": 1725986487
+    },
+    {
+        "content": "<p>Informal juggling event this Saturday 10:00-19:00 at Cambridge Common</p>",
+        "id": 469151428,
+        "sender_full_name": "Dan",
+        "timestamp": 1725986618
+    },
+    {
+        "content": "<p>I have other plans though.</p>",
+        "id": 469151445,
+        "sender_full_name": "Dan",
+        "timestamp": 1725986622
+    },
+    {
+        "content": "<p>Wow, nice, but I'll be in NH (Santa's Village).</p>",
+        "id": 469225406,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1726007210
+    },
+    {
+        "content": "<p>An event tomorrow (Monday): A Juggler's Guide to Many-Body Quantum Mechanics - <a href=\"https://cambridgepl.libcal.com/event/13067755\">https://cambridgepl.libcal.com/event/13067755</a></p>",
+        "id": 472042325,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1727007471
+    },
+    {
+        "content": "<p>Looks cool, don't think I'd want to make the trip for that tho.</p>",
+        "id": 472059612,
+        "sender_full_name": "Dan",
+        "timestamp": 1727022590
+    },
+    {
+        "content": "<p><a href=\"https://youtube.com/watch?v=NGaMUeAfRJI\">https://youtube.com/watch?v=NGaMUeAfRJI</a></p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"NGaMUeAfRJI\" href=\"https://youtube.com/watch?v=NGaMUeAfRJI\"><img src=\"https://uploads.zulipusercontent.net/5e32a084859dbd778e0ebeeee01b37aecafe6e2a/68747470733a2f2f692e7974696d672e636f6d2f76692f4e47614d55654166524a492f64656661756c742e6a7067\"></a></div><p>The most balls ever juggled is now 12.</p>",
+        "id": 502083130,
+        "sender_full_name": "Dan",
+        "timestamp": 1740585508
+    },
+    {
+        "content": "<p>Qualifying means 2 catches for every ball. This barely qualifies.</p>",
+        "id": 502083371,
+        "sender_full_name": "Dan",
+        "timestamp": 1740585568
+    },
+    {
+        "content": "<p>Amazing. <span class=\"user-mention\" data-user-id=\"786998\">@Ned Batchelder</span> check it out. ^^</p>",
+        "id": 502162384,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1740611555
+    },
+    {
+        "content": "<p>That is impressive!</p>",
+        "id": 502163863,
+        "sender_full_name": "Ned Batchelder",
+        "timestamp": 1740612254
+    }
+]

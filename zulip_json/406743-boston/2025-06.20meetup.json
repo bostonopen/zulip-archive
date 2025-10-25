@@ -1,0 +1,236 @@
+[
+    {
+        "content": "<p>So! We're thinking about mixing it up in June. What if we go to a free tour of <a href=\"https://www.artisansasylum.com\">Artisans Asylum</a> on Sunday, June 8th at 3:15pm and then walk over to <a href=\"https://charlesriverspeedway.com\">Charles River Speedway</a> for some food and drink?</p>",
+        "id": 518984302,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747624022
+    },
+    {
+        "content": "<p>I went ahead and got tickets for the tour on June 8th. From <a href=\"https://www.artisansasylum.com\">https://www.artisansasylum.com</a> you can find the Eventbrite link under \"learn\". It's called \"community events\".</p>",
+        "id": 519503193,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747792153
+    },
+    {
+        "content": "<p>I did that and I don't see the tours. Just upcoming workshops. But I went to Learn -&gt; Events Calendar and found Tour under June 8.</p>",
+        "id": 519504109,
+        "sender_full_name": "Dan",
+        "timestamp": 1747792691
+    },
+    {
+        "content": "<p>That has a different Eventbrite link</p>",
+        "id": 519504121,
+        "sender_full_name": "Dan",
+        "timestamp": 1747792702
+    },
+    {
+        "content": "<p>I only saw the next tour, too soon for us, but I was able to navigate to June 8th.</p>",
+        "id": 519504367,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747792829
+    },
+    {
+        "content": "<p>Ok! I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/cbb9a9325f38cc69ac1a37cdda7822d0b64c9ec4\">updated</a> <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> with the plan. If anyone spots typos or anything off, please make a pull request or let me know!</p>",
+        "id": 519505767,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747793591
+    },
+    {
+        "content": "<p>So, everyone books their own ticket, right?</p>",
+        "id": 519581944,
+        "sender_full_name": "Tanmay Sharma",
+        "timestamp": 1747825061
+    },
+    {
+        "content": "<p>Yes, exactly. It's free.</p>",
+        "id": 519597665,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747830043
+    },
+    {
+        "content": "<p>So! I did a little reconnaissance tonight. I went to <a href=\"https://lu.ma/cnljcm0n\">an event</a> at the Speedway and got the lay of the land.</p>",
+        "id": 519947231,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747963725
+    },
+    {
+        "content": "<p>Somehow I was thinking there would be lots of food options but I'm pretty sure we'll be eating pizza.</p>",
+        "id": 519947259,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747963746
+    },
+    {
+        "content": "<p>There might be more food options when there's a larger event. Not sure.</p>",
+        "id": 519947283,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747963771
+    },
+    {
+        "content": "<p>Any reason you don't want to just link to the specific Eventbrite?</p>",
+        "id": 520334889,
+        "sender_full_name": "Dan",
+        "timestamp": 1748215589
+    },
+    {
+        "content": "<p>Well, CAN we link to June 8th, specifically? We can link to <a href=\"https://www.eventbrite.com/e/artisans-asylum-public-tour-tickets-677031548587?aff=odcleoeventsincollection\">https://www.eventbrite.com/e/artisans-asylum-public-tour-tickets-677031548587?aff=odcleoeventsincollection</a> but one must hunt around for June 8th. <span aria-label=\"shrug\" class=\"emoji emoji-1f937\" role=\"img\" title=\"shrug\">:shrug:</span></p>",
+        "id": 520337532,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748218367
+    },
+    {
+        "content": "<p>Yeah this UI sucks but it still takes care of like 70% of the hunt IMO.</p>",
+        "id": 520341074,
+        "sender_full_name": "Dan",
+        "timestamp": 1748221498
+    },
+    {
+        "content": "<p>I'll use it in my toot at any rate if that's okay. (though I'm not sure what that query string is, it seems to not be required)</p>",
+        "id": 520341101,
+        "sender_full_name": "Dan",
+        "timestamp": 1748221526
+    },
+    {
+        "content": "<p>Oh, please, go ahead! And yeah I agree that the query param can be removed.</p>",
+        "id": 520345348,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748224907
+    },
+    {
+        "content": "<p><a href=\"https://floss.social/@bostonopen/114571685768606390\">https://floss.social/@bostonopen/114571685768606390</a></p>",
+        "id": 520345773,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225201
+    },
+    {
+        "content": "<p>Looks great! Thanks!</p>",
+        "id": 520346741,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748225809
+    },
+    {
+        "content": "<p>Firefox's copy link w\\out site tracking is a nice idea, but tends towards the conservative site.  Probably would break stuff if it was too aggressive though.</p>",
+        "id": 521559969,
+        "sender_full_name": "Pete",
+        "timestamp": 1748788184
+    },
+    {
+        "content": "<p>We're mixing it up on Sunday! Going for a free tour of Artisans Aslyum (<a href=\"https://www.eventbrite.com/e/artisans-asylum-public-tour-tickets-677031548587\">Eventbrite ticket</a> required) at 3:15pm. Then we'll walk 12-15 minutes to the Charles River Speedway for food and drinks. All the details and maps and such are on <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>\n<p>Hope you can make it! Tell your friends!</p>\n<p><span class=\"user-mention\" data-user-id=\"716691\">@Andrea</span> <span class=\"user-mention\" data-user-id=\"743285\">@Autolux</span> <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> <span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> <span class=\"user-mention\" data-user-id=\"777593\">@Harry Pray IV</span> <span class=\"user-mention\" data-user-id=\"666599\">@Ista Zahn</span> <span class=\"user-mention\" data-user-id=\"666601\">@Jason Key</span> <span class=\"user-mention\" data-user-id=\"709685\">@Jose Lucas Cordeiro</span> <span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span>  <span class=\"user-mention\" data-user-id=\"885181\">@Michael</span> <span class=\"user-mention\" data-user-id=\"733261\">@Milan Kupcevic</span> <span class=\"user-mention\" data-user-id=\"786998\">@Ned Batchelder</span> <span class=\"user-mention\" data-user-id=\"759360\">@Parthiv</span> <span class=\"user-mention\" data-user-id=\"659178\">@Pete</span> <span class=\"user-mention\" data-user-id=\"666290\">@Sai Dutt</span> <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> <span class=\"user-mention\" data-user-id=\"659217\">@Stone Chen</span> <span class=\"user-mention\" data-user-id=\"775680\">@Tanmay Sharma</span> <span class=\"user-mention\" data-user-id=\"712386\">@Yamil Suarez</span> <span class=\"user-mention\" data-user-id=\"661875\">@Xiaokang Fu</span> <span class=\"user-mention\" data-user-id=\"765848\">@Zachary Liebl</span></p>",
+        "id": 522692796,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749175514
+    },
+    {
+        "content": "<p>Whoops, plus <span class=\"user-mention\" data-user-id=\"901693\">@Nathan Adams</span> (sorry, I always forget the new people) <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 522692898,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749175603
+    },
+    {
+        "content": "<p>How is the parking situation around there?</p>",
+        "id": 522693358,
+        "sender_full_name": "Dan",
+        "timestamp": 1749176019
+    },
+    {
+        "content": "<p>Is it kind of like Brookline?</p>",
+        "id": 522693367,
+        "sender_full_name": "Dan",
+        "timestamp": 1749176029
+    },
+    {
+        "content": "<p>They have a big parking lot. It's free. Years ago we had kids' birthday parties next door at Jump On In.</p>",
+        "id": 522693736,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749176431
+    },
+    {
+        "content": "<p><a href=\"https://www.artisansasylum.com/hours-info\">https://www.artisansasylum.com/hours-info</a> says \"Park anywhere in the Antwerp or Holton parking lots.\"</p>",
+        "id": 522693808,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749176506
+    },
+    {
+        "content": "<p>Oh wow okay. Maybe I'll need to do move it for part 2.</p>",
+        "id": 522730734,
+        "sender_full_name": "Dan",
+        "timestamp": 1749198813
+    },
+    {
+        "content": "<p>Hi Philip! I was too late with tickets to Asylum (they didn't have tickets for today) but would be happy to join at the Charles River Speedway. Do you have a time estimate for when you would arrive there?</p>",
+        "id": 522989710,
+        "sender_full_name": "Maria Dolgareva",
+        "timestamp": 1749403349
+    },
+    {
+        "content": "<p>You sure? You may have to click around to find the date on Eventbrite.</p>",
+        "id": 522989759,
+        "sender_full_name": "Dan",
+        "timestamp": 1749403410
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"895635\">Maria Dolgareva</span> <a href=\"#narrow/channel/406743-boston/topic/2025-06.20meetup/near/522989710\">said</a>:</p>\n<blockquote>\n<p>Hi Philip! I was too late with tickets to Asylum (they didn't have tickets for today) but would be happy to join at the Charles River Speedway. Do you have a time estimate for when you would arrive there?</p>\n</blockquote>\n<p>Have fun everyone bummed to miss this one! Let me know how it is!</p>",
+        "id": 522989882,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1749403562
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> <a href=\"#narrow/channel/406743-boston/topic/2025-06.20meetup/near/522989759\">said</a>:</p>\n<blockquote>\n<p>You sure? You may have to click around to find the date on Eventbrite.</p>\n</blockquote>\n<p>I tried - it doesn't let me click today's date in the calendar.</p>",
+        "id": 522990456,
+        "sender_full_name": "Maria Dolgareva",
+        "timestamp": 1749404230
+    },
+    {
+        "content": "<p>Bah! What a bummer. I'm not sure how long the tour is. Maybe a half hour or an hour? And it'll be a 13-15 minute walk for us. Hope to see you at the Speedway, <span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span>! The earliest we'd be there is 4:15 I'd say.</p>",
+        "id": 522992581,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749406625
+    },
+    {
+        "content": "<p>See you around 4:15 then!</p>",
+        "id": 522993105,
+        "sender_full_name": "Maria Dolgareva",
+        "timestamp": 1749407326
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span> if it helps, they say the tour is usually 45-60 minutes</p>",
+        "id": 522995108,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749409711
+    },
+    {
+        "content": "<p>We haven't even seen the second building yet</p>",
+        "id": 522997571,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749412665
+    },
+    {
+        "content": "<p>No problem I'll hang out at Mahoney's garden center</p>",
+        "id": 522998258,
+        "sender_full_name": "Maria Dolgareva",
+        "timestamp": 1749413530
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/rqQByiB4Sz4hsNG2ESl5sElM/154b91a8-53cc-44ff-a841-b707448912ef.jpg\">154b91a8-53cc-44ff-a841-b707448912ef.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/rqQByiB4Sz4hsNG2ESl5sElM/154b91a8-53cc-44ff-a841-b707448912ef.jpg\" title=\"154b91a8-53cc-44ff-a841-b707448912ef.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/rqQByiB4Sz4hsNG2ESl5sElM/154b91a8-53cc-44ff-a841-b707448912ef.jpg/840x560.webp\"></a></div>",
+        "id": 522998836,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749414337
+    },
+    {
+        "content": "<p>Wrapping up</p>",
+        "id": 522999481,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749415403
+    },
+    {
+        "content": "<p>Walking over now</p>",
+        "id": 523000566,
+        "sender_full_name": "Dan",
+        "timestamp": 1749416782
+    },
+    {
+        "content": "<p>Nice tour!<br>\n<a href=\"/user_uploads/56571/DR0gUfKVAnd6ak1hZmvvKL07/IMG_20250608_165215572.jpg\">IMG_20250608_165215572.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/DR0gUfKVAnd6ak1hZmvvKL07/IMG_20250608_165215572.jpg\" title=\"IMG_20250608_165215572.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/DR0gUfKVAnd6ak1hZmvvKL07/IMG_20250608_165215572.jpg/840x560.webp\"></a></div>",
+        "id": 523011365,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749431638
+    }
+]

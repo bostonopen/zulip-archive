@@ -1,0 +1,74 @@
+[
+    {
+        "content": "<p>I'm starting a new topic about core tenets, which was asked about <a href=\"#narrow/channel/406743-boston/topic/Boston.20Open.20Dev.20Project/near/494064358\">elsewhere</a>.</p>",
+        "id": 494130323,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737029659
+    },
+    {
+        "content": "<p>Obviously, a big one is that we enjoy meeting in person.</p>",
+        "id": 494130551,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737029743
+    },
+    {
+        "content": "<p>Ideally, people who show up have an interest in open source. They don't have to be developers but in practice a lot of us write at least some code.</p>",
+        "id": 494130702,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737029786
+    },
+    {
+        "content": "<p>We try to be accepting of everyone. We're aware that (like open source in general) we attract more men than women. We're talking about how we can improve this situation over at <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/gender.20imbalance\">#boston &gt; gender imbalance</a>.</p>",
+        "id": 494131071,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737029916
+    },
+    {
+        "content": "<p>Core Tenet Draft List:</p>\n<ol>\n<li>\n<p>Maintain a group that is fully inclusive with an emphasis on extending welcoming to traditionally underrepresented groups of people in development space.</p>\n</li>\n<li>\n<p>“small but mighty” - Maintain focus on incremental success. Identify areas where the group expertise aligns with meaningful projects that are small, but have high potential to yield high impact - contributing  to the greater good</p>\n</li>\n</ol>",
+        "id": 494135387,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1737030965
+    },
+    {
+        "content": "<p>Well, sure, but now we're back to picking a project. This topic: <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Boston.20Open.20Dev.20Project\">#boston &gt; Boston Open Dev Project</a> </p>\n<p>That is to say, I don't think it's a core tenet to work on a piece of software together. But we certainly could!</p>",
+        "id": 494138190,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737031772
+    },
+    {
+        "content": "<p>The meetup is modeled off of a similar meetup at Grendel's in Harvard Square. Some open source people would get together late on a Sunday night, at 8 or 9pm or so. I went a couple times but it was too late for me. So my idea was to have a meetup at 5pm or so close to home (for me). That way, people who just couldn't get enough open source could cross the river for the next meetup at Grendel's.</p>",
+        "id": 494138646,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737031906
+    },
+    {
+        "content": "<p>Both meetups are super casual. No talks. Just show up. Pay for your own food or drink. Socialize. Have fun.</p>",
+        "id": 494138802,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737031941
+    },
+    {
+        "content": "<p>Ahh I see ok makes sense</p>",
+        "id": 494140924,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1737032595
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/stream/406743-boston/topic/core.20tenets/near/494130702\">said</a>:</p>\n<blockquote>\n<p>Ideally, people who show up have an interest in open source. They don't have to be developers but in practice a lot of us write at least some code.</p>\n</blockquote>\n<p>\"Dev\" in the name will probably give the impression that it's targeting developers</p>",
+        "id": 494184428,
+        "sender_full_name": "Dan",
+        "timestamp": 1737044001
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> <a href=\"#narrow/channel/406743-boston/topic/core.20tenets/near/494184428\">said</a>:</p>\n<blockquote>\n<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/stream/406743-boston/topic/core.20tenets/near/494130702\">said</a>:</p>\n<blockquote>\n<p>Ideally, people who show up have an interest in open source. They don't have to be developers but in practice a lot of us write at least some code.</p>\n</blockquote>\n<p>\"Dev\" in the name will probably give the impression that it's targeting developers</p>\n</blockquote>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>  I can see that as a new person. Granted I missed the second half of the meet up, but when I looked at this thread <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Boston.20Open.20Dev.20Project\">#boston &gt; Boston Open Dev Project</a>  as a \"newbie\" it was a little unclear whether this was a casual group \"hang out and talk shop\" OR if there was more of a project component to it. Either way i'm in I really enjoyed hanging!</p>",
+        "id": 494191766,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1737046118
+    },
+    {
+        "content": "<p>Mostly talk shop so far. <span aria-label=\"big smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"big smile\">:big_smile:</span></p>",
+        "id": 494243429,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737066082
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "content": "<p>A couple weeks ago at Bike Stress Map was announced: <a href=\"https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map\">https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map</a></p>",
+        "id": 520323267,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748204970
+    },
+    {
+        "content": "<p>It's a fantastic resource but I'm wondering if can help improve it. Here's a direct link to the map: <a href=\"https://labs.bostoncyclistsunion.org/#/map\">https://labs.bostoncyclistsunion.org/#/map</a></p>",
+        "id": 520323344,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748205005
+    },
+    {
+        "content": "<p>They say, \"You can learn to <a href=\"https://labs.bostoncyclistsunion.org/#/map/OSM\">fix the data yourself here</a>, or fill out <a href=\"https://forms.gle/ytyKV7ZrnzYZToCi9\">this form</a> with what you know and the BCU Labs team will bike there ourselves to survey, then fix the data.\"</p>",
+        "id": 520323402,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748205068
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> the \"fix it yourself\" link is for OpenStreetMaps (OSM) and I wonder if you have any experience correctly speed limits on OSM. Beacon Street (where Hamilton is, by the way) shows 50 mph on the Bike Stress Map but it should be 25. (Brookline has special Town-wide Statutory Speed Limit of 25 mph \"<a href=\"https://www.brooklinema.gov/152/Report-Obstructions-Traffic-Safety-Issue\">special Town-wide Statutory Speed Limit of 25 mph</a>\".)</p>",
+        "id": 520323862,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748205383
+    },
+    {
+        "content": "<p>Also, the Bike Street Map code itself is open source! It's part of <a href=\"https://github.com/BostonCyclistsUnion/Website\">https://github.com/BostonCyclistsUnion/Website</a> and I was able to get it running quite easily by following the README.</p>",
+        "id": 520323909,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748205440
+    },
+    {
+        "content": "<p>Oh yes I've heard of a couple Bike Stress projects, one of them may be this one. The other one wasn't even OSM. I think it's a wider concept.</p>",
+        "id": 520325756,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207029
+    },
+    {
+        "content": "<p>I usually pay attention to speed limits on highways and I think it's pretty close. I've seen it wrong. City I haven't paid so much attention.</p>",
+        "id": 520325828,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207070
+    },
+    {
+        "content": "<p>Maybe it would be acceptable to mass edit Brookline based on this webpage. I'll check the OSM slack, there are regional channels. Maybe there's one for Boston, otherwise the Mass one.</p>",
+        "id": 520325951,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207165
+    },
+    {
+        "content": "<p>Are these just “overall ratings” ? Stress Level seems heavily influenced by congestion no?</p>",
+        "id": 520326244,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1748207472
+    },
+    {
+        "content": "<p>Okay this is interesting. I can't concentrate enough on this now but OSM has a concept of \"default speed limits\" but I'm not sure how much it relates to municipality. It might be the case that the consumer of the data (i.e. this stress map) should pull in a separate dataset that has default speed limits to fill in the blanks in OSM data.</p>\n<p><a href=\"https://wiki.openstreetmap.org/wiki/Default_speed_limits\">https://wiki.openstreetmap.org/wiki/Default_speed_limits</a></p>\n<p>But I have to read it more carefully.</p>",
+        "id": 520326379,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207636
+    },
+    {
+        "content": "<p>Ah no it's by country.</p>",
+        "id": 520326480,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207725
+    },
+    {
+        "content": "<p>So I'll ask the Slack.</p>",
+        "id": 520326488,
+        "sender_full_name": "Dan",
+        "timestamp": 1748207735
+    },
+    {
+        "content": "<p>Where do you see 50 MPH for Beacon? I wonder if it's assuming the US default speed limit.</p>",
+        "id": 520326964,
+        "sender_full_name": "Dan",
+        "timestamp": 1748208138
+    },
+    {
+        "content": "<p>I don't see speed limit on the bike stress map. Lots of other details but not that.</p>",
+        "id": 520326977,
+        "sender_full_name": "Dan",
+        "timestamp": 1748208153
+    },
+    {
+        "content": "<p>Do all of the streets have signs indicating the 25 mph limit as well? The may affect whether it's appropriate to mass edit it in. If the signs aren't there, I'd be worried that people won't know to change it if the law changes.</p>\n<p>But at worst case we could find all the missing speed limits and enter them. We'd do a lot of walking or biking! Less hacking.</p>",
+        "id": 520327826,
+        "sender_full_name": "Dan",
+        "timestamp": 1748208811
+    },
+    {
+        "content": "<p>If you click \"show advanced details\" and scroll down, you should see \"prevailing speed (assumed)\", like this:</p>\n<p><a href=\"/user_uploads/56571/gL_5vu6douSckgR41hMRJhrZ/Beacon.png\">Beacon.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/gL_5vu6douSckgR41hMRJhrZ/Beacon.png\" title=\"Beacon.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"2940x1840\" src=\"/user_uploads/thumbnail/56571/gL_5vu6douSckgR41hMRJhrZ/Beacon.png/840x560.webp\"></a></div>",
+        "id": 520328943,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748209796
+    },
+    {
+        "content": "<p>And at the bottom of this segment (in front of Hamilton), it links here: <a href=\"https://www.openstreetmap.org/way/8814642\">https://www.openstreetmap.org/way/8814642</a></p>",
+        "id": 520329006,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748209834
+    },
+    {
+        "content": "<p>Okay I looked at that, I just missed it. Thanks.</p>",
+        "id": 520329613,
+        "sender_full_name": "Dan",
+        "timestamp": 1748210488
+    },
+    {
+        "content": "<p>Wait, oops. We can't do a mass edit to 25 mph. We don't know if all of the unspecified streets are actually 25 mph.</p>",
+        "id": 520333551,
+        "sender_full_name": "Dan",
+        "timestamp": 1748214306
+    },
+    {
+        "content": "<p>Some might be lower. BUT - BCU labs could change their default for Brookline.</p>",
+        "id": 520333584,
+        "sender_full_name": "Dan",
+        "timestamp": 1748214343
+    },
+    {
+        "content": "<p>I don't think there's even anything useful to ask the OSM Slack. I think we should just poke at the project. See if we can set the default speed limit to max out at 25 if the municipality is Brookline. That could be a group task! (In addition to maybe setting some speed limits manually if you want me to run you through that)</p>\n<p>When do you want to do this?</p>",
+        "id": 520333778,
+        "sender_full_name": "Dan",
+        "timestamp": 1748214501
+    },
+    {
+        "content": "<p>Their \"join BCU labs\" link says we can join their Slack. I think I'll start there.</p>",
+        "id": 520333981,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748214686
+    },
+    {
+        "content": "<p>done</p>",
+        "id": 520334172,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748214864
+    },
+    {
+        "content": "<p>Cool keep us posted I guess.</p>",
+        "id": 520334190,
+        "sender_full_name": "Dan",
+        "timestamp": 1748214888
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"815615\">Dave Hanft</span> <a href=\"#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/near/520326244\">said</a>:</p>\n<blockquote>\n<p>Are these just “overall ratings” ? Stress Level seems heavily influenced by congestion no?</p>\n</blockquote>\n<p>From <a href=\"https://labs.bostoncyclistsunion.org/#/map\">https://labs.bostoncyclistsunion.org/#/map</a> you can read about their <a href=\"https://labs.bostoncyclistsunion.org/#/map/LTS\">methodology</a>.</p>\n<p>It does say, \"factors like fast and heavy traffic can still make it stressful.\"</p>",
+        "id": 520337731,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748218565
+    },
+    {
+        "content": "<p>OSM is interesting. I'm looked at <a href=\"https://www.openstreetmap.org/way/8648038\">https://www.openstreetmap.org/way/8648038</a> which I know has a dedicated bike lane going north but no such dedicated bike lane going south. Does the OSM data reflect this? I'm not sure. <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 520338726,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748219478
+    },
+    {
+        "content": "<p>I think so. I think that's what the <code>cycleway:*</code> tags are saying. On the left it's a shared lane with a pictogram, i.e. one of those \"sharrow\" things painted. On the right it's an exclusive bike lane.</p>\n<p>And right and left are determined by the direction of the line that defines the road. In OSM all lines are directional.</p>",
+        "id": 520339519,
+        "sender_full_name": "Dan",
+        "timestamp": 1748220178
+    },
+    {
+        "content": "<p>You can click on those tags too, it'll send you to the OSM wiki and it'll confirm or refute what I just assumed here.</p>",
+        "id": 520339540,
+        "sender_full_name": "Dan",
+        "timestamp": 1748220205
+    },
+    {
+        "content": "<p>tag names and sometimes even values have their own wiki page.</p>",
+        "id": 520339637,
+        "sender_full_name": "Dan",
+        "timestamp": 1748220286
+    },
+    {
+        "content": "<p>I was wondering about right and left. What about a road like <a href=\"https://www.openstreetmap.org/way/8814302\">https://www.openstreetmap.org/way/8814302</a> that goes (more or less) east/west? Is cycleway:left on north or south side of the street?</p>",
+        "id": 520345296,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748224875
+    },
+    {
+        "content": "<p>It's the direction of the line, not left-right in absolute terms. But the direction is not visible here. I'm not sure if there's a fast way to show you, but in the editor you can see an arrow indicating which end of the line is \"forward\". And from there you can determine \"left\" and \"right\".</p>",
+        "id": 520346025,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225387
+    },
+    {
+        "content": "<p>Technically the line is called a \"way\".</p>",
+        "id": 520346125,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225421
+    },
+    {
+        "content": "<p>This is in the web editor:</p>\n<p><a href=\"/user_uploads/56571/HO7cRknydUVUwQ-nKWD1RlTp/Screenshot_2025-05-25_22-12-05.png\">Screenshot_2025-05-25_22-12-05.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/HO7cRknydUVUwQ-nKWD1RlTp/Screenshot_2025-05-25_22-12-05.png\" title=\"Screenshot_2025-05-25_22-12-05.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"1450x428\" src=\"/user_uploads/thumbnail/56571/HO7cRknydUVUwQ-nKWD1RlTp/Screenshot_2025-05-25_22-12-05.png/840x560.webp\"></a></div><p>The arrows point right. So the \"right\" side of the street is south.</p>",
+        "id": 520346560,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225683
+    },
+    {
+        "content": "<p>I guess a way of thinking of it is that a \"way\" is an ordered collection of \"nodes\" (points). Which means there's a first node and a last node. That determines the direction of the way.</p>",
+        "id": 520346656,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225746
+    },
+    {
+        "content": "<p>Ok, thanks. Bummer that I can't see the arrows.</p>",
+        "id": 520346709,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748225767
+    },
+    {
+        "content": "<p>Well if you're sufficiently interested you can sign up. Once you're logged in you can just click the \"edit\" button and it'll bring you to the editor.</p>",
+        "id": 520346776,
+        "sender_full_name": "Dan",
+        "timestamp": 1748225847
+    },
+    {
+        "content": "<p>I'm getting there. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 520346948,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748225976
+    },
+    {
+        "content": "<p>I just checked Google Maps and they don't show which side the bike lane is on. They just flag the entire street as bike friendly. Way less helpful than in could be. But as we've been discussing OSM has the data, which is great!</p>",
+        "id": 520347062,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748226041
+    },
+    {
+        "content": "<p><a href=\"https://www.cyclosm.org\">https://www.cyclosm.org</a> actually seems pretty good. It shows which sides of the streets the bike lanes are on. However, to my eyes the dedicated bike lanes and what they call shared bike lanes (which are actually not a bike lane at all) look way too similar. Both are dashed. Both blue. It would be nice if I could change the color of one of them.</p>",
+        "id": 520347666,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748226551
+    },
+    {
+        "content": "<p>I opened an issue: <a href=\"https://github.com/cyclosm/cyclosm-cartocss-style/issues/700\">https://github.com/cyclosm/cyclosm-cartocss-style/issues/700</a></p>",
+        "id": 520348936,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748227624
+    },
+    {
+        "content": "<p>How is it a \"limitation of OSM tags\"? But the rest makes sense I guess.</p>",
+        "id": 520430496,
+        "sender_full_name": "Dan",
+        "timestamp": 1748260282
+    },
+    {
+        "content": "<p>I just left another reply.</p>",
+        "id": 520440767,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748262902
+    },
+    {
+        "content": "<p>Do you think we could mark that southbound lane as not a shared lane, as just a regular road?</p>",
+        "id": 520440870,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748262936
+    },
+    {
+        "content": "<p>If it has a sharrow I think it should be a shared lane.</p>",
+        "id": 520463640,
+        "sender_full_name": "Dan",
+        "timestamp": 1748268717
+    },
+    {
+        "content": "<p>Maybe there's another metric that indicates how much it sucks. Like I saw widths listed some places.</p>",
+        "id": 520463844,
+        "sender_full_name": "Dan",
+        "timestamp": 1748268761
+    },
+    {
+        "content": "<p>Maybe not for individual lanes though.</p>",
+        "id": 520463869,
+        "sender_full_name": "Dan",
+        "timestamp": 1748268771
+    },
+    {
+        "content": "<p>BTW there's also opencyclemap. I wonder if they render in a more useful way.</p>",
+        "id": 520463933,
+        "sender_full_name": "Dan",
+        "timestamp": 1748268788
+    },
+    {
+        "content": "<p>If there is a sharrow maybe you should have the city \"edit their map\" so to speak.</p>",
+        "id": 520464453,
+        "sender_full_name": "Dan",
+        "timestamp": 1748268939
+    },
+    {
+        "content": "<p>You could also look at the history of the edit and see if the person gave a reason for the change. Though there aren't proper diffs. And people don't tend to give good comments.</p>",
+        "id": 520465285,
+        "sender_full_name": "Dan",
+        "timestamp": 1748269145
+    },
+    {
+        "content": "<p>Look for \"View History\" at the bottom if you're looking at an element. Also BTW if you're just looking at the map on <a href=\"http://openstreetmap.org\">openstreetmap.org</a> and want to select an element, right click and select \"Query Features\". It'll find things nearby.</p>",
+        "id": 520467219,
+        "sender_full_name": "Dan",
+        "timestamp": 1748269590
+    },
+    {
+        "content": "<p>Thanks for the tip about <a href=\"https://www.opencyclemap.org\">https://www.opencyclemap.org</a> . From a quick look, it seems better. It only shows the northbound bike lane correctly and nothing special southbound, which is accurate. It makes me wonder about the underlying data. Is southbound marked as a shared lane or not? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span> </p>\n<p><a href=\"/user_uploads/56571/-ySyzw9AHTC0PxiaNePtMuR1/opencyclemap.png\">opencyclemap.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/-ySyzw9AHTC0PxiaNePtMuR1/opencyclemap.png\" title=\"opencyclemap.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"858x1598\" src=\"/user_uploads/thumbnail/56571/-ySyzw9AHTC0PxiaNePtMuR1/opencyclemap.png/840x560.webp\"></a></div>",
+        "id": 520468445,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748269894
+    },
+    {
+        "content": "<p>I'm not sure what to say about the sharrows. Feels like semantics on some level. Like you say, it's more about the width. There's no room for a car to pass a bike.</p>",
+        "id": 520468852,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748269989
+    },
+    {
+        "content": "<p>Isn't that sort of the definition of a shared lane though? The bike is a car.</p>",
+        "id": 520469469,
+        "sender_full_name": "Dan",
+        "timestamp": 1748270152
+    },
+    {
+        "content": "<p>Hmm well I guess that's not always true for sharrows.</p>",
+        "id": 520469628,
+        "sender_full_name": "Dan",
+        "timestamp": 1748270183
+    },
+    {
+        "content": "<p>The thing is that OSM prefers objective measures. \"I don't think this is good for bikes\" is probably not the sort of justification they're looking for. \"This has a sharrow\" or \"the city website says\" is more proper.</p>",
+        "id": 520469904,
+        "sender_full_name": "Dan",
+        "timestamp": 1748270264
+    },
+    {
+        "content": "<p>To see the underlying data, find the street on <a href=\"http://openstreetmap.org\">openstreetmap.org</a> and right click to Query Features.</p>",
+        "id": 520470190,
+        "sender_full_name": "Dan",
+        "timestamp": 1748270339
+    },
+    {
+        "content": "<p>As possible solution for me would be a \"hide shared lanes\" button.</p>",
+        "id": 520470343,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748270394
+    },
+    {
+        "content": "<p>Right. The apps that use the data is where preferences are just fine. And an app that says \"hide shared lanes unless they're X meters wide or more\" might be the solution.</p>",
+        "id": 520470524,
+        "sender_full_name": "Dan",
+        "timestamp": 1748270440
+    },
+    {
+        "content": "<p>Cycle Map (from the main OSM website) seem to give what I want. It hides the shared lanes.</p>",
+        "id": 520484663,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748274321
+    },
+    {
+        "content": "<p>Here's a good <a href=\"https://www.reddit.com/r/openstreetmap/comments/1cetgll/what_is_the_difference_between_these_two_cycle/\">write up</a>:</p>\n<p>\"A major difference would be that opencyclemap mostly just displays designated bicycle routes and a few cycling adjacent amenities. Cyclsom on the other hand also displays roads with lower speed limits and the locations of traffic calming measures. They also show roads that have the bicycle=shared_lane tag, which opencyclemap doesn't make note of.</p>\n<p>Consequently, I find opencyclemap easier to read if you're only looking for routes, because they're much more prominent and it's not as visually cluttered. However I do prefer Cyclosm because I get a better understanding of the road conditions, especially on roads that aren't on designated cycling routes.\"</p>",
+        "id": 520484711,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748274342
+    },
+    {
+        "content": "<p>The taxonomy of OSM frustrates me sometimes. It's so messy. If you ever get confused as you dig into it don't be surprised.</p>",
+        "id": 520500301,
+        "sender_full_name": "Dan",
+        "timestamp": 1748280351
+    },
+    {
+        "content": "<p>(Just adding an establishment now, it reminded me)</p>",
+        "id": 520500468,
+        "sender_full_name": "Dan",
+        "timestamp": 1748280417
+    },
+    {
+        "content": "<p>I'm hoping the Bike Stress Map folks can guide me a bit. I filled in the form. Hoping I get a Slack invite.</p>",
+        "id": 520507926,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748283611
+    },
+    {
+        "content": "<p>Yeah lmk what turns up</p>",
+        "id": 520516829,
+        "sender_full_name": "Dan",
+        "timestamp": 1748287485
+    },
+    {
+        "content": "<p>Still no word from them. <span aria-label=\"disappointed\" class=\"emoji emoji-1f61e\" role=\"img\" title=\"disappointed\">:disappointed:</span></p>",
+        "id": 521435308,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748691837
+    },
+    {
+        "content": "<p>Meanwhile I just made this reply: <a href=\"https://github.com/cyclosm/cyclosm-cartocss-style/issues/700#issuecomment-2925090750\">https://github.com/cyclosm/cyclosm-cartocss-style/issues/700#issuecomment-2925090750</a></p>\n<p>I suppose you're both right, that I should go trying to change the OSM data. There are sharrows painted on the road. Not that they do anything!</p>",
+        "id": 521436988,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748693169
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/Zy_5W6EvbWqMPbL2uWZTP-9U/goggles.jpg\">goggles.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/Zy_5W6EvbWqMPbL2uWZTP-9U/goggles.jpg\" title=\"goggles.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"276x183\" src=\"/user_uploads/thumbnail/56571/Zy_5W6EvbWqMPbL2uWZTP-9U/goggles.jpg/840x560.webp\"></a></div>",
+        "id": 521437028,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748693220
+    },
+    {
+        "content": "<p>So, from a route I'm planning, <a href=\"https://www.opencyclemap.org\">https://www.opencyclemap.org</a> seems to be the most accurate in terms of which streets have bike lanes. However, Organic Maps doesn't seem to use this data. Is there some other app I can use on Android that would show me what I see (in terms of bike lanes) on <a href=\"https://www.opencyclemap.org\">https://www.opencyclemap.org</a> ?</p>",
+        "id": 521458927,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748710787
+    },
+    {
+        "content": "<p>I'm trying <a href=\"http://locusmap.eu\">Locus Map</a> and it's allowing me to see OpenCycleMap data. I saw it mentioned at <a href=\"https://community.openstreetmap.org/t/open-cycle-map-in-which-apps-is-it-embeded/94811/4\">https://community.openstreetmap.org/t/open-cycle-map-in-which-apps-is-it-embeded/94811/4</a></p>",
+        "id": 521466302,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748716616
+    },
+    {
+        "content": "<p>Cool I've never heard of it. I don't know what to use on Android. I bet Organic Maps would have the goal of being among the best for that.</p>",
+        "id": 521472481,
+        "sender_full_name": "Dan",
+        "timestamp": 1748722028
+    },
+    {
+        "content": "<p>I don't know what else to use.</p>",
+        "id": 521472516,
+        "sender_full_name": "Dan",
+        "timestamp": 1748722074
+    },
+    {
+        "content": "<p>Maybe I should ask the Organic Maps folks.</p>",
+        "id": 521475482,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748724857
+    },
+    {
+        "content": "<p>The OpenCycleMap data is interesting. It's free to use online but to download it you have to pay.</p>",
+        "id": 521475505,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748724880
+    },
+    {
+        "content": "<p>Weird. I wonder how that works license wise. Wrt osm's db license</p>",
+        "id": 521480660,
+        "sender_full_name": "Dan",
+        "timestamp": 1748729482
+    },
+    {
+        "content": "<p>I'm also highly confused about where the data about bike maps lives.</p>\n<p><a href=\"https://www.opencyclemap.org\">https://www.opencyclemap.org</a> has a link that says \"Edit OpenStreetMap data here\".</p>\n<p><a href=\"https://www.cyclosm.org\">https://www.cyclosm.org</a> has link that says \"Edit the map\".</p>\n<p><a href=\"https://labs.bostoncyclistsunion.org/#/map\">https://labs.bostoncyclistsunion.org/#/map</a> (the stress map) has a link to update the map.</p>\n<p>But the bike maps all look different. <span aria-label=\"shrug\" class=\"emoji emoji-1f937\" role=\"img\" title=\"shrug\">:shrug:</span></p>",
+        "id": 521488243,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748737620
+    },
+    {
+        "content": "<p>Ideally, I'd contribute to some sort of commons, like Wikipedia.</p>",
+        "id": 521488283,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748737648
+    },
+    {
+        "content": "<p>OSM is the source for all of them. (They possibly have secondary sources but that's not why it looks different)</p>",
+        "id": 521492883,
+        "sender_full_name": "Dan",
+        "timestamp": 1748742387
+    },
+    {
+        "content": "<p>As an OSM app you can choose what data to surface and how to display it. That applied to the dotted lines for bike lane vs shared lane. But it also applies to the underlying map tiles. For instance <a href=\"http://openstreetmap.org\">openstreetmap.org</a> shows most establishments. opencyclemap iirc only shows bars cafes and probably bike shops. That's on the base tile data.</p>",
+        "id": 521493029,
+        "sender_full_name": "Dan",
+        "timestamp": 1748742500
+    },
+    {
+        "content": "<p>For the streets, could have different style settings for types of streets, they could be showing different types of streets altogether, or they could be using a different library altogether to do the rendering. Some websites render to vector graphics. There's multiple ways to do everything, it's a bit overwhelming.</p>",
+        "id": 521493220,
+        "sender_full_name": "Dan",
+        "timestamp": 1748742631
+    },
+    {
+        "content": "<p>Ok, but the underlying data is common, it sounds like. Sort of like Wikipedia. That's good.</p>",
+        "id": 521577781,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748797719
+    },
+    {
+        "content": "<p>I'm in! I just joined the stress map slack.</p>",
+        "id": 521585110,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748802125
+    },
+    {
+        "content": "<p>We got a man on the inside</p>",
+        "id": 521587230,
+        "sender_full_name": "Dan",
+        "timestamp": 1748803533
+    },
+    {
+        "content": "<p>ha</p>",
+        "id": 521590077,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748805138
+    },
+    {
+        "content": "<p>As luck would have it their monthly meeting was today! I just got out of it.</p>\n<p>Seems like a really great group of people. Like me, they just want better biking in and around Boston.</p>",
+        "id": 521873463,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912472
+    },
+    {
+        "content": "<p>I let them know about <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/State.20of.20the.20Map.20US.202025/with/520332284\">#boston &gt; State of the Map US 2025</a> (even linked to that thread), which they appreciated.</p>",
+        "id": 521873502,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912495
+    },
+    {
+        "content": "<p>And I explained how <a href=\"https://www.opencyclemap.org\">https://www.opencyclemap.org</a> shows if a street has a bike lane only on one side, which even Google Maps doesn't do. And I pointed out the app I'm using on Android to consume that data: <a href=\"https://www.locusmap.app\">https://www.locusmap.app</a></p>",
+        "id": 521873717,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912581
+    },
+    {
+        "content": "<p>On the call I heard good things about <a href=\"https://geovelo.app\">https://geovelo.app</a> which is already linked from <a href=\"https://labs.bostoncyclistsunion.org/#/map/OSM\">https://labs.bostoncyclistsunion.org/#/map/OSM</a></p>",
+        "id": 521873878,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912667
+    },
+    {
+        "content": "<p>They also talked about <a href=\"https://masstrailtracker.com\">https://masstrailtracker.com</a> which seems really cool.</p>",
+        "id": 521874084,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912763
+    },
+    {
+        "content": "<p>As for code, I asked where the maps pulls from Mapbox and it's here: <a href=\"https://github.com/BostonCyclistsUnion/Website/blob/e53d05c9ad5bafc81b00d8c995f3537168b62344/src/Map.jsx#L106\">https://github.com/BostonCyclistsUnion/Website/blob/e53d05c9ad5bafc81b00d8c995f3537168b62344/src/Map.jsx#L106</a></p>",
+        "id": 521874249,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912847
+    },
+    {
+        "content": "<p><a href=\"https://github.com/BostonCyclistsUnion/StressMap\">https://github.com/BostonCyclistsUnion/StressMap</a> pulls from OSM and pushes to Mapbox.</p>",
+        "id": 521874285,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912872
+    },
+    {
+        "content": "<p>So I have a better sense of the architecture now.</p>",
+        "id": 521874340,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912885
+    },
+    {
+        "content": "<p>Also, I invited them to our meetup! I'll probably link them to this thread. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 521874375,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748912908
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/near/521874084\">said</a>:</p>\n<blockquote>\n<p>They also talked about <a href=\"https://masstrailtracker.com\">https://masstrailtracker.com</a> which seems really cool.</p>\n</blockquote>\n<p>I uploaded the GeoJSON file to <a href=\"https://demo.dataverse.org/file.xhtml?persistentId=doi:10.70122/FK2/0PW3IS/RDRHKD&amp;version=1.0\">https://demo.dataverse.org/file.xhtml?persistentId=doi:10.70122/FK2/0PW3IS/RDRHKD&amp;version=1.0</a> and it looks pretty good! <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 521881809,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748916563
+    },
+    {
+        "content": "<p>Did they not know about SOTM coming up? I'd be surprised.</p>",
+        "id": 522161445,
+        "sender_full_name": "Dan",
+        "timestamp": 1748965979
+    },
+    {
+        "content": "<p>So is it something like, they process raw OSM data, they send what they want to Mapbox, Mapbox renders it for them for use in their frontend?</p>",
+        "id": 522161976,
+        "sender_full_name": "Dan",
+        "timestamp": 1748966127
+    },
+    {
+        "content": "<p>They new about it.</p>",
+        "id": 522226974,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748990034
+    },
+    {
+        "content": "<p>And yes, you've got it.</p>",
+        "id": 522226993,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748990039
+    },
+    {
+        "content": "<p>These are the two issues I opened (after talking to them about it first, last night):</p>\n<ul>\n<li>cycleway:right lane not considered a bike lane: <a href=\"https://github.com/BostonCyclistsUnion/StressMap/issues/69\">https://github.com/BostonCyclistsUnion/StressMap/issues/69</a></li>\n<li>show which side of the street has bike lanes: <a href=\"https://github.com/BostonCyclistsUnion/Website/issues/22\">https://github.com/BostonCyclistsUnion/Website/issues/22</a></li>\n</ul>",
+        "id": 522234810,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748994067
+    },
+    {
+        "content": "<p>Did you talk to them about the speed limit in Brookline?</p>",
+        "id": 522249354,
+        "sender_full_name": "Dan",
+        "timestamp": 1749003072
+    },
+    {
+        "content": "<p>Hmm so <code>cycleway:left=lane</code> works but <code>cycleway:right=lane</code> doesn't?</p>",
+        "id": 522250048,
+        "sender_full_name": "Dan",
+        "timestamp": 1749003559
+    },
+    {
+        "content": "<p>Yep. 25 mph</p>",
+        "id": 522250770,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749004060
+    },
+    {
+        "content": "<p>I think they both don't work</p>",
+        "id": 522250788,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749004071
+    },
+    {
+        "content": "<p>I see cycleway stuff in the stressmap repo so I think I opened the bug in the right place. Here, for example: <a href=\"https://github.com/BostonCyclistsUnion/StressMap/blob/aa754c22b1e95a96f53f1f1363baf57aef3a95ca/lts_functions.py#L181\">https://github.com/BostonCyclistsUnion/StressMap/blob/aa754c22b1e95a96f53f1f1363baf57aef3a95ca/lts_functions.py#L181</a></p>",
+        "id": 522250905,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749004161
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/near/522250770\">said</a>:</p>\n<blockquote>\n<p>Yep. 25 mph</p>\n</blockquote>\n<p>Did you talk about fixing it? I'm just curious what they say about it.</p>",
+        "id": 522442307,
+        "sender_full_name": "Dan",
+        "timestamp": 1749067736
+    },
+    {
+        "content": "<p>I'm trying to remember. We definitely touched on it. Not sure what the plan is. This issue is definitely related: <code>Roads with no speed limit data in OSM have very high inferred speed limits</code> <a href=\"https://github.com/BostonCyclistsUnion/StressMap/issues/25\">https://github.com/BostonCyclistsUnion/StressMap/issues/25</a></p>",
+        "id": 522461442,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749075632
+    },
+    {
+        "content": "<p>I'm sure you'd be welcome to join their Slack!</p>",
+        "id": 522464659,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749077465
+    },
+    {
+        "content": "<p>Yep that covers it</p>",
+        "id": 522481822,
+        "sender_full_name": "Dan",
+        "timestamp": 1749088549
+    },
+    {
+        "content": "<p>I just learned about this map (or was just reminded of it). <a href=\"https://demo.f4map.com\">https://demo.f4map.com</a> So cool! But I only got it working on my phone running Chromium.</p>\n<p>Zoom in, two-finger scroll to rotate, wait for trees and buildings and walls to pop up :-)</p>",
+        "id": 526628640,
+        "sender_full_name": "Dan",
+        "timestamp": 1751382000
+    },
+    {
+        "content": "<p>Huh, yeah, very cool.</p>\n<p><a href=\"/user_uploads/56571/lPuHH9Ulsrwl31HCb4C9-M2b/Screenshot-2025-07-02-at-6.58.51AM.png\">Screenshot 2025-07-02 at 6.58.51 AM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/lPuHH9Ulsrwl31HCb4C9-M2b/Screenshot-2025-07-02-at-6.58.51AM.png\" title=\"Screenshot 2025-07-02 at 6.58.51 AM.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"3164x2062\" src=\"/user_uploads/thumbnail/56571/lPuHH9Ulsrwl31HCb4C9-M2b/Screenshot-2025-07-02-at-6.58.51AM.png/840x560.webp\"></a></div>",
+        "id": 526774711,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1751454044
+    },
+    {
+        "content": "<p>Everything is from OSM except for some \"special\" buildings like the Eiffel Tower. But most domes and things are in OSM. Someone even constructed a cross on a church that shows up here.</p>",
+        "id": 526795782,
+        "sender_full_name": "Dan",
+        "timestamp": 1751461138
+    },
+    {
+        "content": "<p>\"Curated routes through Boston along with their stress levels: <a href=\"https://tlangs.github.io/boston-landway/#stress-map\">https://tlangs.github.io/boston-landway/#stress-map</a> \" by <a href=\"https://github.com/tlangs\">https://github.com/tlangs</a></p>",
+        "id": 529713498,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753046463
+    },
+    {
+        "content": "<p>Not too long ago I got a bike mount at REI (right before the previous meetup we had at Time Out).</p>\n<p>I just let Organic Maps guide me from Medford to Chinatown and I thought I don't think I could have asked for a better route! Dedicated lanes most of the way I think. I wonder if Brookline isn't mapped so well? If you're saying you're not as impressed with the routing there.</p>",
+        "id": 543189589,
+        "sender_full_name": "Dan",
+        "timestamp": 1759694512
+    },
+    {
+        "content": "<p>Huh. I've never used Organic Maps for directions but I'll have to give it a try.</p>",
+        "id": 543194270,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1759700034
+    },
+    {
+        "content": "<p>Do you have a different app or do you just not do nav on bicycle? It's a new experience for me and it's kind of a trip.</p>",
+        "id": 543374222,
+        "sender_full_name": "Dan",
+        "timestamp": 1759772102
+    },
+    {
+        "content": "<p>I don't do nav on a bike. Maybe I should try it. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 543414681,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1759787940
+    }
+]

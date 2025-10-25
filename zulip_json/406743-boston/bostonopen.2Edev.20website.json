@@ -1,0 +1,158 @@
+[
+    {
+        "content": "<p>Hi all, great to be here! I would like to contribute to the <a href=\"https://bostonopen.github.io\">https://bostonopen.github.io</a> website - how do I get started?</p>",
+        "id": 478831181,
+        "sender_full_name": "Sooraj Sathyanarayanan",
+        "timestamp": 1729824150
+    },
+    {
+        "content": "<p><a href=\"#narrow/channel/406743-boston/topic/bostonopen.2Edev.20website/near/478831181\">A message</a> was moved here from <a class=\"stream-topic\" data-stream-id=\"393559\" href=\"/#narrow/channel/393559-general/topic/backlog\">#general &gt; backlog</a> by <span class=\"user-mention silent\" data-user-id=\"627035\">Gabor Szabo</span>.</p>",
+        "id": 479195315,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1730089786
+    },
+    {
+        "content": "<p>Hi! First, <a href=\"http://bostonopen.github.io\">bostonopen.github.io</a> redirects to <a href=\"http://bostonopen.dev\">bostonopen.dev</a> so they are equivalent. We usually call it <a href=\"http://bostonopen.dev\">bostonopen.dev</a></p>",
+        "id": 479247935,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1730113178
+    },
+    {
+        "content": "<p>There's a button a the top that says \"view on GitHub\". If you click it, you'll be taken to <a href=\"https://github.com/bostonopen/bostonopen.github.io\">https://github.com/bostonopen/bostonopen.github.io</a> where you are very welcome to create a pull request.</p>",
+        "id": 479248078,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1730113211
+    },
+    {
+        "content": "<p>Hi all, I made our GitHub pretty <span aria-label=\"star struck\" class=\"emoji emoji-1f929\" role=\"img\" title=\"star struck\">:star_struck:</span></p>\n<p><a href=\"https://github.com/bostonopen\">https://github.com/bostonopen</a></p>",
+        "id": 484124296,
+        "sender_full_name": "Sooraj Sathyanarayanan",
+        "timestamp": 1732426196
+    },
+    {
+        "content": "<p>Thanks!</p>",
+        "id": 484150292,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732453027
+    },
+    {
+        "content": "<p>I made a couple tweaks: <a href=\"https://github.com/bostonopen/.github/commit/dca4bfbecc4bf3a45d8f89e6eec648ad406db6eb\">https://github.com/bostonopen/.github/commit/dca4bfbecc4bf3a45d8f89e6eec648ad406db6eb</a></p>",
+        "id": 484155189,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457649
+    },
+    {
+        "content": "<p>I'm wondering about \"Connect with fellow developers in the Boston area\"</p>\n<p>It works fine for us, but would it make non-developers feel a bit excluded? What other groups could we include?</p>",
+        "id": 484155229,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457727
+    },
+    {
+        "content": "<p>designers?</p>",
+        "id": 484155234,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457743
+    },
+    {
+        "content": "<p>community managers?</p>",
+        "id": 484155241,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457749
+    },
+    {
+        "content": "<p>QA?</p>",
+        "id": 484155287,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457767
+    },
+    {
+        "content": "<p>project managers?</p>",
+        "id": 484155290,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457776
+    },
+    {
+        "content": "<p>users?</p>",
+        "id": 484155315,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732457814
+    },
+    {
+        "content": "<p>I thought it’s a dev meetup <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span> - open to having anyone though</p>",
+        "id": 484162288,
+        "sender_full_name": "Sooraj Sathyanarayanan",
+        "timestamp": 1732464569
+    },
+    {
+        "content": "<p>Well, we do have \"dev\" in the name <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 484162732,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732464983
+    },
+    {
+        "content": "<p>But what if someone shows up who's like \"I love Linux! I even brought my laptop to show some cool stuff\". That's awesome. They don't have to be a developer.</p>",
+        "id": 484162765,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732465029
+    },
+    {
+        "content": "<p>I changed it to \"enthusiasts and developers\" <a href=\"https://github.com/bostonopen/.github/commit/beedfa52f3e1dd3f67d5550a1412d6b8c4cc58b7\">https://github.com/bostonopen/.github/commit/beedfa52f3e1dd3f67d5550a1412d6b8c4cc58b7</a></p>",
+        "id": 484164097,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732466323
+    },
+    {
+        "content": "<p>QR code for our website<br>\n<a href=\"/user_uploads/56571/xoKShocM7kagpuk7dKePtlpS/qrcode_bostonopen.dev.png\">qrcode_bostonopen.dev.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/xoKShocM7kagpuk7dKePtlpS/qrcode_bostonopen.dev.png\" title=\"qrcode_bostonopen.dev.png\"><img data-original-dimensions=\"450x450\" src=\"/user_uploads/thumbnail/56571/xoKShocM7kagpuk7dKePtlpS/qrcode_bostonopen.dev.png/840x560.webp\"></a></div>",
+        "id": 484200102,
+        "sender_full_name": "Sooraj Sathyanarayanan",
+        "timestamp": 1732501874
+    },
+    {
+        "content": "<p>Nice! Works fine.</p>",
+        "id": 484200835,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732502552
+    },
+    {
+        "content": "<p>Where will it go?</p>",
+        "id": 484337884,
+        "sender_full_name": "Dan",
+        "timestamp": 1732550271
+    },
+    {
+        "content": "<p>It goes to <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 484397698,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732572406
+    },
+    {
+        "content": "<p>What's the usecase for a qr code on the website for people who are already on the website?</p>",
+        "id": 484574610,
+        "sender_full_name": "Dan",
+        "timestamp": 1732646367
+    },
+    {
+        "content": "<p>Sharing with friends I guess?</p>",
+        "id": 484574628,
+        "sender_full_name": "Dan",
+        "timestamp": 1732646375
+    },
+    {
+        "content": "<p>I guess we can all put it on our phones for when we're talking up the meetup. <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 484601864,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1732657677
+    },
+    {
+        "content": "<p>Group pic definitely livens up the home page</p>",
+        "id": 489316839,
+        "sender_full_name": "Dan",
+        "timestamp": 1734375071
+    },
+    {
+        "content": "<p>I'm glad you think so! I picked the one with the best gender balance so far, I think. See <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/gender.20imbalance\">#boston &gt; gender imbalance</a></p>",
+        "id": 489350472,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1734385795
+    }
+]

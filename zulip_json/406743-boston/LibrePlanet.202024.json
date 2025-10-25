@@ -1,0 +1,692 @@
+[
+    {
+        "content": "<p><a href=\"https://libreplanet.org/2024/\">https://libreplanet.org/2024/</a></p>\n<p>Is anyone planning on submitting a talk? Is anyone going?</p>\n<p>It was in person for the first time in a while last year. Pretty small, fewer than 100 people, but it was nice.</p>",
+        "id": 393143917,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1695693142
+    },
+    {
+        "content": "<p>I unfortunately won't be in Boston then. Ugh. I had enjoyed last year and it was good meeting you there as well! Wasn't that where we met for the first time, Phil?</p>",
+        "id": 393167055,
+        "sender_full_name": "Harsh Kapadia",
+        "timestamp": 1695708187
+    },
+    {
+        "content": "<p>Yes, exactly!</p>",
+        "id": 393211592,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1695726853
+    },
+    {
+        "content": "<p>The birds of a feature page is up. We COULD add our group to the list: <a href=\"https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF\">https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF</a></p>",
+        "id": 407079708,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1702223142
+    },
+    {
+        "content": "<p>It'll be hosted at Wentworth: <a href=\"https://www.fsf.org/blogs/community/libreplanet-2024-may-4-and-5-wentworth-institute-of-technology-boston-ma\">https://www.fsf.org/blogs/community/libreplanet-2024-may-4-and-5-wentworth-institute-of-technology-boston-ma</a></p>",
+        "id": 411089941,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704319779
+    },
+    {
+        "content": "<p><a href=\"https://maps.google.com/maps?ll=42.337045,-71.096541&amp;z=16&amp;t=m&amp;hl=en&amp;gl=US&amp;mapclient=embed&amp;cid=6888402412539054946\">https://maps.google.com/maps?ll=42.337045,-71.096541&amp;z=16&amp;t=m&amp;hl=en&amp;gl=US&amp;mapclient=embed&amp;cid=6888402412539054946</a></p>",
+        "id": 411090336,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704319974
+    },
+    {
+        "content": "<p>We could maybe have our May meetup on Sunday the 5th at the normal time and place. And list the event on the BOF page.</p>",
+        "id": 411090771,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704320195
+    },
+    {
+        "content": "<p>Or we could pick a non-conflicting Sunday later in the month.</p>",
+        "id": 411090817,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704320225
+    },
+    {
+        "content": "<p>Any preference? I know this is a while out! <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 411090832,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704320238
+    },
+    {
+        "content": "<p>Oh it's in May this time. I guess the outdoor activities will be a little warmer.</p>",
+        "id": 411759298,
+        "sender_full_name": "Dan",
+        "timestamp": 1704727239
+    },
+    {
+        "content": "<p>WIT vs MIT. I bet they have a lot of fun with that one.</p>",
+        "id": 411759455,
+        "sender_full_name": "Dan",
+        "timestamp": 1704727275
+    },
+    {
+        "content": "<p>I was going to say 5PM sounds early but in March it was still light out when we headed outside for the Freedom Trail.</p>",
+        "id": 411760384,
+        "sender_full_name": "Dan",
+        "timestamp": 1704727529
+    },
+    {
+        "content": "<p>But schedule aside I think having it be an after event sounds like a great idea.</p>",
+        "id": 411760511,
+        "sender_full_name": "Dan",
+        "timestamp": 1704727564
+    },
+    {
+        "content": "<p>Not an awful train ride between the events.</p>",
+        "id": 411761021,
+        "sender_full_name": "Dan",
+        "timestamp": 1704727706
+    },
+    {
+        "content": "<p>Well, WIT is on the E line and Hamilton is on the C line. Google Maps is suggesting the 66 bus.</p>",
+        "id": 411838504,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704759096
+    },
+    {
+        "content": "<p>Even better</p>",
+        "id": 412002331,
+        "sender_full_name": "Dan",
+        "timestamp": 1704829990
+    },
+    {
+        "content": "<p>Assuming there are ticket booths nearby.</p>",
+        "id": 412002364,
+        "sender_full_name": "Dan",
+        "timestamp": 1704830006
+    },
+    {
+        "content": "<p>Hmm, no idea.</p>",
+        "id": 412020175,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1704838033
+    },
+    {
+        "content": "<p>The FSF is emailing about social activities surrounding LP</p>",
+        "id": 431209034,
+        "sender_full_name": "Dan",
+        "timestamp": 1712196628
+    },
+    {
+        "content": "<p>I've been snowed under. Just returning from Germany where I met a lot of free software folks.</p>",
+        "id": 432089251,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712622317
+    },
+    {
+        "content": "<p>I see. This: <a href=\"https://www.fsf.org/blogs/community/there-are-plenty-of-ways-to-socialize-at-libreplanet-2024-cultivating-community\">https://www.fsf.org/blogs/community/there-are-plenty-of-ways-to-socialize-at-libreplanet-2024-cultivating-community</a></p>",
+        "id": 432089348,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712622365
+    },
+    {
+        "content": "<p>Yeah</p>",
+        "id": 432611227,
+        "sender_full_name": "Dan",
+        "timestamp": 1712797242
+    },
+    {
+        "content": "<p>We should probably decide on a plan soon right? As far as the meeting.</p>",
+        "id": 432735825,
+        "sender_full_name": "Dan",
+        "timestamp": 1712850198
+    },
+    {
+        "content": "<p>Like where we want to list ourselves. I think we all wanted the meeting to coincide right?</p>",
+        "id": 432735967,
+        "sender_full_name": "Dan",
+        "timestamp": 1712850242
+    },
+    {
+        "content": "<p>I'm just worried that next IRL meeting might be too late. But maybe it's not.</p>",
+        "id": 432736157,
+        "sender_full_name": "Dan",
+        "timestamp": 1712850299
+    },
+    {
+        "content": "<p>No, you're right, we should decide soonish. What do you think? Meet twice in May or just once?</p>",
+        "id": 432805546,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712879653
+    },
+    {
+        "content": "<p>Hmm, for <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/stream/406743-boston/topic/2024-04.20meetup\">#boston &gt; 2024-04 meetup</a> we already decided on April 28. We could also meet the next Sunday, May 5th, during LibrePlanet.</p>\n<p>Or we could cancel that April 28th meetup and shift one week? Meet on May 5th instead? Skip April, basically?</p>",
+        "id": 432805824,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712879882
+    },
+    {
+        "content": "<p>According to <a href=\"https://libreplanet.org/2024/program/\">https://libreplanet.org/2024/program/</a> the conference ends on Sunday at 6pm.</p>\n<p>I guess we could sneak out early to be at Hamilton by 5pm, like usual. <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 432807414,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712880941
+    },
+    {
+        "content": "<p>Or we could, of course, head over to Hamilton later than usual, after the conference ends. Sort of an after party.</p>",
+        "id": 432807531,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1712881031
+    },
+    {
+        "content": "<p>I will be attending too :D</p>",
+        "id": 432950259,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1712943242
+    },
+    {
+        "content": "<p>I would personally vote for starting late / after party instead of leaving early.</p>",
+        "id": 432972121,
+        "sender_full_name": "Dan",
+        "timestamp": 1712951519
+    },
+    {
+        "content": "<p>As for skipping April... Hmm</p>",
+        "id": 432972196,
+        "sender_full_name": "Dan",
+        "timestamp": 1712951539
+    },
+    {
+        "content": "<p>I think I'm personally agnostic. I could go either way. I'm curious what others think.</p>",
+        "id": 432972360,
+        "sender_full_name": "Dan",
+        "timestamp": 1712951630
+    },
+    {
+        "content": "<p>Personally i would check how many people would go to just the opendev meeting and not the convention. If there are many, i would not skip April. Otherwise it would be fine to skip it</p>",
+        "id": 433004256,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1712971435
+    },
+    {
+        "content": "<p>Hamilton is so close to my house I don't mind going two weeks in a row. Dan's agnostic. I say we keep it.</p>",
+        "id": 433054141,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713020697
+    },
+    {
+        "content": "<p>For the LibrePlanet after party on May 5th (Cinco de Mayo! <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span>) at Hamilton, how about 7pm? It should be plenty of time because the <a href=\"https://libreplanet.org/2024/program/\">closing notes</a> for LibrePlanet are at 6pm and Google says it only takes 36 minutes to walk there:</p>\n<p><a href=\"/user_uploads/56571/xZZNk2nAyIp2ErRfV7k9Mj29/walk.png\">walk.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/xZZNk2nAyIp2ErRfV7k9Mj29/walk.png\" title=\"walk.png\"><img src=\"/user_uploads/56571/xZZNk2nAyIp2ErRfV7k9Mj29/walk.png\"></a></div>",
+        "id": 433054388,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713020892
+    },
+    {
+        "content": "<p>That way, people can mill about at LibrePlanet for a while and won't be in a rush to get to Hamliton.</p>",
+        "id": 433054410,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713020920
+    },
+    {
+        "content": "<p>Closing notes <em>end</em> at 6PM, so that's plenty of time.</p>",
+        "id": 433080081,
+        "sender_full_name": "Dan",
+        "timestamp": 1713043968
+    },
+    {
+        "content": "<p>Wasn't there also a bus or is that less reliable? And I wonder if people might have their nice looking shoes rather than walking friendly shoes.</p>",
+        "id": 433080133,
+        "sender_full_name": "Dan",
+        "timestamp": 1713044035
+    },
+    {
+        "content": "<p>Whoops, yes, end at 6pm, that's what I meant</p>",
+        "id": 433124654,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713091727
+    },
+    {
+        "content": "<p>Yes, there is also a bus</p>",
+        "id": 433124733,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713091832
+    },
+    {
+        "content": "<p>Ok, I went ahead and updated the website. How does this look? <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/ef19aa675b2e0823e7bc4e01d0fee8bd7b84101b\">https://github.com/bostonopen/bostonopen.github.io/commit/ef19aa675b2e0823e7bc4e01d0fee8bd7b84101b</a></p>",
+        "id": 433138478,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713104925
+    },
+    {
+        "content": "<p>Or you can see it here, of course: <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 433138520,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713104964
+    },
+    {
+        "content": "<p>If it looks ok, I figure we can update <a href=\"https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF\">https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF</a> and link to it.</p>",
+        "id": 433138537,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713104983
+    },
+    {
+        "content": "<p>Ok, I just added our event here: <a href=\"https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Sunday_Night_Meetup_with_Boston_Open_Dev\">https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Sunday_Night_Meetup_with_Boston_Open_Dev</a></p>",
+        "id": 433175864,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713138998
+    },
+    {
+        "content": "<p>Here's how it looks:</p>\n<p><a href=\"/user_uploads/56571/P8e_1GOqPIg3r3RHoaTM7dtX/Screenshot-2024-04-14-at-7.56.59-PM.png\">Screenshot-2024-04-14-at-7.56.59-PM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/P8e_1GOqPIg3r3RHoaTM7dtX/Screenshot-2024-04-14-at-7.56.59-PM.png\" title=\"Screenshot-2024-04-14-at-7.56.59-PM.png\"><img src=\"/user_uploads/56571/P8e_1GOqPIg3r3RHoaTM7dtX/Screenshot-2024-04-14-at-7.56.59-PM.png\"></a></div>",
+        "id": 433175893,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713139039
+    },
+    {
+        "content": "<p>If anything looks off, please feel free to fix it (it's a wiki) or let me know and I can.</p>",
+        "id": 433175914,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713139071
+    },
+    {
+        "content": "<p>I went ahead and announced this as our May meetup at <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/stream/406743-boston/topic/2024-05.20meetup\">#boston &gt; 2024-05 meetup</a></p>",
+        "id": 433176113,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713139241
+    },
+    {
+        "content": "<p>For the Wiki entry, I don't know why the template doesn't have a Time field but maybe you should add that. Some listed events here do. Makes it easier to find than reading the description.</p>",
+        "id": 433911821,
+        "sender_full_name": "Dan",
+        "timestamp": 1713411990
+    },
+    {
+        "content": "<p>Good idea. Added.</p>",
+        "id": 434030120,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713441596
+    },
+    {
+        "content": "<p><a href=\"https://floss.social/@bostonopen/112292886457473570\">https://floss.social/@bostonopen/112292886457473570</a></p>",
+        "id": 434111148,
+        "sender_full_name": "Dan",
+        "timestamp": 1713453525
+    },
+    {
+        "content": "<p>Nice toot!</p>",
+        "id": 434254479,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1713483010
+    },
+    {
+        "content": "<p>I just registered for LibrePlanet!</p>",
+        "id": 435795061,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714258011
+    },
+    {
+        "content": "<p>I registered a few days ago.</p>",
+        "id": 435805398,
+        "sender_full_name": "Dan",
+        "timestamp": 1714268011
+    },
+    {
+        "content": "<p>I'm going to look into making a BOF for Sandstorm as well. Just have to find a good time.</p>",
+        "id": 435805448,
+        "sender_full_name": "Dan",
+        "timestamp": 1714268054
+    },
+    {
+        "content": "<p>I just updated <a href=\"https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Sunday_Night_Meetup_with_Boston_Open_Dev\">https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Sunday_Night_Meetup_with_Boston_Open_Dev</a> to link to <a href=\"https://floss.social/@bostonopen\">https://floss.social/@bostonopen</a></p>",
+        "id": 435934206,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714357825
+    },
+    {
+        "content": "<p>I'm trying to find a time / space for my Snadstorm BOF. I'm not familiar with WIT. It doesn't look like there's a cafe nearby right?</p>",
+        "id": 436772580,
+        "sender_full_name": "Dan",
+        "timestamp": 1714682099
+    },
+    {
+        "content": "<p>That's open late anyway</p>",
+        "id": 436772589,
+        "sender_full_name": "Dan",
+        "timestamp": 1714682105
+    },
+    {
+        "content": "<p>BTW I'll likely have to head out from Hamilton at 9 to catch the last train out unless I switch travel plans.</p>",
+        "id": 436772676,
+        "sender_full_name": "Dan",
+        "timestamp": 1714682145
+    },
+    {
+        "content": "<p>For Sunday</p>",
+        "id": 436772690,
+        "sender_full_name": "Dan",
+        "timestamp": 1714682151
+    },
+    {
+        "content": "<p>Or I could just drive as usual. The timing of all of this just sucks.</p>",
+        "id": 436779179,
+        "sender_full_name": "Dan",
+        "timestamp": 1714685092
+    },
+    {
+        "content": "<p>Yeah, I'm not seeing any cafes nearby.</p>",
+        "id": 436802552,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714699939
+    },
+    {
+        "content": "<p>I wonder if they've arranged for any extra rooms at WIT.</p>",
+        "id": 436802604,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714700003
+    },
+    {
+        "content": "<p>Someone in irc suggested to go to Fenway after hours. I'll be competing with a \"walk\" event.</p>",
+        "id": 436899092,
+        "sender_full_name": "Dan",
+        "timestamp": 1714747511
+    },
+    {
+        "content": "<p>Are you guys thinking in meeting up before the event tomorrow?</p>",
+        "id": 436917696,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1714753393
+    },
+    {
+        "content": "<p>Well that would be pretty hard right? It starts at 10am or something.</p>",
+        "id": 436928118,
+        "sender_full_name": "Dan",
+        "timestamp": 1714757354
+    },
+    {
+        "content": "<p>At any rate I won't be there earlier since I'm coming from NH.</p>",
+        "id": 436928178,
+        "sender_full_name": "Dan",
+        "timestamp": 1714757386
+    },
+    {
+        "content": "<p>How early were you thinking? I need my beauty sleep. <span aria-label=\"crazy\" class=\"emoji emoji-1f61c\" role=\"img\" title=\"crazy\">:crazy:</span></p>",
+        "id": 436963515,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714772733
+    },
+    {
+        "content": "<p>The Mastodon hashtag is sadly quiet. Hopefully it'll act up tomorrow.</p>",
+        "id": 436986333,
+        "sender_full_name": "Dan",
+        "timestamp": 1714792083
+    },
+    {
+        "content": "<p>IRC as well. I wonder if the whole thing will be a flop?</p>",
+        "id": 436986386,
+        "sender_full_name": "Dan",
+        "timestamp": 1714792115
+    },
+    {
+        "content": "<p>Okay I'm just gonna drive to WIT. There is free parking. And I just realized I've still been taking inefficient route to Brookline. I should take hwy 90, which also takes me to WIT. A little slower than going thru the city but probably faster than taking 2.</p>",
+        "id": 436989258,
+        "sender_full_name": "Dan",
+        "timestamp": 1714795461
+    },
+    {
+        "content": "<p>In which case I could drive to Hamilton.</p>",
+        "id": 436989276,
+        "sender_full_name": "Dan",
+        "timestamp": 1714795495
+    },
+    {
+        "content": "<p>Couter trains are just too much hassle unless it happens to work perfectly for your events.</p>",
+        "id": 436989320,
+        "sender_full_name": "Dan",
+        "timestamp": 1714795542
+    },
+    {
+        "content": "<p>Ours is the only Sunday after party, we're well positioned.</p>",
+        "id": 437014258,
+        "sender_full_name": "Dan",
+        "timestamp": 1714822212
+    },
+    {
+        "content": "<p>My BOF for Sandstorm is gonna be tough. Saturday night is a lot of competition. I'm leaning towards Sunday lunch.</p>",
+        "id": 437014281,
+        "sender_full_name": "Dan",
+        "timestamp": 1714822243
+    },
+    {
+        "content": "<p>People may not have arrived yet tho.</p>",
+        "id": 437014326,
+        "sender_full_name": "Dan",
+        "timestamp": 1714822319
+    },
+    {
+        "content": "<p>Did you find a venue? You could just have Sandstorm people come to our Hamilton event.</p>",
+        "id": 437018544,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714826263
+    },
+    {
+        "content": "<p>Just parked. Let's talk IRL. It's a good idea...</p>",
+        "id": 437024405,
+        "sender_full_name": "Dan",
+        "timestamp": 1714831265
+    },
+    {
+        "content": "<p>Okay Sandstorm BOF will be at Milkweed tomorrow:</p>\n<p><a href=\"https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Easy_self-hosted_web_apps_with_Sandstorm_(Lunch_chat)\">https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Easy_self-hosted_web_apps_with_Sandstorm_(Lunch_chat)</a></p>\n<p>Will try to coordinate walk via the Mastodon, linked there.</p>",
+        "id": 437034132,
+        "sender_full_name": "Dan",
+        "timestamp": 1714840995
+    },
+    {
+        "content": "<p>But I'll invite them to Hamilton as well. Assuming I don't forget.</p>",
+        "id": 437034147,
+        "sender_full_name": "Dan",
+        "timestamp": 1714841012
+    },
+    {
+        "content": "<p>I'm at the members meeting but no sign of pizza or any food. <span aria-label=\"worried\" class=\"emoji emoji-1f61f\" role=\"img\" title=\"worried\">:worried:</span> </p>\n<p>Where are you two headed?</p>",
+        "id": 437036130,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714842852
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/wbb3sDwkRnf1mhHtCK1li-M0/ca04d2cd-bf5e-41da-90be-e07cbafca29b.jpg\">ca04d2cd-bf5e-41da-90be-e07cbafca29b.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/wbb3sDwkRnf1mhHtCK1li-M0/ca04d2cd-bf5e-41da-90be-e07cbafca29b.jpg\" title=\"ca04d2cd-bf5e-41da-90be-e07cbafca29b.jpg\"><img src=\"/user_uploads/56571/wbb3sDwkRnf1mhHtCK1li-M0/ca04d2cd-bf5e-41da-90be-e07cbafca29b.jpg\"></a></div>",
+        "id": 437039518,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714845211
+    },
+    {
+        "content": "<p>Ali's Roti ^^</p>",
+        "id": 437041711,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714846700
+    },
+    {
+        "content": "<p>really good!</p>",
+        "id": 437041718,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714846704
+    },
+    {
+        "content": "<p>Oops, we didn't see this. We had a bit of an adventure. We went to Isabella's but the cafe there was closed. We ended up at Campus Pizza, I think it's called. It had other grill type stuff. Was good.</p>",
+        "id": 437042510,
+        "sender_full_name": "Dan",
+        "timestamp": 1714847431
+    },
+    {
+        "content": "<p>And cheap</p>",
+        "id": 437042511,
+        "sender_full_name": "Dan",
+        "timestamp": 1714847433
+    },
+    {
+        "content": "<p>I'm back in the same room where the members meeting was. There's leftover pizza. Oh well. I had a good walk on a gorgeous day and I highly recommend Ali's Roti. <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 437042568,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714847496
+    },
+    {
+        "content": "<p>Oh man</p>",
+        "id": 437043223,
+        "sender_full_name": "Dan",
+        "timestamp": 1714848124
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/ZSZEVp9NoFnbJbvQjzkc9kv7/485289cb-e06c-4feb-a8cb-d4371591c741.jpg\">485289cb-e06c-4feb-a8cb-d4371591c741.jpg</a> Happy birthday Trisquel Linux ...</p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/ZSZEVp9NoFnbJbvQjzkc9kv7/485289cb-e06c-4feb-a8cb-d4371591c741.jpg\" title=\"485289cb-e06c-4feb-a8cb-d4371591c741.jpg\"><img src=\"/user_uploads/56571/ZSZEVp9NoFnbJbvQjzkc9kv7/485289cb-e06c-4feb-a8cb-d4371591c741.jpg\"></a></div>",
+        "id": 437043271,
+        "sender_full_name": "Dan",
+        "timestamp": 1714848163
+    },
+    {
+        "content": "<p>I think there's way more cake than people can eat. It's vegan.</p>",
+        "id": 437043284,
+        "sender_full_name": "Dan",
+        "timestamp": 1714848182
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> I'll get the juggling stuff after the next talk so we can go onto the lawn right at 18:00? And then maybe join the walk at 18:35 if we want.</p>",
+        "id": 437046675,
+        "sender_full_name": "Dan",
+        "timestamp": 1714851507
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"709685\">@Jose Lucas Cordeiro</span> Seems like the main selling point of Trisqel is that it's based on Ubuntu rather than Debian. It's closer to the most popular distro, yet free. That said... It sounds like my Lenovo's WiFi card won't even work! Need a USB dongle. Quite a concession.</p>",
+        "id": 437047820,
+        "sender_full_name": "Dan",
+        "timestamp": 1714852610
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/38iJeLT46J90idIfzrruOkum/IMG_20240504_180908803.jpg\">IMG_20240504_180908803.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/38iJeLT46J90idIfzrruOkum/IMG_20240504_180908803.jpg\" title=\"IMG_20240504_180908803.jpg\"><img src=\"/user_uploads/56571/38iJeLT46J90idIfzrruOkum/IMG_20240504_180908803.jpg\"></a></div>",
+        "id": 437055697,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714860605
+    },
+    {
+        "content": "<p><a href=\"https://mastodon.social/@ill_logic/112385932390562775\">https://mastodon.social/@ill_logic/112385932390562775</a> I boosted it with our group account</p>",
+        "id": 437066882,
+        "sender_full_name": "Dan",
+        "timestamp": 1714873305
+    },
+    {
+        "content": "<p>Congratulations! <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span> <span aria-label=\"trophy\" class=\"emoji emoji-1f3c6\" role=\"img\" title=\"trophy\">:trophy:</span> for <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span></p>",
+        "id": 437109890,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714914355
+    },
+    {
+        "content": "<p>My daughter won her race!<br>\n<a href=\"/user_uploads/56571/JYfmfeEz8uN6TbWGsD73-1N4/IMG_20240505_100413650.jpg\">IMG_20240505_100413650.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/JYfmfeEz8uN6TbWGsD73-1N4/IMG_20240505_100413650.jpg\" title=\"IMG_20240505_100413650.jpg\"><img src=\"/user_uploads/56571/JYfmfeEz8uN6TbWGsD73-1N4/IMG_20240505_100413650.jpg\"></a></div>",
+        "id": 437116077,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714917948
+    },
+    {
+        "content": "<p>Just about to pull in.</p>",
+        "id": 437124140,
+        "sender_full_name": "Dan",
+        "timestamp": 1714920230
+    },
+    {
+        "content": "<p>I'm back home from the race. Chilling with the family for now. Plotting when to return.</p>",
+        "id": 437131282,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714921945
+    },
+    {
+        "content": "<p>Unfortunately, it looks like it's going to rain when I plan to walk people from LibrePlanet to Hamilton.</p>",
+        "id": 437131385,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714921972
+    },
+    {
+        "content": "<p>Damn. Well I can drive four people if they cram in the back seat.</p>",
+        "id": 437133914,
+        "sender_full_name": "Dan",
+        "timestamp": 1714922596
+    },
+    {
+        "content": "<p>Helping with homework. The Odyssey.</p>",
+        "id": 437136888,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714923321
+    },
+    {
+        "content": "<p>And a paper on Galileo.</p>",
+        "id": 437144631,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714926913
+    },
+    {
+        "content": "<p>Oh you won't be at LP until later then?</p>",
+        "id": 437145620,
+        "sender_full_name": "Dan",
+        "timestamp": 1714927529
+    },
+    {
+        "content": "<p>Sandstorm lightning talk went decently.</p>",
+        "id": 437145636,
+        "sender_full_name": "Dan",
+        "timestamp": 1714927554
+    },
+    {
+        "content": "<p>Nice. I'm finally leaving the house. Will be there in a while.</p>",
+        "id": 437150696,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714931662
+    },
+    {
+        "content": "<p>I had to leave at lunch to solve some<br>\nIssues</p>",
+        "id": 437150707,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1714931681
+    },
+    {
+        "content": "<p>Two folks showed up at the Sandstorm BOF. I forgot to mention tonight's event to one of them. I'll run into him again.</p>",
+        "id": 437151988,
+        "sender_full_name": "Dan",
+        "timestamp": 1714932855
+    },
+    {
+        "content": "<p>The Neptune thing has some weird thing asking me to log in. Instead I went to my car for a half hour power nap <span aria-label=\"muscle\" class=\"emoji emoji-1f4aa\" role=\"img\" title=\"muscle\">:muscle:</span><span aria-label=\"sleeping\" class=\"emoji emoji-1f634\" role=\"img\" title=\"sleeping\">:sleeping:</span></p>",
+        "id": 437162267,
+        "sender_full_name": "Dan",
+        "timestamp": 1714942334
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> thanks for posting <a href=\"https://floss.social/@bostonopen/112390577241152510\">https://floss.social/@bostonopen/112390577241152510</a></p>",
+        "id": 437165234,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714945231
+    },
+    {
+        "content": "<p>We thought it would be just four or five of us who already planned on coming. Then we got seven people from LibrePlanet trickling in.</p>",
+        "id": 437173173,
+        "sender_full_name": "Dan",
+        "timestamp": 1714953947
+    },
+    {
+        "content": "<p>We forgot the golden rule: people don't come on time</p>",
+        "id": 437173344,
+        "sender_full_name": "Dan",
+        "timestamp": 1714954135
+    },
+    {
+        "content": "<p><a href=\"https://floss.social/@bostonopen/112391629552015967\">https://floss.social/@bostonopen/112391629552015967</a></p>",
+        "id": 437178940,
+        "sender_full_name": "Dan",
+        "timestamp": 1714960209
+    },
+    {
+        "content": "<p>Parked at home at the tail end of 11:59</p>",
+        "id": 437188425,
+        "sender_full_name": "Dan",
+        "timestamp": 1714968042
+    },
+    {
+        "content": "<p>This guy wasn't there right? <a href=\"https://mastodon.social/@jxself\">https://mastodon.social/@jxself</a> Dave was asking on Mastodon.</p>",
+        "id": 437188855,
+        "sender_full_name": "Dan",
+        "timestamp": 1714968258
+    },
+    {
+        "content": "<p>I don't believe so, no</p>",
+        "id": 437234795,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1714991272
+    }
+]

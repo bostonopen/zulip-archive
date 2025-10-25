@@ -1,0 +1,38 @@
+[
+    {
+        "content": "<p>There's a great new meetup at <a href=\"https://www.meetup.com/boston-web-dev-class/\">https://www.meetup.com/boston-web-dev-class/</a> that I checked out this week. Highly recommended!</p>",
+        "id": 509815991,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1743639467
+    },
+    {
+        "content": "<p>Philip, thank you!<br>\nEdited: sorry I'm still learning zulip. Please delete this message if I don't figure out how to move it to the thread.</p>",
+        "id": 509824338,
+        "sender_full_name": "Maria Dolgareva",
+        "timestamp": 1743644476
+    },
+    {
+        "content": "<p>Looks like you got it! Welcome!</p>",
+        "id": 509827405,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1743646223
+    },
+    {
+        "content": "<p>I went to this again after work today. <span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> since you expressed interest I told <span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span> your story. I hope you can make it sometime!</p>",
+        "id": 515412971,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1746053335
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> (and others) if you're around tomorrow and like board games, please see this: <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527197648\">#boston &gt; 2025-07 meetup @ 💬</a> <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 527220752,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1751653013
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Boston.20Web.20Dev.20Learning.20Group/near/527220752\">said</a>:</p>\n<blockquote>\n<p><span class=\"user-mention silent\" data-user-id=\"815615\">Dave Hanft</span> (and others) if you're around tomorrow and like board games, please see this: <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527197648\">#boston &gt; 2025-07 meetup @ 💬</a> <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>\n</blockquote>\n<p>I’m out of town. Will make it to one of these soon though!</p>",
+        "id": 527759243,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1752002543
+    }
+]

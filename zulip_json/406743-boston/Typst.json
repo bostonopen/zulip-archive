@@ -1,0 +1,32 @@
+[
+    {
+        "content": "<p>Here's a potential successor to LaTeX written in Rust that is actually getting some traction: <a href=\"https://typst.app/\">https://typst.app/</a></p>",
+        "id": 472248122,
+        "sender_full_name": "Andrea",
+        "timestamp": 1727101647
+    },
+    {
+        "content": "<p>The syntax to write a document simpler than LaTeX and is kind of a mix between LaTeX and Markdown: <a href=\"https://typst.app/docs/tutorial/writing-in-typst/\">https://typst.app/docs/tutorial/writing-in-typst/</a></p>",
+        "id": 472248664,
+        "sender_full_name": "Andrea",
+        "timestamp": 1727101785
+    },
+    {
+        "content": "<p>It's still young (there's not even a v1.0 yet) but they already have quite many packages: <a href=\"https://typst.app/universe/search/?kind=packages\">https://typst.app/universe/search/?kind=packages</a></p>",
+        "id": 472249862,
+        "sender_full_name": "Andrea",
+        "timestamp": 1727102057
+    },
+    {
+        "content": "<p>Looks useful. Markdown gets annoying as well for edge cases. LaTeX is too confusing to learn.</p>",
+        "id": 472259086,
+        "sender_full_name": "Dan",
+        "timestamp": 1727104182
+    },
+    {
+        "content": "<p>Way more readable than LaTeX.</p>",
+        "id": 472342620,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1727130157
+    }
+]

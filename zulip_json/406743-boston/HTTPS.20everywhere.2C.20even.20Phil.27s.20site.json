@@ -1,0 +1,38 @@
+[
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> In case you don't want to switch to Caddy for SSL, apparently nginx is making it easier: <a href=\"https://news.ycombinator.com/item?id=44889941\">https://news.ycombinator.com/item?id=44889941</a></p>",
+        "id": 534268095,
+        "sender_full_name": "Dan",
+        "timestamp": 1755103635
+    },
+    {
+        "content": "<p>But man, Caddy still has it beat so badly.</p>\n<p>From the nginx blog post:</p>\n<div class=\"codehilite\"><pre><span></span><code>acme_issuer letsencrypt {\n    uri         https://acme-v02.api.letsencrypt.org/directory;\n    # contact   admin@example.test;\n    state_path  /var/cache/nginx/acme-letsencrypt;\n    accept_terms_of_service;\n}\n</code></pre></div>\n<div class=\"codehilite\"><pre><span></span><code>server {\n    # listener on port 80 is required to process ACME HTTP-01 challenges\n    listen 80;\n    location / {\n        #Serve a basic 404 response while listening for challenges\n        return 404;\n    }\n}\n</code></pre></div>\n<div class=\"codehilite\"><pre><span></span><code>    acme_certificate letsencrypt;\n</code></pre></div>\n<p>Here's what I have for Caddy:</p>\n<div class=\"codehilite\"><pre><span></span><code>   tls &lt;my email address&gt;\n</code></pre></div>\n<p>For each domain.</p>",
+        "id": 534271446,
+        "sender_full_name": "Dan",
+        "timestamp": 1755105112
+    },
+    {
+        "content": "<p>And afaik it's optional</p>",
+        "id": 534271752,
+        "sender_full_name": "Dan",
+        "timestamp": 1755105255
+    },
+    {
+        "content": "<p>I'm sure there's a good reason for all that Ngnix does but I'm not the target audience for any of it.</p>",
+        "id": 534271885,
+        "sender_full_name": "Dan",
+        "timestamp": 1755105318
+    },
+    {
+        "content": "<p>4 messages were moved here from <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Personal.20Websites/with/534074752\">#boston &gt; Personal Websites</a> by <span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span>.</p>",
+        "id": 534326645,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1755134259
+    },
+    {
+        "content": "<p>Yeah, I should definitely set up HTTPS some day.</p>",
+        "id": 534326699,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755134297
+    }
+]
