@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>I'm a believer in data liberation. Generally, I don't want to put my content into any system that doesn't let me get it out. Thankfully, Zulip lets us get our data out.</p>\n<p>I just set up an archive of <a class=\"stream\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston\">#boston</a> at <a href=\"https://bostonopen.dev/zulip-archive/\">https://bostonopen.dev/zulip-archive/</a></p>\n<p>It's hosted on GitHub Pages so the data is also here: <a href=\"https://github.com/bostonopen/zulip-archive\">https://github.com/bostonopen/zulip-archive</a> . See the workflow for how it works. I pretty much just followed the instructions at <a href=\"https://github.com/zulip/zulip-archive\">https://github.com/zulip/zulip-archive</a></p>",
+        "id": 546562573,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1761173287
+    },
+    {
+        "content": "<p>That's pretty cool</p>",
+        "id": 546564854,
+        "sender_full_name": "Dan",
+        "timestamp": 1761174662
+    },
+    {
+        "content": "<p>I'm glad you approve. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 546565321,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1761175040
+    },
+    {
+        "content": "<p>I did have to change one security-related thing. <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> might yell at me. <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 546565384,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1761175080
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Zulip.20data.20liberation/near/546565384\">said</a>:</p>\n<blockquote>\n<p>I did have to change one security-related thing. <span class=\"user-mention silent\" data-user-id=\"771290\">Sooraj Sathyanarayanan</span> might yell at me. <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>\n</blockquote>\n<p>Definitely would! <span aria-label=\"grinning face with smiling eyes\" class=\"emoji emoji-1f601\" role=\"img\" title=\"grinning face with smiling eyes\">:grinning_face_with_smiling_eyes:</span></p>",
+        "id": 546568469,
+        "sender_full_name": "Sooraj Sathyanarayanan",
+        "timestamp": 1761177212
+    },
+    {
+        "content": "<p>Ha. <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> should I confess in a DM?</p>",
+        "id": 546568516,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1761177244
+    },
+    {
+        "content": "<p>done!</p>",
+        "id": 546568688,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1761177369
+    }
+]

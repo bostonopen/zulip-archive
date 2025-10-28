@@ -1,0 +1,170 @@
+[
+    {
+        "content": "<p>When should we meet in March?</p>",
+        "id": 423524763,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1709003544
+    },
+    {
+        "content": "<p>Maybe 3/24 (if we're keeping with roughly monthly)?</p>",
+        "id": 424772704,
+        "sender_full_name": "Pete",
+        "timestamp": 1709598593
+    },
+    {
+        "content": "<p>Sure! Works for me.</p>",
+        "id": 425003151,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1709698419
+    },
+    {
+        "content": "<p>I just updated <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> with that date, Sunday the 24th.</p>",
+        "id": 425786375,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1710088523
+    },
+    {
+        "content": "<p>Hamilton on St Patrick's Day</p>\n<p><a href=\"/user_uploads/56571/GXgeyLku5OB24xvGK42e7Ln_/2f09b759-e587-4ba5-8db6-739590011357.jpg\">2f09b759-e587-4ba5-8db6-739590011357.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/GXgeyLku5OB24xvGK42e7Ln_/2f09b759-e587-4ba5-8db6-739590011357.jpg\" title=\"2f09b759-e587-4ba5-8db6-739590011357.jpg\"><img src=\"/user_uploads/56571/GXgeyLku5OB24xvGK42e7Ln_/2f09b759-e587-4ba5-8db6-739590011357.jpg\"></a></div>",
+        "id": 427226288,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1710710795
+    },
+    {
+        "content": "<p>Not a huge crowd visible here</p>",
+        "id": 427226779,
+        "sender_full_name": "Dan",
+        "timestamp": 1710710917
+    },
+    {
+        "content": "<p>I posted on Mastodon. A couple reposts so far.</p>",
+        "id": 427260094,
+        "sender_full_name": "Dan",
+        "timestamp": 1710719734
+    },
+    {
+        "content": "<p>Also on Saturday I'm going to something called Coffee and Code in Boston. I think there will be an announcement segment. If there is I'll mention this meeting, maybe we can snag a couple of those.</p>",
+        "id": 427260239,
+        "sender_full_name": "Dan",
+        "timestamp": 1710719777
+    },
+    {
+        "content": "<p>Nice. They did have an announcement segment some months ago and I mentioned our lil' meetup.</p>",
+        "id": 427456720,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1710763907
+    },
+    {
+        "content": "<p>Oh okay. Do you go often.</p>",
+        "id": 427477513,
+        "sender_full_name": "Dan",
+        "timestamp": 1710767539
+    },
+    {
+        "content": "<p>?</p>",
+        "id": 427477520,
+        "sender_full_name": "Dan",
+        "timestamp": 1710767540
+    },
+    {
+        "content": "<p>Hmm. I think I went the one time. It was summer. I went kayaking afterwards (the put in is nearby).</p>",
+        "id": 427530764,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1710780602
+    },
+    {
+        "content": "<p>I just sent the SMS reminders before it gets too late. On to email reminders now.</p>",
+        "id": 428243014,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711069304
+    },
+    {
+        "content": "<p>Phew. Done.</p>",
+        "id": 428245207,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711070773
+    },
+    {
+        "content": "<p>4 or 5 people at Coffee and Code have come up to ask me about the meetup! Mostly student types interested in learning.</p>",
+        "id": 429100065,
+        "sender_full_name": "Dan",
+        "timestamp": 1711215801
+    },
+    {
+        "content": "<p>One guy José plans to show, most others want to come in the future.</p>",
+        "id": 429100090,
+        "sender_full_name": "Dan",
+        "timestamp": 1711215833
+    },
+    {
+        "content": "<p>Most can't make it tomorrow</p>",
+        "id": 429100094,
+        "sender_full_name": "Dan",
+        "timestamp": 1711215839
+    },
+    {
+        "content": "<p>Maybe it would be worth putting on the website that newcomers are welcome. A lot of people seem worried that they'd be out of place.</p>",
+        "id": 429100581,
+        "sender_full_name": "Dan",
+        "timestamp": 1711216181
+    },
+    {
+        "content": "<p>Closer to 7 people now, wow. Hopefully we don't get overwhelmed.</p>",
+        "id": 429107271,
+        "sender_full_name": "Dan",
+        "timestamp": 1711221421
+    },
+    {
+        "content": "<p>Also a guy who wants to help on my project. A guy who is generally interested in contributing to open source.</p>",
+        "id": 429107294,
+        "sender_full_name": "Dan",
+        "timestamp": 1711221454
+    },
+    {
+        "content": "<p>Same guy actually had seen our website before. He may come tomorrow.</p>",
+        "id": 429107389,
+        "sender_full_name": "Dan",
+        "timestamp": 1711221499
+    },
+    {
+        "content": "<p>Oh! Yes! We should definitely make sure we communicate that newcomers are welcome. Do you want to make a pull request? Or just fix it?</p>",
+        "id": 429116008,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711228289
+    },
+    {
+        "content": "<p>I'll see if I can do it.</p>",
+        "id": 429241870,
+        "sender_full_name": "Dan",
+        "timestamp": 1711310377
+    },
+    {
+        "content": "<p>Oh I wasn't precise. By newcomers I meant people who are new to FOSS and want to learn more.</p>",
+        "id": 429242949,
+        "sender_full_name": "Dan",
+        "timestamp": 1711311016
+    },
+    {
+        "content": "<p>Okay lmk</p>",
+        "id": 429244865,
+        "sender_full_name": "Dan",
+        "timestamp": 1711312538
+    },
+    {
+        "content": "<p>Thanks for <a href=\"https://github.com/bostonopen/bostonopen.github.io/pull/11\">https://github.com/bostonopen/bostonopen.github.io/pull/11</a> !</p>",
+        "id": 429247595,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711314104
+    },
+    {
+        "content": "<p>Merged!</p>",
+        "id": 429247598,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711314111
+    },
+    {
+        "content": "<p>Great seeing everyone! 7 people came. I <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/6c003a387b6710e3350c74af051888259c17c278\">updated</a> the website and started a thread for next month's meetup: <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/stream/406743-boston/topic/2024-04.20meetup\">#boston &gt; 2024-04 meetup</a></p>",
+        "id": 429363718,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1711367005
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "content": "<p>When and where should we meet for September?</p>",
+        "id": 533688794,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1754875524
+    },
+    {
+        "content": "<p>Would you be okay with the <a href=\"#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/with/531875488\">Bow Market Afternoon Hack</a> this month?</p>",
+        "id": 535186327,
+        "sender_full_name": "Dan",
+        "timestamp": 1755629648
+    },
+    {
+        "content": "<p>I'm gonna throw out some ideas in that topic.</p>",
+        "id": 535186423,
+        "sender_full_name": "Dan",
+        "timestamp": 1755629705
+    },
+    {
+        "content": "<p>Sure!</p>",
+        "id": 535210368,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755641659
+    },
+    {
+        "content": "<p>How do others feel about the idea?</p>",
+        "id": 535214231,
+        "sender_full_name": "Dan",
+        "timestamp": 1755644792
+    },
+    {
+        "content": "<p>Who prefers a normal meetup?</p>",
+        "id": 535600644,
+        "sender_full_name": "Dan",
+        "timestamp": 1755826105
+    },
+    {
+        "content": "<p>Okay let's go for Bow Market Afternoon Hack.</p>",
+        "id": 536031796,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130464
+    },
+    {
+        "content": "<p>Sept 7</p>",
+        "id": 536031966,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130508
+    },
+    {
+        "content": "<p>Sept 14</p>",
+        "id": 536031983,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130513
+    },
+    {
+        "content": "<p>Sept 21</p>",
+        "id": 536032010,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130519
+    },
+    {
+        "content": "<p>Sept 28</p>",
+        "id": 536032036,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130524
+    },
+    {
+        "content": "<p>We have one particularly interested party on Signal who can't do 14 so I'm leaning against that.</p>",
+        "id": 536032159,
+        "sender_full_name": "Dan",
+        "timestamp": 1756130554
+    },
+    {
+        "content": "<p>Oh and time. Let's say 2PM? Negotiable if people have particular requests.</p>",
+        "id": 536090377,
+        "sender_full_name": "Dan",
+        "timestamp": 1756149153
+    },
+    {
+        "content": "<p>Sure, 2pm is fine.</p>",
+        "id": 536130472,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756167694
+    },
+    {
+        "content": "<p>Also, I just updated <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> to say we're meeting at Bow Market. Should be fun!</p>",
+        "id": 536130495,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756167712
+    },
+    {
+        "content": "<p>21st is winning rn. I'll call it within a day or two.</p>",
+        "id": 536626024,
+        "sender_full_name": "Dan",
+        "timestamp": 1756393081
+    },
+    {
+        "content": "<p>Okay let's go with 21st!</p>",
+        "id": 536833972,
+        "sender_full_name": "Dan",
+        "timestamp": 1756488624
+    },
+    {
+        "content": "<p>Sounds good! I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/a1b6957a04c5eb503e428e4d2cfec24fa6bbd101\">updated</a> the <a href=\"https://bostonopen.dev\">website</a>. Please feel free to make further edits.</p>",
+        "id": 536835369,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756489254
+    },
+    {
+        "content": "<p>The 21st is coming right up! Let's ping everyone.</p>\n<p>Please give a <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span> if you're at least thinking about coming! <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> has the details, but here they are:</p>\n<p>In September we’re meeting at <a href=\"https://www.bowmarketsomerville.com/\">Bow Market</a> for some afternoon hacking! Optionally, you can RSVP in the <a href=\"#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794\">discussion thread</a>. There are several options for a bite, and there’s coffee and beer at Remnant Brewing!</p>\n<p>Bring a laptop. All you need are git, ssh, and a browser. We’ll be working on “a better Porchfest map”. See the <a href=\"#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/539447211\">discussion thread</a> for details on the project. (Or you can just come and hang out!)</p>\n<ul>\n<li>When: Sunday, Sept. 21th, 2025 at 2pm</li>\n<li>Where: <a href=\"https://www.bowmarketsomerville.com/\">Bow Market</a>, 1 Bow Market Way, Somerville, MA 02143 (<a href=\"https://maps.app.goo.gl/7PMEXgehNYjeXVnx9\">Google Maps</a>) (<a href=\"https://www.openstreetmap.org/way/1330341631\">OpenStreetMap</a>)</li>\n</ul>\n<p><span class=\"user-mention\" data-user-id=\"716691\">@Andrea</span> <span class=\"user-mention\" data-user-id=\"743285\">@Autolux</span> <span class=\"user-mention\" data-user-id=\"929373\">@CMD</span> <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> <span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> <span class=\"user-mention\" data-user-id=\"777593\">@Harry Pray IV</span> <span class=\"user-mention\" data-user-id=\"666599\">@Ista Zahn</span> <span class=\"user-mention\" data-user-id=\"666601\">@Jason Key</span> <span class=\"user-mention\" data-user-id=\"709685\">@Jose Lucas Cordeiro</span> <span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span>  <span class=\"user-mention\" data-user-id=\"885181\">@Michael</span> <span class=\"user-mention\" data-user-id=\"733261\">@Milan Kupcevic</span> <span class=\"user-mention\" data-user-id=\"901693\">@Nathan Adams</span> <span class=\"user-mention\" data-user-id=\"786998\">@Ned Batchelder</span> <span class=\"user-mention\" data-user-id=\"759360\">@Parthiv</span> <span class=\"user-mention\" data-user-id=\"659178\">@Pete</span> <span class=\"user-mention\" data-user-id=\"666290\">@Sai Dutt</span> <span class=\"user-mention\" data-user-id=\"941338\">@Shane Curcuru</span> <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> <span class=\"user-mention\" data-user-id=\"659217\">@Stone Chen</span> <span class=\"user-mention\" data-user-id=\"775680\">@Tanmay Sharma</span> <span class=\"user-mention\" data-user-id=\"928856\">@Tekktrik</span> <span class=\"user-mention\" data-user-id=\"712386\">@Yamil Suarez</span> <span class=\"user-mention\" data-user-id=\"661875\">@Xiaokang Fu</span> <span class=\"user-mention\" data-user-id=\"765848\">@Zachary Liebl</span></p>",
+        "id": 540208360,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758194713
+    },
+    {
+        "content": "<p>Bow Market is a zoo today, with the Marshmallow Fluff festival and all</p>\n<p><a href=\"/user_uploads/56571/2kOyHNXh_3vrKnN9F4Z8CLX2/IMG_20250920_160735970_HDR.jpg\">IMG_20250920_160735970_HDR.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/2kOyHNXh_3vrKnN9F4Z8CLX2/IMG_20250920_160735970_HDR.jpg\" title=\"IMG_20250920_160735970_HDR.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/2kOyHNXh_3vrKnN9F4Z8CLX2/IMG_20250920_160735970_HDR.jpg/840x560.webp\"></a></div>",
+        "id": 540609271,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758399003
+    },
+    {
+        "content": "<p>I was just told about this the other day. Thankfully it did not rain yesterday, today was supposed to be the raid date!</p>",
+        "id": 540655460,
+        "sender_full_name": "Dan",
+        "timestamp": 1758458615
+    },
+    {
+        "content": "<p>You went to the fest?</p>",
+        "id": 540655477,
+        "sender_full_name": "Dan",
+        "timestamp": 1758458625
+    },
+    {
+        "content": "<p>On purpose?</p>",
+        "id": 540655483,
+        "sender_full_name": "Dan",
+        "timestamp": 1758458629
+    },
+    {
+        "content": "<p>Ha, yes, my daughter and I walked around a bit. Here's the website: <a href=\"https://www.flufffestival.com\">https://www.flufffestival.com</a></p>\n<p>It's funny, we also saw a sign for the rodeo but there's only so much you can do! <a href=\"https://www.bostonrodeo.com\">https://www.bostonrodeo.com</a></p>\n<p>The main thing we went to yesterday was cliff diving: <a href=\"https://www.icaboston.org/events/red-bull-cliff-diving-world-series/\">https://www.icaboston.org/events/red-bull-cliff-diving-world-series/</a></p>",
+        "id": 540656022,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758459186
+    },
+    {
+        "content": "<p>Anyway, yes, good thing that fluff rain date isn't happening!</p>",
+        "id": 540656047,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758459210
+    },
+    {
+        "content": "<p>See this is why I was relieved to leave the city once upon a time. Too many things to do.</p>",
+        "id": 540667301,
+        "sender_full_name": "Dan",
+        "timestamp": 1758471052
+    },
+    {
+        "content": "<p>Heading out! See you soon! <span aria-label=\"bike\" class=\"emoji emoji-1f6b2\" role=\"img\" title=\"bike\">:bike:</span></p>",
+        "id": 540671066,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758474916
+    },
+    {
+        "content": "<p>We're just inside Remnant. Come inside and turn left.</p>",
+        "id": 540673249,
+        "sender_full_name": "Dan",
+        "timestamp": 1758476969
+    },
+    {
+        "content": "<p>Pics!</p>\n<p><a href=\"/user_uploads/56571/O5fBszqt06GvlJK-LpjXHg-S/IMG_20250921_150245834_HDR.jpg\">IMG_20250921_150245834_HDR.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/O5fBszqt06GvlJK-LpjXHg-S/IMG_20250921_150245834_HDR.jpg\" title=\"IMG_20250921_150245834_HDR.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/O5fBszqt06GvlJK-LpjXHg-S/IMG_20250921_150245834_HDR.jpg/840x560.webp\"></a></div>",
+        "id": 540677611,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758481520
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/S1Ha5Q1k9IO3QS9aEe9UvWmm/IMG_20250921_150233690_HDR.jpg\">IMG_20250921_150233690_HDR.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/S1Ha5Q1k9IO3QS9aEe9UvWmm/IMG_20250921_150233690_HDR.jpg\" title=\"IMG_20250921_150233690_HDR.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/S1Ha5Q1k9IO3QS9aEe9UvWmm/IMG_20250921_150233690_HDR.jpg/840x560.webp\"></a></div>",
+        "id": 540687910,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758492405
+    },
+    {
+        "content": "<p>What a great event. Thanks for organizing, <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>!</p>",
+        "id": 540689989,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758495548
+    },
+    {
+        "content": "<p>I got doored biking home but I'm ok. <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 540690012,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758495566
+    },
+    {
+        "content": "<p>Holy crap</p>",
+        "id": 540697982,
+        "sender_full_name": "Dan",
+        "timestamp": 1758505356
+    },
+    {
+        "content": "<p>Yeah. I landed in the middle of the street but nothing was coming, thankfully. My arm hurts where I got kind of stabbed by the door but it could be worse.</p>",
+        "id": 540778726,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758541521
+    },
+    {
+        "content": "<p>You cool with me adding it as a repo to the bostonopen account? I may have the ability already.</p>",
+        "id": 540812846,
+        "sender_full_name": "Dan",
+        "timestamp": 1758549736
+    },
+    {
+        "content": "<p>Yep, you're an owner. Go for it!</p>",
+        "id": 540895120,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758575207
+    },
+    {
+        "content": "<p>Hope youre doing ok, <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span>  and thanks for organizing the recent event <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>!</p>\n<p>Can you share the git repo info?  Would be great to see the latest!</p>",
+        "id": 541338841,
+        "sender_full_name": "Sid Govindan",
+        "timestamp": 1758752576
+    },
+    {
+        "content": "<p>Yeah, I'm fine. At work today I asked a guy if he wants to see my new tattoo and rolled up my sleeve to show off my bruise. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 541339178,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758752793
+    },
+    {
+        "content": "<p>Also, if you switch to master and pull the latest, you'll see your contribution, which was great.</p>",
+        "id": 541339227,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758752823
+    },
+    {
+        "content": "<p>And also you can look at the site, it's still there on master. <a href=\"http://66.228.40.225/master/\">http://66.228.40.225/master/</a> The light items are venues that don't have any more shows for the day. (It makes me a little nervous, it looks like it would be confusing).</p>",
+        "id": 541339448,
+        "sender_full_name": "Dan",
+        "timestamp": 1758752984
+    },
+    {
+        "content": "<p>I want to try playing with the colors.</p>",
+        "id": 541339507,
+        "sender_full_name": "Dan",
+        "timestamp": 1758753018
+    },
+    {
+        "content": "<p>We should probably switch from master to main. (Not that I've pushed for this yet at my day job.)</p>",
+        "id": 541339635,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758753092
+    },
+    {
+        "content": "<p>I'm not a fan of that myself.</p>",
+        "id": 541339731,
+        "sender_full_name": "Dan",
+        "timestamp": 1758753159
+    },
+    {
+        "content": "<p>Very cool. Thanks for sharing</p>",
+        "id": 541339740,
+        "sender_full_name": "Sid Govindan",
+        "timestamp": 1758753165
+    },
+    {
+        "content": "<p>What? Switching to main? Seems harmless since we're just starting. And it's the default when you init a repo in recent releases of git. Or if you create a new repo on GitHub.</p>",
+        "id": 541339993,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758753271
+    },
+    {
+        "content": "<p>Yeah I think the switch was more about an ideological pressure campaign than \"master\" actually upsetting anyone.</p>",
+        "id": 541341056,
+        "sender_full_name": "Dan",
+        "timestamp": 1758753955
+    },
+    {
+        "content": "<p>Yeah, probably. But who knows. Maybe someone was upset. <span aria-label=\"shrug\" class=\"emoji emoji-1f937\" role=\"img\" title=\"shrug\">:shrug:</span></p>",
+        "id": 541341228,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758754089
+    },
+    {
+        "content": "<p>Anyway, with that rant aside, I'll happily go by the group's standard if it's on the group Github account.</p>",
+        "id": 541341502,
+        "sender_full_name": "Dan",
+        "timestamp": 1758754290
+    },
+    {
+        "content": "<p>Our <a href=\"https://github.com/bostonopen/.github\">other</a> <a href=\"https://github.com/bostonopen/bostonopen.github.io\">three</a> <a href=\"https://github.com/bostonopen/people\">repos</a> all use main so thanks.</p>",
+        "id": 541345119,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758757149
+    },
+    {
+        "content": "<p>I'm pretty excited about having our first project! We'll have to post a note to <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Boston.20Open.20Dev.20Project/with/520323989\">#boston &gt; Boston Open Dev Project</a> once it's up.</p>",
+        "id": 541345243,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758757239
+    },
+    {
+        "content": "<p>Or we could call the default branch \"develop\" and use \"main\" for releases, <a href=\"https://nvie.com/posts/a-successful-git-branching-model/\">git-flow</a> style. That's what we do at work.</p>",
+        "id": 541648013,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758887157
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> posted a nice write up about our afternoon hack: <a href=\"https://www.linkedin.com/posts/danielkrol_last-sunday-i-organized-a-small-afternoon-activity-7378245073555050496-m4lF\">https://www.linkedin.com/posts/danielkrol_last-sunday-i-organized-a-small-afternoon-activity-7378245073555050496-m4lF</a></p>",
+        "id": 542710259,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1759401987
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "content": "<p>Ha, thanks <span class=\"user-mention\" data-user-id=\"627035\">@Gabor Szabo</span> for creating this <a class=\"stream\" data-stream-id=\"406743\" href=\"/#narrow/stream/406743-boston\">#boston</a> stream for us!</p>\n<p>I already gave an intro over at <a class=\"stream-topic\" data-stream-id=\"393737\" href=\"/#narrow/stream/393737-new-users/topic/Philip.20Durbin\">#new users &gt; Philip Durbin</a> but I run a little, informal, open source meetup close enough to Boston (in Brookline) that I think it counts. Our website is <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> and our next meetup is on Oct. 15. <span class=\"user-mention\" data-user-id=\"653420\">@Harsh Kapadia</span> and I will be there. It'll be fun! <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span></p>",
+        "id": 393143460,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1695692875
+    },
+    {
+        "content": "<p>If I am not mistaken you don't use the Meetup platform, do you? Interesting that you use the name though.</p>",
+        "id": 393155096,
+        "sender_full_name": "Gabor Szabo",
+        "timestamp": 1695699689
+    },
+    {
+        "content": "<p>I checked and the term \"meetup\" has been used in the US since 1900. <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 393211309,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1695726736
+    },
+    {
+        "content": "<p>No, we don't use the Meetup platform because of the cost (a little under $20 per month) but we do have an open discussion about it: <a href=\"https://github.com/orgs/bostonopen/discussions/3\">https://github.com/orgs/bostonopen/discussions/3</a></p>",
+        "id": 393211428,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1695726793
+    }
+]

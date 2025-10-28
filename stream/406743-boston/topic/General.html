@@ -1,0 +1,159 @@
+<html>
+<head><meta charset="utf-8"><title>General · boston · Zulip Chat Archive</title></head>
+<h2>Stream: <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/index.html">boston</a></h2>
+<h3>Topic: <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html">General</a></h3>
+
+<hr>
+
+<base href="https://osdc.zulipchat.com">
+
+<head><link href="http://bostonopen.dev/zulip-archive/style.css" rel="stylesheet"></head>
+
+<a name="437872573"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/437872573" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Jose Lucas Cordeiro <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#437872573">(May 09 2024 at 19:18)</a>:</h4>
+<p><a href="https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you?utm_source=tldrnewsletter">https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you?utm_source=tldrnewsletter</a></p>
+<p>A interesting thread I found about how open source can help one’s career.</p>
+
+
+
+<a name="440327067"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/440327067" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#440327067">(May 23 2024 at 13:48)</a>:</h4>
+<p>Took an absolutely enormous amount of time but finally landed a relatively large change into ffmpeg!<br>
+<a href="https://github.com/FFmpeg/FFmpeg/commit/0e52a4e4347550ca1ccc1bf896b52824ed259158">https://github.com/FFmpeg/FFmpeg/commit/0e52a4e4347550ca1ccc1bf896b52824ed259158</a></p>
+
+
+
+<a name="440419127"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/440419127" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#440419127">(May 24 2024 at 00:35)</a>:</h4>
+<p>This is like a codec or a variant of a codec? Does it only work on Intel or why are such things in assembly?</p>
+
+
+
+<a name="440419317"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/440419317" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#440419317">(May 24 2024 at 00:38)</a>:</h4>
+<p>I guess for video they want to optimize it. So perhaps you implemented this for one arch and others might implement it for others?</p>
+
+
+
+<a name="440503034"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/440503034" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#440503034">(May 24 2024 at 12:51)</a>:</h4>
+<p>yeah for VVC (aka h.266) specifically for decoding. And yeah exactly, there's always a C version written and then for optimization handwritten asm, and they'll do it for a bunch of different ISAs but typically x86 and ARM minimum. This is a relatively new decoder so there's a lot that hasn't been optimized. IMO the main benefit is using SIMD instructions and not ASM specifically, though really experienced ASM writers can get enormous performance gains just from writing ASM.</p>
+
+
+
+<a name="440544019"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/440544019" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#440544019">(May 24 2024 at 16:50)</a>:</h4>
+<p>So much for C compilers being good enough. They told us that 20 years ago or more.</p>
+
+
+
+<a name="441451464"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/441451464" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#441451464">(May 30 2024 at 12:58)</a>:</h4>
+<p><a href="/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png">image.png</a><br>
+<a href="https://www.youtube.com/watch?v=a4uretCJh_4">https://www.youtube.com/watch?v=a4uretCJh_4</a><br>
+from this presentation</p>
+<div class="message_inline_image"><a href="/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png" title="image.png"><img src="/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png"></a></div><div class="youtube-video message_inline_image"><a data-id="a4uretCJh_4" href="https://www.youtube.com/watch?v=a4uretCJh_4"><img src="https://uploads.zulipusercontent.net/ed9ee03a3b46447814b14c91e28c7f8f430abc68/68747470733a2f2f692e7974696d672e636f6d2f76692f613475726574434a685f342f64656661756c742e6a7067"></a></div>
+
+
+
+<a name="441451813"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/441451813" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#441451813">(May 30 2024 at 13:00)</a>:</h4>
+<p>tbh C compilers can sometimes do the optimal thing, and often they do, the annoying part is you're never quite sure when it will happen and compiler updates can cause optimizations that used to occur, to not anymore</p>
+
+
+
+<a name="441452205"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/441452205" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#441452205">(May 30 2024 at 13:02)</a>:</h4>
+<p>with stuff with hard real time requirements, you can massive perf increases if you can optimize the entire system holistically</p>
+
+
+
+<a name="442946417"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/442946417" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#442946417">(Jun 06 2024 at 02:04)</a>:</h4>
+<p><span class="user-mention" data-user-id="659217">@Stone Chen</span> the commit is very cool. Assembly. Awesome. Hard core. And yet, I'm still left wondering... no tests? <span aria-label="sweat smile" class="emoji emoji-1f605" role="img" title="sweat smile">:sweat_smile:</span></p>
+
+
+
+<a name="442947853"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/442947853" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Stone Chen <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#442947853">(Jun 06 2024 at 02:16)</a>:</h4>
+<p>not to worry <span aria-label="joy" class="emoji emoji-1f602" role="img" title="joy">:joy:</span> <a href="https://github.com/FFmpeg/FFmpeg/commit/2e877090f958131accb8c7e5ac10e5b9865d1735">https://github.com/FFmpeg/FFmpeg/commit/2e877090f958131accb8c7e5ac10e5b9865d1735</a> <br>
+there's a custom testing framework that compares the asm version to a known good c version.</p>
+<p>The c version is tested against a set of conformance clips which are baked into ffmpegs automatic testing framework <a href="https://fate.ffmpeg.org/">https://fate.ffmpeg.org/#</a></p>
+
+
+
+<a name="443027366"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/443027366" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#443027366">(Jun 06 2024 at 10:46)</a>:</h4>
+<p>Oh, phew!</p>
+
+
+
+<a name="465880661"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/465880661" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Jose Lucas Cordeiro <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#465880661">(Aug 29 2024 at 02:33)</a>:</h4>
+<p><a href="https://www.youtube.com/watch?v=e5dhaQm_J6U">https://www.youtube.com/watch?v=e5dhaQm_J6U</a></p>
+<div class="youtube-video message_inline_image"><a data-id="e5dhaQm_J6U" href="https://www.youtube.com/watch?v=e5dhaQm_J6U"><img src="https://uploads.zulipusercontent.net/1751f42e000a150cd292ae796ee086681450127e/68747470733a2f2f692e7974696d672e636f6d2f76692f6535646861516d5f4a36552f64656661756c742e6a7067"></a></div>
+
+
+
+<a name="466764189"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/466764189" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#466764189">(Sep 01 2024 at 21:29)</a>:</h4>
+<p>Nice video</p>
+
+
+
+<a name="467394818"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467394818" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467394818">(Sep 04 2024 at 02:38)</a>:</h4>
+<p>Wait why don't FOSS projects use Mattermost? The ones that insist on something as bulky as Slack.</p>
+
+
+
+<a name="467406643"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467406643" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Jose Lucas Cordeiro <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467406643">(Sep 04 2024 at 04:02)</a>:</h4>
+<p>I would assume popularity/ polishment .</p>
+
+
+
+<a name="467406655"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467406655" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Jose Lucas Cordeiro <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467406655">(Sep 04 2024 at 04:02)</a>:</h4>
+<p>I mean slack is a nugget it. The amount of ready made apps in it is insane</p>
+
+
+
+<a name="467681109"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467681109" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467681109">(Sep 04 2024 at 23:49)</a>:</h4>
+<p>I've never used Mattermost. I have used RocketChat (it's used by Inkscape) but I like Zulip the best.</p>
+
+
+
+<a name="467925771"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467925771" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467925771">(Sep 05 2024 at 17:11)</a>:</h4>
+<p>I haven't used the desktop or web app but on mobile Zulip doesn't feel like a bloated mess. Not being Slack-like or heaven forbid Discord-like is a plus.</p>
+
+
+
+<a name="467926252"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/467926252" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#467926252">(Sep 05 2024 at 17:12)</a>:</h4>
+<p>That said... It's a bit confusing still at times.</p>
+
+
+
+<a name="468005405"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/468005405" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#468005405">(Sep 05 2024 at 23:34)</a>:</h4>
+<p>Have you tried the new Zulip mobile app? In Google Play it's called "Zulip (Flutter beta)". I'm still using the old one but I'm sure I'll switch once it's farther along.</p>
+
+
+
+<a name="468223334"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/468223334" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#468223334">(Sep 06 2024 at 15:47)</a>:</h4>
+<p>Not in FDroid (yet?)</p>
+
+
+
+<a name="468302652"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/General/near/468302652" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/General.html#468302652">(Sep 06 2024 at 22:33)</a>:</h4>
+<p>Huh. Bummer.</p>
+
+
+
+<hr><p>Last updated: Oct 28 2025 at 23:16 UTC</p>
+</html>

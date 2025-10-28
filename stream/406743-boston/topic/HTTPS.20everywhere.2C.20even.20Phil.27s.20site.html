@@ -1,0 +1,72 @@
+<html>
+<head><meta charset="utf-8"><title>HTTPS everywhere, even Phil&#x27;s site · boston · Zulip Chat Archive</title></head>
+<h2>Stream: <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/index.html">boston</a></h2>
+<h3>Topic: <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html">HTTPS everywhere, even Phil&#x27;s site</a></h3>
+
+<hr>
+
+<base href="https://osdc.zulipchat.com">
+
+<head><link href="http://bostonopen.dev/zulip-archive/style.css" rel="stylesheet"></head>
+
+<a name="534268095"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534268095" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534268095">(Aug 13 2025 at 16:47)</a>:</h4>
+<p><span class="user-mention" data-user-id="652874">@Philip Durbin</span> In case you don't want to switch to Caddy for SSL, apparently nginx is making it easier: <a href="https://news.ycombinator.com/item?id=44889941">https://news.ycombinator.com/item?id=44889941</a></p>
+
+
+
+<a name="534271446"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534271446" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534271446">(Aug 13 2025 at 17:11)</a>:</h4>
+<p>But man, Caddy still has it beat so badly.</p>
+<p>From the nginx blog post:</p>
+<div class="codehilite"><pre><span></span><code>acme_issuer letsencrypt {
+    uri         https://acme-v02.api.letsencrypt.org/directory;
+    # contact   admin@example.test;
+    state_path  /var/cache/nginx/acme-letsencrypt;
+    accept_terms_of_service;
+}
+</code></pre></div>
+<div class="codehilite"><pre><span></span><code>server {
+    # listener on port 80 is required to process ACME HTTP-01 challenges
+    listen 80;
+    location / {
+        #Serve a basic 404 response while listening for challenges
+        return 404;
+    }
+}
+</code></pre></div>
+<div class="codehilite"><pre><span></span><code>    acme_certificate letsencrypt;
+</code></pre></div>
+<p>Here's what I have for Caddy:</p>
+<div class="codehilite"><pre><span></span><code>   tls &lt;my email address&gt;
+</code></pre></div>
+<p>For each domain.</p>
+
+
+
+<a name="534271752"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534271752" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534271752">(Aug 13 2025 at 17:14)</a>:</h4>
+<p>And afaik it's optional</p>
+
+
+
+<a name="534271885"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534271885" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534271885">(Aug 13 2025 at 17:15)</a>:</h4>
+<p>I'm sure there's a good reason for all that Ngnix does but I'm not the target audience for any of it.</p>
+
+
+
+<a name="534326645"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534326645" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Notification Bot <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534326645">(Aug 14 2025 at 01:17)</a>:</h4>
+<p>4 messages were moved here from <a class="stream-topic" data-stream-id="406743" href="/#narrow/channel/406743-boston/topic/Personal.20Websites/with/534074752">#boston &gt; Personal Websites</a> by <span class="user-mention silent" data-user-id="652874">Philip Durbin</span>.</p>
+
+
+
+<a name="534326699"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20site/near/534326699" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20site.html#534326699">(Aug 14 2025 at 01:18)</a>:</h4>
+<p>Yeah, I should definitely set up HTTPS some day.</p>
+
+
+
+<hr><p>Last updated: Oct 28 2025 at 23:16 UTC</p>
+</html>

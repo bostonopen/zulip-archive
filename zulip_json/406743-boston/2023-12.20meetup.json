@@ -1,0 +1,86 @@
+[
+    {
+        "content": "<p>When should we meet in December? <span aria-label=\"snowman\" class=\"emoji emoji-2603\" role=\"img\" title=\"snowman\">:snowman:</span>  Please give a <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span> to each day that works for you or suggest a different day.</p>",
+        "id": 401880048,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1699925742
+    },
+    {
+        "content": "<p>Sunday, December 10th</p>",
+        "id": 401880077,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1699925755
+    },
+    {
+        "content": "<p>Sunday, December 17th</p>",
+        "id": 401880095,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1699925761
+    },
+    {
+        "content": "<p>I will abstain from the vote only because at this point either looks equally fine.</p>",
+        "id": 402053432,
+        "sender_full_name": "Dan",
+        "timestamp": 1699989654
+    },
+    {
+        "content": "<p>Sounds like we can all do Dec 10th. Great! I just updated <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 402087159,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700003349
+    },
+    {
+        "content": "<p>(By amusing coincidence the calendar emoji has 17 in it)</p>",
+        "id": 402253512,
+        "sender_full_name": "Dan",
+        "timestamp": 1700058147
+    },
+    {
+        "content": "<p>Ha. Don't add confusion! We're meeting on the 10th! <span aria-label=\"grinning\" class=\"emoji emoji-1f600\" role=\"img\" title=\"grinning\">:grinning:</span></p>",
+        "id": 402337009,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700086346
+    },
+    {
+        "content": "<p>Oops I haven't posted this yet... Will do tomorrow</p>",
+        "id": 406221328,
+        "sender_full_name": "Dan",
+        "timestamp": 1701836270
+    },
+    {
+        "content": "<p>Thanks. I need to send out reminders as well.</p>",
+        "id": 406293809,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1701865448
+    },
+    {
+        "content": "<p>hello everyone, is the meeting going to be offline or online?</p>",
+        "id": 406669681,
+        "sender_full_name": "Sai Dutt",
+        "timestamp": 1702006652
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"666290\">@Sai Dutt</span> hi! It's always at the same bar (Hamilton) where you met us. Hope you can make it! Details at <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 406747606,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1702038194
+    },
+    {
+        "content": "<p>Great <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span></p>",
+        "id": 406955377,
+        "sender_full_name": "Sai Dutt",
+        "timestamp": 1702141149
+    },
+    {
+        "content": "<p>We're in the back, like usual.</p>",
+        "id": 407111729,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1702245652
+    },
+    {
+        "content": "<p>Nice seeing everyone!</p>",
+        "id": 407141105,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1702263094
+    }
+]

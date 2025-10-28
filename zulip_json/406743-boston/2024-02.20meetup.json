@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>We decided we'd meet again on Sunday, Feb 25. I updated the website: <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>\n<p>If you plan to attend, please feel free to give a <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span></p>",
+        "id": 417214906,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1705925058
+    },
+    {
+        "content": "<p>Uh oh, I suddenly have a conflict. I need to bring my daughter out to UMass for a college visit. Is anyone else available to be in charge of this meetup? (I'll probably email the regulars.)</p>",
+        "id": 420903223,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1707669224
+    },
+    {
+        "content": "<p>Sounds like some regulars will be there. Have fun without me!</p>",
+        "id": 422031505,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1708193021
+    },
+    {
+        "content": "<p>I got our table.</p>",
+        "id": 423294383,
+        "sender_full_name": "Dan",
+        "timestamp": 1708897758
+    },
+    {
+        "content": "<p>Turnout of 5 today</p>",
+        "id": 423306443,
+        "sender_full_name": "Dan",
+        "timestamp": 1708909530
+    },
+    {
+        "content": "<p>Nice!</p>",
+        "id": 423309202,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1708912253
+    },
+    {
+        "content": "<p>I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/441fe3827663ab91ddc7044f0a87dbd4328cfc2a\">updated</a> the website with that number, thanks.</p>",
+        "id": 423524691,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1709003508
+    }
+]

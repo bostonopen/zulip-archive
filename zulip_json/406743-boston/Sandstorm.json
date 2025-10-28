@@ -1,0 +1,68 @@
+[
+    {
+        "content": "<p>Thanks again Phil for introducing us to Zulip. Sandstorm has now been officially moved to it:</p>\n<p><a href=\"https://sandstorm.org/news/2025-01-29-getting-on-zulip\">https://sandstorm.org/news/2025-01-29-getting-on-zulip</a></p>\n<p>We've been doing a lot more involved chatting than when we were more active on Matrix. I'm hoping more people will be eager to participate here.</p>",
+        "id": 496652843,
+        "sender_full_name": "Dan",
+        "timestamp": 1738188881
+    },
+    {
+        "content": "<p>Nice post!</p>",
+        "id": 496669977,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1738196949
+    },
+    {
+        "content": "<p>Activity picked up so much. Mostly people from our mailing list I think now that I posted it there. It may be hard to keep track. I don't know how the Rust people do it. We'll see I guess.</p>",
+        "id": 497302102,
+        "sender_full_name": "Dan",
+        "timestamp": 1738538953
+    },
+    {
+        "content": "<p>This is what I was hoping for though.</p>",
+        "id": 497302131,
+        "sender_full_name": "Dan",
+        "timestamp": 1738538974
+    },
+    {
+        "content": "<p>Sounds like a mostly good problem to have. <span aria-label=\"big smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"big smile\">:big_smile:</span></p>",
+        "id": 497302860,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1738539505
+    },
+    {
+        "content": "<p>It is. I'm worried about topics going off topic. I was given the go-ahead to reorganize things as they go. But it seems like things are just more organized now with more activity. And people kind of take it upon themselves to organize.</p>",
+        "id": 497304755,
+        "sender_full_name": "Dan",
+        "timestamp": 1738540869
+    },
+    {
+        "content": "<p>Otherwise it would be a lot for me to deal with.</p>",
+        "id": 497304788,
+        "sender_full_name": "Dan",
+        "timestamp": 1738540899
+    },
+    {
+        "content": "<p>Yeah, I move messages and whole topics all the time. Keeps things tidy.</p>",
+        "id": 497315653,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1738548944
+    },
+    {
+        "content": "<p>So something related to Sandstorm as such:</p>\n<p>I released a package for the app ntfy, which handles push notifications. Including, but not only, UnifiedPush.</p>\n<p><a href=\"https://mastodon.social/@ill_logic/114908935871706327\">https://mastodon.social/@ill_logic/114908935871706327</a></p>",
+        "id": 530618818,
+        "sender_full_name": "Dan",
+        "timestamp": 1753380164
+    },
+    {
+        "content": "<p>I am hoping to learn how to use the Sandstorm \"powerbox\" to integrate ntfy in such a way that other Sandstorm apps can connect to it easily and send the user notifications.</p>",
+        "id": 530619013,
+        "sender_full_name": "Dan",
+        "timestamp": 1753380206
+    },
+    {
+        "content": "<p>Right the thing you were telling me about. Cool. Sounds useful.</p>",
+        "id": 530676904,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753407898
+    }
+]

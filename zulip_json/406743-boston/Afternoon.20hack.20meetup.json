@@ -1,0 +1,596 @@
+[
+    {
+        "content": "<p>Phil and I were floating around ideas after this weekend's meetup. He mentioned Somerville.</p>\n<p>I was wondering if we could have a hacking afternoon at a hip Somerville cafe? Afternoon, just because of the aesthetic of it I guess, and also because I like coffee. But evening with beer would work as well (hashtag ballmerpeak). And then we could end with a social hour.</p>\n<p>Though it's just now occurring to me that a mid-day hack would be an even harder sell than evening beers in the summer, unless it's like an outdoor place with power outlets. So maybe this is more of a winter thing?</p>\n<p>Only rule I guess would be to bring something fun to work on!</p>",
+        "id": 530161525,
+        "sender_full_name": "Dan",
+        "timestamp": 1753195156
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> I was mentioning a place in Somerville similar to Time Out Market but smaller and shell shaped. I was thinking of Bow Market: <a href=\"https://www.bowmarketsomerville.com/\">https://www.bowmarketsomerville.com/</a> It's at Union Square.</p>\n<p>There's Remnant Brewery, but I think they sell coffee in the day. I knew someone who occasionally worked from there with her laptop in the mornings I think.</p>",
+        "id": 530162075,
+        "sender_full_name": "Dan",
+        "timestamp": 1753195323
+    },
+    {
+        "content": "<p><a href=\"https://www.bowmarketsomerville.com/tenants/remnantbrewing\">https://www.bowmarketsomerville.com/tenants/remnantbrewing</a> Nice patio just for the brewery.</p>",
+        "id": 530162924,
+        "sender_full_name": "Dan",
+        "timestamp": 1753195588
+    },
+    {
+        "content": "<p>But the center of the market has a shared patio as well. However I'm not sure about power outlets. Other than inside the brewery, pretty sure they have some. And maybe there's some \"almost outside\" seats if they open the wall up, but it's been a little while since I was there.</p>\n<p><a href=\"/user_uploads/56571/0Ff-7eLUKuweup9AG1Nf5l34/bow-market-1.jpg\">bow-market-1.jpg</a><br>\n<a href=\"/user_uploads/56571/xGo75pbDOKVoWprSqL4MIFRQ/bow-market-2.jpg\">bow-market-2.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/0Ff-7eLUKuweup9AG1Nf5l34/bow-market-1.jpg\" title=\"bow-market-1.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"1000x1333\" src=\"/user_uploads/thumbnail/56571/0Ff-7eLUKuweup9AG1Nf5l34/bow-market-1.jpg/840x560.webp\"></a></div><div class=\"message_inline_image\"><a href=\"/user_uploads/56571/xGo75pbDOKVoWprSqL4MIFRQ/bow-market-2.jpg\" title=\"bow-market-2.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"1000x1333\" src=\"/user_uploads/thumbnail/56571/xGo75pbDOKVoWprSqL4MIFRQ/bow-market-2.jpg/840x560.webp\"></a></div>",
+        "id": 530163551,
+        "sender_full_name": "Dan",
+        "timestamp": 1753195793
+    },
+    {
+        "content": "<p>Maybe autumn would be the sweet spot. Not quite as much demand for outdoor time but it's nice to sit at a cafe/bar with fresh air.</p>",
+        "id": 530164903,
+        "sender_full_name": "Dan",
+        "timestamp": 1753196178
+    },
+    {
+        "content": "<p>Bow Market looks great!</p>",
+        "id": 530247316,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753233683
+    },
+    {
+        "content": "<p>We could also try having a hack meetup at CarGurus (see <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/CarGurus/with/472798045\">#boston &gt; CarGurus</a>), but I assume they would prefer a weeknight rather than a weekend afternoon.</p>\n<p>I assume we're talking about a weekend afternoon at Bow Market (or wherever).</p>",
+        "id": 530758136,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753444936
+    },
+    {
+        "content": "<p>Thanks Phil for the email ping and reminder - I'm on a beach vacation this month, but come fall would love to start connecting with all the interesting FOSS folks in Boston again, so I'll try to keep a Zulip window open!</p>",
+        "id": 530962456,
+        "sender_full_name": "Shane Curcuru",
+        "timestamp": 1753543921
+    },
+    {
+        "content": "<p>We'd love to have you <span class=\"user-mention\" data-user-id=\"941338\">@Shane Curcuru</span>!</p>",
+        "id": 531148163,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753625854
+    },
+    {
+        "content": "<p>I'm looking a bit more at Bow Market. It's only a 23 minute walk from my office. I'll try to wander by and check it out soon.</p>",
+        "id": 531148327,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753625913
+    },
+    {
+        "content": "<p>I just posted some afternoons I'm free over at <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/531157127\">#boston &gt; 2025-08 meetup @ 💬</a></p>",
+        "id": 531158288,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753629442
+    },
+    {
+        "content": "<p>It's pronounced \"bow\" as in \"bow and arrow\", apparently: <a href=\"https://www.reddit.com/r/Somerville/comments/1ltfmyt/how_do_you_say_the_bow_in_bow_market/\">https://www.reddit.com/r/Somerville/comments/1ltfmyt/how_do_you_say_the_bow_in_bow_market/</a></p>",
+        "id": 531164234,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753631467
+    },
+    {
+        "content": "<p>I walked around Bow Market today. Seems really nice.</p>",
+        "id": 531470601,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753740294
+    },
+    {
+        "content": "<p>Did you look for power outlets?</p>",
+        "id": 531645822,
+        "sender_full_name": "Dan",
+        "timestamp": 1753804605
+    },
+    {
+        "content": "<p>D'oh! I totally forgot! <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 531714068,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1753830554
+    },
+    {
+        "content": "<p>No worries I don't think I specifically said we needed to investigate</p>",
+        "id": 531875488,
+        "sender_full_name": "Dan",
+        "timestamp": 1753890438
+    },
+    {
+        "content": "<p>I'd like to do this in Sept or Oct just to get that ideal fall weather. If it rains oh well the power outlets are inside anyway.</p>",
+        "id": 535186585,
+        "sender_full_name": "Dan",
+        "timestamp": 1755629774
+    },
+    {
+        "content": "<p>I saw a guy give a talk about hosting regular hackathons at H.O.P.E. and I'm kind of hyped about it.</p>",
+        "id": 535186760,
+        "sender_full_name": "Dan",
+        "timestamp": 1755629830
+    },
+    {
+        "content": "<p>I think it would be good if we could coalesce around one or two projects. I'll throw a couple out to gauge interest. <strong>Emoji if you're interested.</strong></p>",
+        "id": 535187124,
+        "sender_full_name": "Dan",
+        "timestamp": 1755629968
+    },
+    {
+        "content": "<p>Phil expressed that he would like to do something related to the <a href=\"#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/with/522481822\">Boston Bike Stress Map</a>.</p>\n<p>I don't know exactly what he has in mind so he can elaborate. But I think it'd be a cool project to contribute to. I know a thing or two about OpenStreetMap. But it should be something bite sized that we can improve in a couple hours of coding.</p>",
+        "id": 535187522,
+        "sender_full_name": "Dan",
+        "timestamp": 1755630136
+    },
+    {
+        "content": "<p>Having been to a couple Porchfest events (Malden, Plum Island, Portsmouth NH). Houses volunteer their porches or front yards as stages for local bands.</p>\n<p>I think we can do better for a website on your phone while out on the walk, including:</p>\n<ul>\n<li>Mobile-first UI</li>\n<li>What locations have things playing <em>now</em> or <em>soon</em></li>\n<li>What are bands close enough to walk to <em>soon</em></li>\n</ul>\n<p>I could take an example Porchfest data set and put it on an OSM backdrop. And then we could be ready to pull it and hack on it. All front end, all javascript, easy to jump right in. I just want a prototype to show Porchfest organizers so we can talk about making it better on their end. Or maybe work with <a href=\"https://github.com/PorchFest/porch-fest-django/\">an existing project</a>, though if the front end was independent and drop-in, it would be more useful.</p>",
+        "id": 535188453,
+        "sender_full_name": "Dan",
+        "timestamp": 1755630502
+    },
+    {
+        "content": "<p>I like the porchfest idea! Brookline (where I live) has one.</p>",
+        "id": 535210618,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755641832
+    },
+    {
+        "content": "<p>Cool! Give emojis though so we can gauge interest.</p>",
+        "id": 535214150,
+        "sender_full_name": "Dan",
+        "timestamp": 1755644718
+    },
+    {
+        "content": "<p>Done! We can vote more than once, right? <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 535220648,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755650383
+    },
+    {
+        "content": "<p>Yeah I did</p>",
+        "id": 535228205,
+        "sender_full_name": "Dan",
+        "timestamp": 1755656605
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> <a href=\"#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/531645822\">said</a>:</p>\n<blockquote>\n<p>Did you look for power outlets?</p>\n</blockquote>\n<p>I was there yesterday after work and didn't see any outside.</p>",
+        "id": 535684047,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755869828
+    },
+    {
+        "content": "<p>Okay so we can hang out in the bar if we run out of juice. Still fresh air hopefully. Thanks for checking.</p>",
+        "id": 535684482,
+        "sender_full_name": "Dan",
+        "timestamp": 1755869991
+    },
+    {
+        "content": "<p>We're doing this! See <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/2025-09.20meetup/with/536130495\">#boston &gt; 2025-09 meetup</a>!</p>",
+        "id": 536142072,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756175795
+    },
+    {
+        "content": "<p>Okay since you like Porchfest I'm gonna just selfishly say that that will be the official project. I've been thinking about this the last few days and I have a pretty good plan. I started on a repo and I'll set up our \"dev environment\" for the day of so we can quickly iterate and test.</p>",
+        "id": 537113992,
+        "sender_full_name": "Dan",
+        "timestamp": 1756734358
+    },
+    {
+        "content": "<p>I'll post more about it close to the event date.</p>",
+        "id": 537114054,
+        "sender_full_name": "Dan",
+        "timestamp": 1756734379
+    },
+    {
+        "content": "<p>Or maybe sooner, I guess it wouldn't hurt to have some feedback and new ideas.</p>",
+        "id": 537114164,
+        "sender_full_name": "Dan",
+        "timestamp": 1756734407
+    },
+    {
+        "content": "<p>Sure, sounds good. I mentioned the Porchfest idea to <span class=\"user-mention\" data-user-id=\"895635\">@Maria Dolgareva</span> and she liked it.</p>",
+        "id": 537150186,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756748092
+    },
+    {
+        "content": "<p>The Porchfest app could be useful for big conferences where there are lots of tracks. I'm thinking of FOSDEM, for example. Of course, they do have their own app: <a href=\"https://fosdem.org/2025/schedule/mobile/\">https://fosdem.org/2025/schedule/mobile/</a></p>\n<p>And the Porchfest app will probably cover a much larger area than than even a big conference. You might need to get to the other side of town. Hmm, maybe I'm talking myself out of the similarities. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 537382919,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756859905
+    },
+    {
+        "content": "<p>Hmm, \"raw schedule data\" on that page is interesting. No lat/longs that I can see, which I'm sure we'd need.</p>",
+        "id": 537383061,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756860072
+    },
+    {
+        "content": "<p>Yeah I already pulled the data from Malden porchfest. And yes the distance the main interesting factor.</p>",
+        "id": 537383243,
+        "sender_full_name": "Dan",
+        "timestamp": 1756860210
+    },
+    {
+        "content": "<p>I've been formulating what I think is a great idea, I just need to put it in a README.</p>",
+        "id": 537383312,
+        "sender_full_name": "Dan",
+        "timestamp": 1756860267
+    },
+    {
+        "content": "<p>I've also thought about what could make a normal conference easier to navigate quickly. Whova didn't impress me much, though the communication aspect of it was pretty cool I'll admit.</p>",
+        "id": 537383380,
+        "sender_full_name": "Dan",
+        "timestamp": 1756860315
+    },
+    {
+        "content": "<p>The \"pentabarf\" thing (raw schedule data on FOSDEM) works with an app called Giggity which is in F-Droid. I was curious to look more into that, though I think I peeked at it and the UI might be underwhelming. But it's cool that there's a standard \"conference app\" and format. Something to build off of I suppose.</p>",
+        "id": 537383528,
+        "sender_full_name": "Dan",
+        "timestamp": 1756860445
+    },
+    {
+        "content": "<p>Oh interesting this could be a PWA as a future step if it works out. Just realized that looking at FOSDEM.</p>",
+        "id": 537384295,
+        "sender_full_name": "Dan",
+        "timestamp": 1756861161
+    },
+    {
+        "content": "<p>Yeah, Giggity is the one I've used.</p>",
+        "id": 537451841,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756897826
+    },
+    {
+        "content": "<p>Is it any good? I wonder if I should go around recommending conferences to try it.</p>",
+        "id": 537499772,
+        "sender_full_name": "Dan",
+        "timestamp": 1756912734
+    },
+    {
+        "content": "<p>Hmm, I don't think I've used it since FOSDEM 2020 and it didn't leave a big impression on me, sorry.</p>",
+        "id": 537573925,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756947733
+    },
+    {
+        "content": "<p>Are you going to massage the Malden data into any particular format? At <a href=\"https://fosdem.org/2025/schedule/mobile/\">https://fosdem.org/2025/schedule/mobile/</a> they have <a href=\"https://fosdem.org/2025/schedule/xml\">Pentabarf XML</a>, <a href=\"https://fosdem.org/2025/schedule/ical\">iCal</a>, and <a href=\"https://fosdem.org/2025/schedule/xcal\">xCal</a>.</p>",
+        "id": 537574728,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756948453
+    },
+    {
+        "content": "<p>Nah just some json blobs. I already have it showing up on a map in very manual fashion (i.e. a for loop to add each marker). I was thinking we should just hack this out and make a working demo to show people. If people like it we (or I) can clean it up.</p>",
+        "id": 537575812,
+        "sender_full_name": "Dan",
+        "timestamp": 1756949562
+    },
+    {
+        "content": "<p>The main focus is, I'm an attendee, I go to the website, I see the map, oh it's actually really useful. We'd want to test with people without explaining it to them at all.</p>",
+        "id": 537575841,
+        "sender_full_name": "Dan",
+        "timestamp": 1756949604
+    },
+    {
+        "content": "<p>The Malden website (actually the archive dot org copy!) had the json blobs right in the html source. Got lucky it was so obvious. <code>const bands = {...</code> <code>const gigs = {...</code> <code>const porches = {...</code></p>",
+        "id": 537575915,
+        "sender_full_name": "Dan",
+        "timestamp": 1756949696
+    },
+    {
+        "content": "<p>Sounds like a plan!</p>",
+        "id": 537576347,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1756950066
+    },
+    {
+        "content": "<p>By this weekend I promise I'll have something up. Just got tied up</p>",
+        "id": 538439205,
+        "sender_full_name": "Dan",
+        "timestamp": 1757424884
+    },
+    {
+        "content": "<p>Ha, no worries</p>",
+        "id": 538536721,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757454383
+    },
+    {
+        "content": "<p>We'll be at a place that serves beer, as usual. Having a drink can be plan b. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 538536788,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757454429
+    },
+    {
+        "content": "<p>I'm not too worried about making it work this weekend. Got some stuff cleared up last week.</p>",
+        "id": 538537167,
+        "sender_full_name": "Dan",
+        "timestamp": 1757454628
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> check this out: like a porchfest this bike block party has locations and times for events (and it looks like fun; it's on Sunday: <a href=\"https://www.bikewayblockparty.org\">https://www.bikewayblockparty.org</a></p>",
+        "id": 539175619,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757718269
+    },
+    {
+        "content": "<p>That's an awesome idea</p>",
+        "id": 539176309,
+        "sender_full_name": "Dan",
+        "timestamp": 1757718697
+    },
+    {
+        "content": "<p>Oh but that's a big distance hah</p>",
+        "id": 539176362,
+        "sender_full_name": "Dan",
+        "timestamp": 1757718728
+    },
+    {
+        "content": "<p>A modular synth showcase?</p>",
+        "id": 539176399,
+        "sender_full_name": "Dan",
+        "timestamp": 1757718759
+    },
+    {
+        "content": "<p>neat, huh? <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 539180327,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757721483
+    },
+    {
+        "content": "<p>I set up a Linode for development. For two reasons:</p>\n<ul>\n<li>We can easily do a live test with our phones</li>\n<li>I don't keep my github ssh keys on the laptop that I'm able to bring around</li>\n</ul>\n<p>I set up a repo on it. If you DM me your ssh public key I can add it to the list so you have full access to it.</p>\n<p>I also set up a cron job to update the web server with the latest version every minute. Again, the benefit is testing with phones.</p>\n<p><a href=\"http://66.228.40.225\">http://66.228.40.225</a> (change \"master\" to \"dan\" or \"phil\" to see our respective branches. I can add however many more)</p>",
+        "id": 539447211,
+        "sender_full_name": "Dan",
+        "timestamp": 1757894766
+    },
+    {
+        "content": "<p>But, if you do want it on Github now feel free. Maybe easier for ppl. I figure it belongs on the Boston Open account if we all put work into it?</p>",
+        "id": 539447263,
+        "sender_full_name": "Dan",
+        "timestamp": 1757894814
+    },
+    {
+        "content": "<p>Otherwise we could just as well wait until after.</p>",
+        "id": 539448070,
+        "sender_full_name": "Dan",
+        "timestamp": 1757895675
+    },
+    {
+        "content": "<p>Here's my ideas:</p>\n<p><a href=\"http://66.228.40.225/readme.html\">http://66.228.40.225/readme.html</a> (rendered with pandoc from master/README.md every minute)</p>\n<p>Open to feedback</p>",
+        "id": 539448742,
+        "sender_full_name": "Dan",
+        "timestamp": 1757896352
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> sure, here are my public keys: <a href=\"https://github.com/pdurbin.keys\">https://github.com/pdurbin.keys</a></p>",
+        "id": 539451486,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757899564
+    },
+    {
+        "content": "<p>No objection to MIT license.</p>",
+        "id": 539451531,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757899622
+    },
+    {
+        "content": "<p>I like the \"favorite a gig\" idea.</p>",
+        "id": 539451727,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757899839
+    },
+    {
+        "content": "<p>It might be nice to color code by genre.</p>",
+        "id": 539451765,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757899882
+    },
+    {
+        "content": "<p>Markers, or the schedule?</p>",
+        "id": 539453555,
+        "sender_full_name": "Dan",
+        "timestamp": 1757901768
+    },
+    {
+        "content": "<p>BTW you should be able to access the repo. <code>dev@66.228.40.225:~/a-better-porchfest</code> I think is it.</p>",
+        "id": 539457616,
+        "sender_full_name": "Dan",
+        "timestamp": 1757906150
+    },
+    {
+        "content": "<p>I'm able to clone the repo, thanks.</p>",
+        "id": 539528753,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757935236
+    },
+    {
+        "content": "<p>Markers. What if the color of the marker indicates the time (maybe on a gradient?) and the shape of the marker indicates the genre.</p>",
+        "id": 539529368,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757935413
+    },
+    {
+        "content": "<p>Also, can we have filters? For example, \"I'm only interested in folk music from 2-4pm.\"</p>",
+        "id": 539529740,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757935511
+    },
+    {
+        "content": "<p>Hmm we could try that. I'd be worried about too many features. But maybe we could find a way to just make the UI versatile enough to handle it without it being more complicated. Maybe we add a \"end\" slider? Genre picker? Starts to get complex.</p>",
+        "id": 539580705,
+        "sender_full_name": "Dan",
+        "timestamp": 1757947904
+    },
+    {
+        "content": "<p>Worst case, we could make a different UI to just try out an unrelated idea.</p>",
+        "id": 539580786,
+        "sender_full_name": "Dan",
+        "timestamp": 1757947928
+    },
+    {
+        "content": "<p>Could you find a place for your ideas in the README?</p>",
+        "id": 539582881,
+        "sender_full_name": "Dan",
+        "timestamp": 1757948412
+    },
+    {
+        "content": "<p>Maybe there can be a \"Find something near me\" vs \"Find music I'm interested in\". Two different buttons that lead to two different interfaces.</p>\n<p>We do want to have a catalog of musicians regardless. Maybe the user can do your genre and time filter there, star some items, and then it'll show up in their \"near me\" map?</p>",
+        "id": 539589358,
+        "sender_full_name": "Dan",
+        "timestamp": 1757950086
+    },
+    {
+        "content": "<p>Ok, I add my marker shape idea to the README.</p>",
+        "id": 539664670,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757981832
+    },
+    {
+        "content": "<p>Also, only one metal band at the Malden porchfest. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> Oh, but two punk/metal bands. <span aria-label=\"rock on\" class=\"emoji emoji-1f918\" role=\"img\" title=\"rock on\">:rock_on:</span></p>",
+        "id": 539664758,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757981918
+    },
+    {
+        "content": "<p>Eight Americana bands. I don't even know what that means. <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 539664796,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757981958
+    },
+    {
+        "content": "<p>I also added the filters idea.</p>",
+        "id": 539665508,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1757982667
+    },
+    {
+        "content": "<p>The Brookline Porchest map is up: <a href=\"https://www.brooklineporchfest.org\">https://www.brooklineporchfest.org</a></p>",
+        "id": 540221428,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758198704
+    },
+    {
+        "content": "<p>Here's the data as KML: <a href=\"/user_uploads/56571/DyPRiIUIU0yvHf69cf1vQJBn/brookline.kml\">brookline.kml</a></p>",
+        "id": 540222064,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758198897
+    },
+    {
+        "content": "<p>Oh wow. And they have a kml.</p>",
+        "id": 540446494,
+        "sender_full_name": "Dan",
+        "timestamp": 1758285874
+    },
+    {
+        "content": "<p>Wow that's a lot of porches.</p>",
+        "id": 540446640,
+        "sender_full_name": "Dan",
+        "timestamp": 1758285914
+    },
+    {
+        "content": "<p>Maybe we could try to have that as an alternate test data source.</p>",
+        "id": 540446701,
+        "sender_full_name": "Dan",
+        "timestamp": 1758285933
+    },
+    {
+        "content": "<p>Shit the fact that they have a KML. I was thinking maybe we could have a KML export but figured nah who needs that except for FOSS weirdos like us. But they have it</p>",
+        "id": 540446835,
+        "sender_full_name": "Dan",
+        "timestamp": 1758285971
+    },
+    {
+        "content": "<p>And wow that's a lot of porches! Didn't realize Brookline was so active on that.</p>",
+        "id": 540447099,
+        "sender_full_name": "Dan",
+        "timestamp": 1758286022
+    },
+    {
+        "content": "<p>This is how I got the KML:</p>\n<p><a href=\"/user_uploads/56571/AngOG3YqrJ42YOfv9p7u2qMd/Screenshot-2025-09-19-at-6.01.34PM.png\">Screenshot 2025-09-19 at 6.01.34 PM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/AngOG3YqrJ42YOfv9p7u2qMd/Screenshot-2025-09-19-at-6.01.34PM.png\" title=\"Screenshot 2025-09-19 at 6.01.34 PM.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"3034x2062\" src=\"/user_uploads/thumbnail/56571/AngOG3YqrJ42YOfv9p7u2qMd/Screenshot-2025-09-19-at-6.01.34PM.png/840x560.webp\"></a></div><p><a href=\"/user_uploads/56571/D_f-Y28tljfl6BVXcSUmeF7t/Screenshot-2025-09-19-at-6.01.38PM.png\">Screenshot 2025-09-19 at 6.01.38 PM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/D_f-Y28tljfl6BVXcSUmeF7t/Screenshot-2025-09-19-at-6.01.38PM.png\" title=\"Screenshot 2025-09-19 at 6.01.38 PM.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"3034x2062\" src=\"/user_uploads/thumbnail/56571/D_f-Y28tljfl6BVXcSUmeF7t/Screenshot-2025-09-19-at-6.01.38PM.png/840x560.webp\"></a></div>",
+        "id": 540538279,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758319344
+    },
+    {
+        "content": "<p>The JSON format for Malden is bespoke, right? Not based on a standard?</p>",
+        "id": 540538471,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758319374
+    },
+    {
+        "content": "<p>Lol oh it's Google Maps.</p>",
+        "id": 540544628,
+        "sender_full_name": "Dan",
+        "timestamp": 1758324507
+    },
+    {
+        "content": "<p>I could do the same for Portsmouth heh.</p>",
+        "id": 540544665,
+        "sender_full_name": "Dan",
+        "timestamp": 1758324541
+    },
+    {
+        "content": "<p>AFAIK yeah, the Malden data is just js objects defined right in the HTML. I prettied it up and put it in data.js. It has porches bands and gigs so I don't think it can just be represented as KML.</p>",
+        "id": 540544859,
+        "sender_full_name": "Dan",
+        "timestamp": 1758324677
+    },
+    {
+        "content": "<p>Yeah, I played around with it a bit.</p>",
+        "id": 540545134,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758324941
+    },
+    {
+        "content": "<div class=\"codehilite\"><pre><span></span><code>% cat bands.json | jq &#39;.[].genre&#39; -r | sort | uniq -c | sort -nr\n  34 Rock\n  28 Other (specify below)\n  14 Singer/Songwriter\n  10 Alternative\n   8 Pop\n   8 Americana\n   6 Jazz/Swing\n   6 Indie\n   6 Folk\n   6\n   5 Country/Bluegrass\n   4 Hip-Hop\n   3 Blues\n   2 R&amp;amp;B\n   2 Punk/Metal\n   2 Classical\n   1 Metal\n   1 Funk\n</code></pre></div>",
+        "id": 540545218,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758325028
+    },
+    {
+        "content": "<p>Anyone just showing up here should read my <a href=\"#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/539447211\">message here</a> (above) and maybe the immediate convo after just to get up to speed.</p>",
+        "id": 540601255,
+        "sender_full_name": "Dan",
+        "timestamp": 1758390155
+    },
+    {
+        "content": "<p>If it's confusing please feel free to ask for a clarification! And anyway we'll figure it all out on site worst case.</p>",
+        "id": 540601318,
+        "sender_full_name": "Dan",
+        "timestamp": 1758390230
+    },
+    {
+        "content": "<p>At Porchfest in Portsmouth NH now. <a href=\"https://mastodon.social/@ill_logic/115238135433085425\">https://mastodon.social/@ill_logic/115238135433085425</a></p>",
+        "id": 540605252,
+        "sender_full_name": "Dan",
+        "timestamp": 1758394503
+    },
+    {
+        "content": "<p>Should we have a dedicated topic for the app? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 540895364,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758575321
+    },
+    {
+        "content": "<p>To keep it separate from what? Discussions of Porchfest in general?</p>",
+        "id": 540903187,
+        "sender_full_name": "Dan",
+        "timestamp": 1758580196
+    },
+    {
+        "content": "<p>Well, I guess this is already the dedicated topic. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> </p>\n<p>Maybe we could just add \"(porchfest app)\" to the end.</p>",
+        "id": 540904010,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758580831
+    },
+    {
+        "content": "<p><a href=\"https://www.brooklineporchfest.org/\">Brookline Porchfest</a> has started! My <a href=\"https://www.meetup.com/bostonuke/\">ukulele club</a> goes on in an hour!</p>",
+        "id": 541826072,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758996087
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/gJMxLhAbN8oxHDy3dx8cRsyO/WhatsApp-Image-2025-09-27-at-3.46.25-PM.jpeg\">WhatsApp Image 2025-09-27 at 3.46.25 PM.jpeg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/gJMxLhAbN8oxHDy3dx8cRsyO/WhatsApp-Image-2025-09-27-at-3.46.25-PM.jpeg\" title=\"WhatsApp Image 2025-09-27 at 3.46.25 PM.jpeg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"1600x1200\" src=\"/user_uploads/thumbnail/56571/gJMxLhAbN8oxHDy3dx8cRsyO/WhatsApp-Image-2025-09-27-at-3.46.25-PM.jpeg/840x560.webp\"></a></div>",
+        "id": 541839855,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1759008267
+    }
+]

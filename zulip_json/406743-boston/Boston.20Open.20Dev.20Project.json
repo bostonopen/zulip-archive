@@ -1,0 +1,98 @@
+[
+    {
+        "content": "<p>So, we discussed on Sunday that we would decide on a project first and then think about the language. As <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> suggested—Community-run Internet (Boston &amp; Cambridge area)—where do we stand on this?</p>",
+        "id": 493673158,
+        "sender_full_name": "Tanmay Sharma",
+        "timestamp": 1736889838
+    },
+    {
+        "content": "<p>If we're serious, it's pretty ambitious. Not a hack night project.</p>",
+        "id": 493678465,
+        "sender_full_name": "Dan",
+        "timestamp": 1736891974
+    },
+    {
+        "content": "<p>Need hardware, learn about protocols, etc.</p>",
+        "id": 493678482,
+        "sender_full_name": "Dan",
+        "timestamp": 1736891987
+    },
+    {
+        "content": "<p>If you're talking a wireless network.</p>",
+        "id": 493678494,
+        "sender_full_name": "Dan",
+        "timestamp": 1736891996
+    },
+    {
+        "content": "<p>True, it will also take a lot of time, months maybe. I can make time but don't think everybody will be able to</p>",
+        "id": 493684786,
+        "sender_full_name": "Tanmay Sharma",
+        "timestamp": 1736895301
+    },
+    {
+        "content": "<p>Something small, please! <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 493920773,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1736945910
+    },
+    {
+        "content": "<p>Should we do something Boston-related? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 493920842,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1736945933
+    },
+    {
+        "content": "<p>Actually I had a small Boston related project I wanted to do at some point. Small enough for one person. I wanted to set up some scrapers to automatically keep some of the transit info up to date on OpenStreetMap. Namely at the train stops, the website says whether there are elevators, escalators, etc. This data won't change often but if it does it would be cool to keep OSM up to date.</p>",
+        "id": 493970241,
+        "sender_full_name": "Dan",
+        "timestamp": 1736959409
+    },
+    {
+        "content": "<p>Now that's just one idea. But in general, OSM is a nice way to find a local-related tech project. It could be editing OSM like I described, or it could be using the data for something. I've waded in the OSM waters so I'd have an idea of how to start.</p>",
+        "id": 493970693,
+        "sender_full_name": "Dan",
+        "timestamp": 1736959486
+    },
+    {
+        "content": "<p>Sure, no objection to OSM, maybe we could start a dedicated topic for it.</p>\n<p>But let's keep brainstorming as well.</p>",
+        "id": 494026322,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1736979097
+    },
+    {
+        "content": "<p>And it doesn't have to be Boston-related. It's just a thought. <span aria-label=\"big smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"big smile\">:big_smile:</span></p>",
+        "id": 494026366,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1736979115
+    },
+    {
+        "content": "<p>Unfortunately, I missed out on the real meeting as I was under some time pressure - and long overdue catching up with the great <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span>. </p>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> I enjoyed learning about some of your projects  (the \"audio synth\" engine etc). <span class=\"user-mention\" data-user-id=\"771290\">@Sooraj Sathyanarayanan</span> and <span class=\"user-mention\" data-user-id=\"775680\">@Tanmay Sharma</span> really fascinating to hear your insights on the intersection of LLM's and cyber security. </p>\n<p>Who can fill me in on some of the projects the group has collaborated on, core tenets, etc..?</p>",
+        "id": 494064358,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1737001566
+    },
+    {
+        "content": "<p>I started a separate topic for core tenets: <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/core.20tenets\">#boston &gt; core tenets</a></p>",
+        "id": 494131248,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737029979
+    },
+    {
+        "content": "<p>We haven't really collaborated on much. Not yet anyway. <span class=\"user-mention\" data-user-id=\"653420\">@Harsh Kapadia</span> did help me improve the \"people\" page: <a href=\"https://github.com/bostonopen/people/pull/2\">https://github.com/bostonopen/people/pull/2</a></p>",
+        "id": 494131538,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737030051
+    },
+    {
+        "content": "<p>I'd say we're open to working together on a project. It just comes down to picking a project that's small but meaningful enough.</p>",
+        "id": 494131663,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1737030090
+    },
+    {
+        "content": "<p>Maybe we could contribute to the new Bike Stress Map. I just kicked off a topic: <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/with/520323267\">#boston &gt; Bike Stress Map</a></p>",
+        "id": 520323989,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1748205505
+    }
+]

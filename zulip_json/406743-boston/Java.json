@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>Ok, I mentioned my recent video to both <span class=\"user-mention\" data-user-id=\"659178\">@Pete Meyer</span> and <span class=\"user-mention\" data-user-id=\"653420\">@Harsh Kapadia</span> at this point so here it is: <a href=\"https://www.youtube.com/watch?v=yo3aKOg96f0\">https://www.youtube.com/watch?v=yo3aKOg96f0</a></p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"yo3aKOg96f0\" href=\"https://www.youtube.com/watch?v=yo3aKOg96f0\"><img src=\"https://uploads.zulipusercontent.net/340e7016889db9eaddad4bf215ee65492b58ca11/68747470733a2f2f692e7974696d672e636f6d2f76692f796f33614b4f67393666302f64656661756c742e6a7067\"></a></div>",
+        "id": 402364953,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700100865
+    },
+    {
+        "content": "<p>It's me demo'ing fast redeployment of a Java webapp, something I've wanted for years.</p>",
+        "id": 402365049,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700100921
+    },
+    {
+        "content": "<p>For a bit more context, please see <a href=\"https://groups.google.com/g/dataverse-community/c/zNBDzSMF2Q0/m/Z-xS6fA2BgAJ\">https://groups.google.com/g/dataverse-community/c/zNBDzSMF2Q0/m/Z-xS6fA2BgAJ</a></p>",
+        "id": 402365103,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700100952
+    },
+    {
+        "content": "<p>Is this a Dataverse accomplishment or an advancement in Java dev tools?</p>",
+        "id": 403041983,
+        "sender_full_name": "Dan",
+        "timestamp": 1700419782
+    },
+    {
+        "content": "<p>Ha. No, not some Dataverse accomplishment.</p>\n<p>Basically, a guy in the Dataverse community (Balazs Pataki) started hacking around with this in late October: <a href=\"https://dataverse.zulipchat.com/#narrow/stream/375812-containers/topic/faster.20redeploy/near/399050958\">https://dataverse.zulipchat.com/#narrow/stream/375812-containers/topic/faster.20redeploy/near/399050958</a></p>\n<p>Once he got this working, he made this pull request: <a href=\"https://github.com/IQSS/dataverse/pull/10088\">https://github.com/IQSS/dataverse/pull/10088</a></p>\n<p>He was kind enough to do a zoom call with me. Once we got it working on my machine, I've been promoting the idea but it's leveraging basic Java technology. Here's a good writeup: <a href=\"https://www.jrebel.com/blog/java-hotswap-guide\">https://www.jrebel.com/blog/java-hotswap-guide</a></p>",
+        "id": 403058709,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700433703
+    },
+    {
+        "content": "<p>I will say it's a game-changer for me. I used it last week and it really helps.</p>",
+        "id": 403058806,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1700433772
+    },
+    {
+        "content": "<p>Nice! I just saw your Java video today, Philip! It's cool that it compiles and deploys all at once!</p>",
+        "id": 404055005,
+        "sender_full_name": "Harsh Kapadia",
+        "timestamp": 1700886178
+    }
+]

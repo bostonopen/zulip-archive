@@ -1,0 +1,128 @@
+[
+    {
+        "content": "<p>So! When should we meet in July? (Or do we want to take a month off?) Here are some options. I'm still thinking 7pm is better, given the extra daylight. Please give a <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span> to as many options as you want.</p>",
+        "id": 448451520,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1719873032
+    },
+    {
+        "content": "<p>Sunday, July 7th, 7pm</p>",
+        "id": 448451537,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1719873043
+    },
+    {
+        "content": "<p>Sunday, July 14th, 7pm</p>",
+        "id": 448451557,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1719873053
+    },
+    {
+        "content": "<p>Sunday, July 21st, 7pm</p>",
+        "id": 448451572,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1719873062
+    },
+    {
+        "content": "<p>Sunday, July 28th, 7pm</p>",
+        "id": 448451585,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1719873069
+    },
+    {
+        "content": "<p>Wow, the vote is pretty split. I don't think I can make this Sunday the 14th. I have a slight preference for the 21st.</p>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> what do you think? I'd like to get a date posted and tooted.</p>",
+        "id": 449990286,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1720475769
+    },
+    {
+        "content": "<p>I have a slight preference for 21st as well</p>",
+        "id": 450041039,
+        "sender_full_name": "Dan",
+        "timestamp": 1720494693
+    },
+    {
+        "content": "<p>Ok, I just updated <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> to say we'll meet on July 21st! See you all there!</p>",
+        "id": 450160348,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1720528743
+    },
+    {
+        "content": "<p>Just a reminder to folks on Zulip that we're meeting on Sunday at 7! <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> <span class=\"user-mention\" data-user-id=\"716691\">@Andrea</span> <span class=\"user-mention\" data-user-id=\"712386\">@Yamil Suarez</span> <span class=\"user-mention\" data-user-id=\"709685\">@Jose Lucas Cordeiro</span> <span class=\"user-mention\" data-user-id=\"659217\">@Stone Chen</span> <span class=\"user-mention\" data-user-id=\"666599\">@Ista Zahn</span> <span class=\"user-mention\" data-user-id=\"666290\">@Sai Dutt</span> <span class=\"user-mention\" data-user-id=\"684967\">@August Radjoe</span> <span class=\"user-mention\" data-user-id=\"666601\">@Jason Key</span> <span class=\"user-mention\" data-user-id=\"659178\">@Pete</span> <span class=\"user-mention\" data-user-id=\"733261\">@Milan Kupcevic</span></p>",
+        "id": 452454203,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1721344392
+    },
+    {
+        "content": "<p>I will be there</p>",
+        "id": 452465921,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1721350961
+    },
+    {
+        "content": "<p>Not sure if I'll be able to join this time, I'll let you know in the weekend</p>",
+        "id": 452640326,
+        "sender_full_name": "Andrea",
+        "timestamp": 1721414766
+    },
+    {
+        "content": "<p>I'm in</p>",
+        "id": 452894115,
+        "sender_full_name": "Pete",
+        "timestamp": 1721506332
+    },
+    {
+        "content": "<p>Sorry, I won't be able to join in the end <span aria-label=\"confused\" class=\"emoji emoji-1f615\" role=\"img\" title=\"confused\">:confused:</span></p>",
+        "id": 453010189,
+        "sender_full_name": "Andrea",
+        "timestamp": 1721580822
+    },
+    {
+        "content": "<p>Hey guys. I have an important job interview the I must prepare for. I don’t think I will be able to make it</p>",
+        "id": 453024246,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1721587029
+    },
+    {
+        "content": "<p>I'm still in.</p>",
+        "id": 453033550,
+        "sender_full_name": "Dan",
+        "timestamp": 1721592272
+    },
+    {
+        "content": "<p>Train is a bit crowded but I'm on</p>",
+        "id": 453062456,
+        "sender_full_name": "Dan",
+        "timestamp": 1721614916
+    },
+    {
+        "content": "<p>It was fun being outside</p>",
+        "id": 454066017,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1721947897
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/hAxdnVInLmkAyc9mpxtXcdPk/2f5f5b52-a713-4721-bce2-35312fc0f1a9.jpg\">2f5f5b52-a713-4721-bce2-35312fc0f1a9.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/hAxdnVInLmkAyc9mpxtXcdPk/2f5f5b52-a713-4721-bce2-35312fc0f1a9.jpg\" title=\"2f5f5b52-a713-4721-bce2-35312fc0f1a9.jpg\"><img data-original-dimensions=\"4080x3072\" src=\"/user_uploads/thumbnail/56571/hAxdnVInLmkAyc9mpxtXcdPk/2f5f5b52-a713-4721-bce2-35312fc0f1a9.jpg/840x560.webp\"></a></div>",
+        "id": 454066037,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1721947913
+    },
+    {
+        "content": "<p>Too bad we missed the live music!</p>",
+        "id": 454066107,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1721947934
+    },
+    {
+        "content": "<p>That's cool. Wait is that Hamilton?</p>",
+        "id": 454066769,
+        "sender_full_name": "Dan",
+        "timestamp": 1721948339
+    },
+    {
+        "content": "<p>Yep!</p>",
+        "id": 454068153,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1721949069
+    }
+]

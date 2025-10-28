@@ -1,0 +1,92 @@
+[
+    {
+        "content": "<p>Zulip has extensive developer documentation and tooling. Vagrant and Docker, git hooks, linting. It's very easy to jump in. Though there's a lot of guidelines; fair enough.</p>",
+        "id": 512941645,
+        "sender_full_name": "Dan",
+        "timestamp": 1744936982
+    },
+    {
+        "content": "<p>And then I make a pull request and realize I'm on the top of a stack of 35 pages of open PRs. Maybe 30% are assigned for review.</p>",
+        "id": 512941750,
+        "sender_full_name": "Dan",
+        "timestamp": 1744937029
+    },
+    {
+        "content": "<p>What's the point? I get that they're too busy to review it all. Why put in so much effort into the great onboarding?</p>",
+        "id": 512941867,
+        "sender_full_name": "Dan",
+        "timestamp": 1744937064
+    },
+    {
+        "content": "<p>It looks like you got a review! Great!</p>",
+        "id": 514581180,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1745705638
+    },
+    {
+        "content": "<p>Yeah I decided to ask about it on CZO. It turned out that they missed me.</p>",
+        "id": 514584521,
+        "sender_full_name": "Dan",
+        "timestamp": 1745708728
+    },
+    {
+        "content": "<p>First commit merged into Zulip: <a href=\"https://github.com/zulip/zulip/pull/34370\">https://github.com/zulip/zulip/pull/34370</a></p>\n<p>Second PR already made, that one is a bit more interesting, but on the same topic.</p>",
+        "id": 517908722,
+        "sender_full_name": "Dan",
+        "timestamp": 1747165000
+    },
+    {
+        "content": "<p>Wasting no time adding it to my portfolio <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 517908782,
+        "sender_full_name": "Dan",
+        "timestamp": 1747165024
+    },
+    {
+        "content": "<p>Fantastic! Go, go, go!</p>",
+        "id": 517928719,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1747172748
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> congrats, you're listed at <a href=\"https://blog.zulip.com/2025/08/13/zulip-11-0-released/\">https://blog.zulip.com/2025/08/13/zulip-11-0-released/</a> <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span></p>",
+        "id": 534582699,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755220766
+    },
+    {
+        "content": "<p>lol</p>",
+        "id": 534584545,
+        "sender_full_name": "Dan",
+        "timestamp": 1755222459
+    },
+    {
+        "content": "<p>I'll take it!</p>",
+        "id": 534584558,
+        "sender_full_name": "Dan",
+        "timestamp": 1755222471
+    },
+    {
+        "content": "<p>That same blog post has this:</p>\n<p>\"To learn how we’ve built a thriving open-source community around Zulip, listen to an interview with Zulip’s head of product <a href=\"https://open.spotify.com/episode/3KMLGk4buv8zfDxTjVnChw\">on the Business of Open Source podcast</a>.\"</p>\n<p>It was a good listen.</p>",
+        "id": 534637411,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1755257041
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Zulip.20contributions/near/534582699\">said</a>:</p>\n<blockquote>\n<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> congrats, you're listed at <a href=\"https://blog.zulip.com/2025/08/13/zulip-11-0-released/\">https://blog.zulip.com/2025/08/13/zulip-11-0-released/</a> <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span></p>\n</blockquote>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>  way to go! I have another “resume add” I want to discuss with you and <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span>  at next meetup!</p>",
+        "id": 535188292,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1755630432
+    },
+    {
+        "content": "<p>Huh. Cool. (makes me realize that I should add this release link to the Zulip section of my portfolio!)</p>",
+        "id": 535188929,
+        "sender_full_name": "Dan",
+        "timestamp": 1755630746
+    },
+    {
+        "content": "<p>Zulip is having a community call to celebrate its 10 year anniversary: <a href=\"https://chat.zulip.org/#narrow/channel/1-announce/topic/Zulip's.2010-year.20anniversary/near/2265846\">https://chat.zulip.org/#narrow/channel/1-announce/topic/Zulip's.2010-year.20anniversary/near/2265846</a></p>",
+        "id": 541552228,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1758838384
+    }
+]

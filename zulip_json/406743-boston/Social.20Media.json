@@ -1,0 +1,86 @@
+[
+    {
+        "content": "<p>FYIs someone messaged me about adding our Mastodon account to <a href=\"http://fedidevs.com\">fedidevs.com</a>. They need me to change a settings to make us \"discoverable\". I also found check boxes for showing up in Mastodon search results and our profile showing up in search engine results</p>",
+        "id": 522841175,
+        "sender_full_name": "Dan",
+        "timestamp": 1749240590
+    },
+    {
+        "content": "<p>There's specifically a Boston page on fedidevs. Not sure what reach that gets us but may as well. But maybe the settings changes alone will get more attention.</p>",
+        "id": 522841236,
+        "sender_full_name": "Dan",
+        "timestamp": 1749240625
+    },
+    {
+        "content": "<p>Though I'm a bit weirded out because fedidevs wants write permission to my account if I try to follow with their follow button.</p>",
+        "id": 522841295,
+        "sender_full_name": "Dan",
+        "timestamp": 1749240656
+    },
+    {
+        "content": "<p>I wonder if we're about to get hacked somehow <span aria-label=\"laughing\" class=\"emoji emoji-1f606\" role=\"img\" title=\"laughing\">:laughing:</span> But I'm just changing a setting and letting them know.</p>",
+        "id": 522841387,
+        "sender_full_name": "Dan",
+        "timestamp": 1749240694
+    },
+    {
+        "content": "<p>Oh I see I guess it's a convenience in case I want to use it to follow a bunch of accounts with one click from the fedidevs website. Yeah no thanks. They should add a no-permisssions option.</p>",
+        "id": 522841979,
+        "sender_full_name": "Dan",
+        "timestamp": 1749240987
+    },
+    {
+        "content": "<p>No kidding.</p>",
+        "id": 522849865,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749246033
+    },
+    {
+        "content": "<p>Here's where we'll be <a href=\"https://fedidevs.com/s/Mzgz/\">https://fedidevs.com/s/Mzgz/</a></p>",
+        "id": 522849951,
+        "sender_full_name": "Dan",
+        "timestamp": 1749246075
+    },
+    {
+        "content": "<p>We'll be in good company.</p>",
+        "id": 522850085,
+        "sender_full_name": "Dan",
+        "timestamp": 1749246167
+    },
+    {
+        "content": "<p>ha, french toast alert</p>",
+        "id": 522850239,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749246289
+    },
+    {
+        "content": "<p>Man, this one is so true:</p>\n<p>\"Just a little account to show we want protected bike lanes/multi-use paths because paint doesn't stop vehicles from cutting off or parking in front of the people who use bike lanes.\"</p>",
+        "id": 522850332,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749246347
+    },
+    {
+        "content": "<p>You can't even stop vehicles from parking in car lanes in Boston.</p>",
+        "id": 522850455,
+        "sender_full_name": "Dan",
+        "timestamp": 1749246437
+    },
+    {
+        "content": "<p>Okay we're on the (bottom of) the list</p>",
+        "id": 522857498,
+        "sender_full_name": "Dan",
+        "timestamp": 1749252012
+    },
+    {
+        "content": "<p>so I see!</p>",
+        "id": 522860576,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1749255435
+    },
+    {
+        "content": "<p>I just noticed <a href=\"https://floss.social/@bostonopen\">https://floss.social/@bostonopen</a> has 40 followers! Great! Thank you to <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> for all the toots! <span aria-label=\"elephant\" class=\"emoji emoji-1f418\" role=\"img\" title=\"elephant\">:elephant:</span> <span aria-label=\"elephant\" class=\"emoji emoji-1f418\" role=\"img\" title=\"elephant\">:elephant:</span> <span aria-label=\"elephant\" class=\"emoji emoji-1f418\" role=\"img\" title=\"elephant\">:elephant:</span></p>",
+        "id": 529376912,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1752801798
+    }
+]

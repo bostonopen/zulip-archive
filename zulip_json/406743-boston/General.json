@@ -1,0 +1,140 @@
+[
+    {
+        "content": "<p><a href=\"https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you?utm_source=tldrnewsletter\">https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you?utm_source=tldrnewsletter</a></p>\n<p>A interesting thread I found about how open source can help one’s career.</p>",
+        "id": 437872573,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1715282317
+    },
+    {
+        "content": "<p>Took an absolutely enormous amount of time but finally landed a relatively large change into ffmpeg!<br>\n<a href=\"https://github.com/FFmpeg/FFmpeg/commit/0e52a4e4347550ca1ccc1bf896b52824ed259158\">https://github.com/FFmpeg/FFmpeg/commit/0e52a4e4347550ca1ccc1bf896b52824ed259158</a></p>",
+        "id": 440327067,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1716472103
+    },
+    {
+        "content": "<p>This is like a codec or a variant of a codec? Does it only work on Intel or why are such things in assembly?</p>",
+        "id": 440419127,
+        "sender_full_name": "Dan",
+        "timestamp": 1716510948
+    },
+    {
+        "content": "<p>I guess for video they want to optimize it. So perhaps you implemented this for one arch and others might implement it for others?</p>",
+        "id": 440419317,
+        "sender_full_name": "Dan",
+        "timestamp": 1716511083
+    },
+    {
+        "content": "<p>yeah for VVC (aka h.266) specifically for decoding. And yeah exactly, there's always a C version written and then for optimization handwritten asm, and they'll do it for a bunch of different ISAs but typically x86 and ARM minimum. This is a relatively new decoder so there's a lot that hasn't been optimized. IMO the main benefit is using SIMD instructions and not ASM specifically, though really experienced ASM writers can get enormous performance gains just from writing ASM.</p>",
+        "id": 440503034,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1716555108
+    },
+    {
+        "content": "<p>So much for C compilers being good enough. They told us that 20 years ago or more.</p>",
+        "id": 440544019,
+        "sender_full_name": "Dan",
+        "timestamp": 1716569428
+    },
+    {
+        "content": "<p><a href=\"/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png\">image.png</a><br>\n<a href=\"https://www.youtube.com/watch?v=a4uretCJh_4\">https://www.youtube.com/watch?v=a4uretCJh_4</a><br>\nfrom this presentation</p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png\" title=\"image.png\"><img src=\"/user_uploads/56571/TU6jNP_tQwOqn6ZUgN9OEuUe/image.png\"></a></div><div class=\"youtube-video message_inline_image\"><a data-id=\"a4uretCJh_4\" href=\"https://www.youtube.com/watch?v=a4uretCJh_4\"><img src=\"https://uploads.zulipusercontent.net/ed9ee03a3b46447814b14c91e28c7f8f430abc68/68747470733a2f2f692e7974696d672e636f6d2f76692f613475726574434a685f342f64656661756c742e6a7067\"></a></div>",
+        "id": 441451464,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1717073916
+    },
+    {
+        "content": "<p>tbh C compilers can sometimes do the optimal thing, and often they do, the annoying part is you're never quite sure when it will happen and compiler updates can cause optimizations that used to occur, to not anymore</p>",
+        "id": 441451813,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1717074029
+    },
+    {
+        "content": "<p>with stuff with hard real time requirements, you can massive perf increases if you can optimize the entire system holistically</p>",
+        "id": 441452205,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1717074158
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"659217\">@Stone Chen</span> the commit is very cool. Assembly. Awesome. Hard core. And yet, I'm still left wondering... no tests? <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 442946417,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1717639472
+    },
+    {
+        "content": "<p>not to worry <span aria-label=\"joy\" class=\"emoji emoji-1f602\" role=\"img\" title=\"joy\">:joy:</span> <a href=\"https://github.com/FFmpeg/FFmpeg/commit/2e877090f958131accb8c7e5ac10e5b9865d1735\">https://github.com/FFmpeg/FFmpeg/commit/2e877090f958131accb8c7e5ac10e5b9865d1735</a> <br>\nthere's a custom testing framework that compares the asm version to a known good c version.</p>\n<p>The c version is tested against a set of conformance clips which are baked into ffmpegs automatic testing framework <a href=\"https://fate.ffmpeg.org/\">https://fate.ffmpeg.org/#</a></p>",
+        "id": 442947853,
+        "sender_full_name": "Stone Chen",
+        "timestamp": 1717640186
+    },
+    {
+        "content": "<p>Oh, phew!</p>",
+        "id": 443027366,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1717670806
+    },
+    {
+        "content": "<p><a href=\"https://www.youtube.com/watch?v=e5dhaQm_J6U\">https://www.youtube.com/watch?v=e5dhaQm_J6U</a></p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"e5dhaQm_J6U\" href=\"https://www.youtube.com/watch?v=e5dhaQm_J6U\"><img src=\"https://uploads.zulipusercontent.net/1751f42e000a150cd292ae796ee086681450127e/68747470733a2f2f692e7974696d672e636f6d2f76692f6535646861516d5f4a36552f64656661756c742e6a7067\"></a></div>",
+        "id": 465880661,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1724898839
+    },
+    {
+        "content": "<p>Nice video</p>",
+        "id": 466764189,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1725226142
+    },
+    {
+        "content": "<p>Wait why don't FOSS projects use Mattermost? The ones that insist on something as bulky as Slack.</p>",
+        "id": 467394818,
+        "sender_full_name": "Dan",
+        "timestamp": 1725417488
+    },
+    {
+        "content": "<p>I would assume popularity/ polishment .</p>",
+        "id": 467406643,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1725422546
+    },
+    {
+        "content": "<p>I mean slack is a nugget it. The amount of ready made apps in it is insane</p>",
+        "id": 467406655,
+        "sender_full_name": "Jose Lucas Cordeiro",
+        "timestamp": 1725422565
+    },
+    {
+        "content": "<p>I've never used Mattermost. I have used RocketChat (it's used by Inkscape) but I like Zulip the best.</p>",
+        "id": 467681109,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1725493778
+    },
+    {
+        "content": "<p>I haven't used the desktop or web app but on mobile Zulip doesn't feel like a bloated mess. Not being Slack-like or heaven forbid Discord-like is a plus.</p>",
+        "id": 467925771,
+        "sender_full_name": "Dan",
+        "timestamp": 1725556270
+    },
+    {
+        "content": "<p>That said... It's a bit confusing still at times.</p>",
+        "id": 467926252,
+        "sender_full_name": "Dan",
+        "timestamp": 1725556354
+    },
+    {
+        "content": "<p>Have you tried the new Zulip mobile app? In Google Play it's called \"Zulip (Flutter beta)\". I'm still using the old one but I'm sure I'll switch once it's farther along.</p>",
+        "id": 468005405,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1725579293
+    },
+    {
+        "content": "<p>Not in FDroid (yet?)</p>",
+        "id": 468223334,
+        "sender_full_name": "Dan",
+        "timestamp": 1725637663
+    },
+    {
+        "content": "<p>Huh. Bummer.</p>",
+        "id": 468302652,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1725662037
+    }
+]

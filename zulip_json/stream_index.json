@@ -1,0 +1,363 @@
+{
+    "streams": {
+        "boston": {
+            "id": 406743,
+            "latest_id": 547559855,
+            "topic_data": {
+                "2023-10 meetup": {
+                    "latest_date": 1697419806,
+                    "size": 9
+                },
+                "2023-11 meetup": {
+                    "latest_date": 1699875114,
+                    "size": 15
+                },
+                "2023-12 meetup": {
+                    "latest_date": 1702263094,
+                    "size": 14
+                },
+                "2024-01 meetup": {
+                    "latest_date": 1705924987,
+                    "size": 9
+                },
+                "2024-02 meetup": {
+                    "latest_date": 1709003508,
+                    "size": 7
+                },
+                "2024-03 meetup": {
+                    "latest_date": 1711367005,
+                    "size": 28
+                },
+                "2024-04 meetup": {
+                    "latest_date": 1714357883,
+                    "size": 10
+                },
+                "2024-05 meetup": {
+                    "latest_date": 1715016279,
+                    "size": 4
+                },
+                "2024-06 meetup": {
+                    "latest_date": 1719928730,
+                    "size": 50
+                },
+                "2024-07 meetup": {
+                    "latest_date": 1721949069,
+                    "size": 21
+                },
+                "2024-08 meetup": {
+                    "latest_date": 1724081399,
+                    "size": 26
+                },
+                "2024-09 meetup": {
+                    "latest_date": 1728233441,
+                    "size": 37
+                },
+                "2024-10 meetup": {
+                    "latest_date": 1730517144,
+                    "size": 49
+                },
+                "2024-11 meetup": {
+                    "latest_date": 1732657807,
+                    "size": 14
+                },
+                "2024-12 meetup": {
+                    "latest_date": 1733769134,
+                    "size": 25
+                },
+                "2025-01 meetup": {
+                    "latest_date": 1736945786,
+                    "size": 46
+                },
+                "2025-02 meetup": {
+                    "latest_date": 1740573350,
+                    "size": 34
+                },
+                "2025-03 meetup": {
+                    "latest_date": 1742208108,
+                    "size": 18
+                },
+                "2025-04 meetup": {
+                    "latest_date": 1746020492,
+                    "size": 15
+                },
+                "2025-05 meetup": {
+                    "latest_date": 1747790875,
+                    "size": 21
+                },
+                "2025-06 meetup": {
+                    "latest_date": 1749431638,
+                    "size": 39
+                },
+                "2025-07 meetup": {
+                    "latest_date": 1753050513,
+                    "size": 49
+                },
+                "2025-08 meetup": {
+                    "latest_date": 1754863644,
+                    "size": 55
+                },
+                "2025-09 meetup": {
+                    "latest_date": 1759401987,
+                    "size": 52
+                },
+                "2025-10 meetup": {
+                    "latest_date": 1759638086,
+                    "size": 19
+                },
+                "2025-11 meetup": {
+                    "latest_date": 1761495400,
+                    "size": 38
+                },
+                "2025-12 meetup": {
+                    "latest_date": 1761674807,
+                    "size": 5
+                },
+                "Afternoon hack meetup": {
+                    "latest_date": 1759008267,
+                    "size": 99
+                },
+                "Apache 2 vs. AGPL": {
+                    "latest_date": 1733252326,
+                    "size": 2
+                },
+                "Artisans Asylum": {
+                    "latest_date": 1747793794,
+                    "size": 9
+                },
+                "Beyond40": {
+                    "latest_date": 1759710928,
+                    "size": 1
+                },
+                "Bike Stress Map": {
+                    "latest_date": 1759787940,
+                    "size": 115
+                },
+                "Blender": {
+                    "latest_date": 1748140879,
+                    "size": 6
+                },
+                "Boston Hackers": {
+                    "latest_date": 1738894332,
+                    "size": 19
+                },
+                "Boston Open Dev Project": {
+                    "latest_date": 1748205505,
+                    "size": 16
+                },
+                "Boston Open Streets": {
+                    "latest_date": 1729457345,
+                    "size": 23
+                },
+                "Boston Perl Mongers": {
+                    "latest_date": 1757033450,
+                    "size": 10
+                },
+                "Boston Python": {
+                    "latest_date": 1756344366,
+                    "size": 7
+                },
+                "Boston Web Dev Learning Group": {
+                    "latest_date": 1752002543,
+                    "size": 6
+                },
+                "CarGurus": {
+                    "latest_date": 1757982876,
+                    "size": 9
+                },
+                "Dave's Support Group": {
+                    "latest_date": 1745924235,
+                    "size": 3
+                },
+                "Desert Atlas (OSM on Sandstorm)": {
+                    "latest_date": 1708288784,
+                    "size": 32
+                },
+                "FOSSDEM 2024": {
+                    "latest_date": 1706989655,
+                    "size": 9
+                },
+                "FSF meetup on Dec 15": {
+                    "latest_date": 1702677534,
+                    "size": 14
+                },
+                "FSF40 celebration": {
+                    "latest_date": 1759613260,
+                    "size": 15
+                },
+                "Fundraiser events for software": {
+                    "latest_date": 1742141186,
+                    "size": 12
+                },
+                "GNU40 hack day": {
+                    "latest_date": 1696095025,
+                    "size": 1
+                },
+                "General": {
+                    "latest_date": 1725662037,
+                    "size": 23
+                },
+                "HTTPS everywhere, even Phil's site": {
+                    "latest_date": 1755134297,
+                    "size": 6
+                },
+                "Hacker Culture (CCC, HOPE, hackerspaces)": {
+                    "latest_date": 1755738723,
+                    "size": 59
+                },
+                "Java": {
+                    "latest_date": 1700886178,
+                    "size": 7
+                },
+                "Libre Boston": {
+                    "latest_date": 1747486669,
+                    "size": 26
+                },
+                "LibrePlanet 2024": {
+                    "latest_date": 1714991272,
+                    "size": 115
+                },
+                "Mamacita": {
+                    "latest_date": 1737130510,
+                    "size": 30
+                },
+                "Montreal": {
+                    "latest_date": 1759789261,
+                    "size": 33
+                },
+                "Multiplayer Museum": {
+                    "latest_date": 1737243963,
+                    "size": 2
+                },
+                "Night Shift Esplanade": {
+                    "latest_date": 1754696578,
+                    "size": 10
+                },
+                "NotebookLM": {
+                    "latest_date": 1743213134,
+                    "size": 6
+                },
+                "Ollama": {
+                    "latest_date": 1736820149,
+                    "size": 3
+                },
+                "OpenForum Academy Symposium": {
+                    "latest_date": 1731891332,
+                    "size": 7
+                },
+                "Personal Websites": {
+                    "latest_date": 1755134259,
+                    "size": 7
+                },
+                "RoboBoston Annual Robot Block Party 🤖": {
+                    "latest_date": 1727301407,
+                    "size": 6
+                },
+                "Sandstorm": {
+                    "latest_date": 1753407898,
+                    "size": 11
+                },
+                "Security Now": {
+                    "latest_date": 1744590948,
+                    "size": 3
+                },
+                "Social Media": {
+                    "latest_date": 1752801798,
+                    "size": 14
+                },
+                "State of the Map US 2025": {
+                    "latest_date": 1750765123,
+                    "size": 20
+                },
+                "Tetris tournament": {
+                    "latest_date": 1705259242,
+                    "size": 15
+                },
+                "Tinfoil hats": {
+                    "latest_date": 1714696343,
+                    "size": 5
+                },
+                "Typst": {
+                    "latest_date": 1727130157,
+                    "size": 5
+                },
+                "Watch City Steampunk Festival": {
+                    "latest_date": 1746967160,
+                    "size": 16
+                },
+                "Zulip contributions": {
+                    "latest_date": 1758838384,
+                    "size": 15
+                },
+                "Zulip data liberation": {
+                    "latest_date": 1761177369,
+                    "size": 7
+                },
+                "Zulip profiles on people page": {
+                    "latest_date": 1760375489,
+                    "size": 1
+                },
+                "bostonopen .github/README.md": {
+                    "latest_date": 1758581636,
+                    "size": 1
+                },
+                "bostonopen.dev domain": {
+                    "latest_date": 1706489052,
+                    "size": 1
+                },
+                "bostonopen.dev website": {
+                    "latest_date": 1734385795,
+                    "size": 26
+                },
+                "core tenets": {
+                    "latest_date": 1737066082,
+                    "size": 12
+                },
+                "fun": {
+                    "latest_date": 1758752894,
+                    "size": 16
+                },
+                "gear": {
+                    "latest_date": 1748561516,
+                    "size": 1
+                },
+                "gender imbalance": {
+                    "latest_date": 1734385866,
+                    "size": 3
+                },
+                "juggling": {
+                    "latest_date": 1740612254,
+                    "size": 10
+                },
+                "our own Zulip": {
+                    "latest_date": 1755219700,
+                    "size": 1
+                },
+                "retro gaming at Brookline library": {
+                    "latest_date": 1706275676,
+                    "size": 13
+                },
+                "sign language": {
+                    "latest_date": 1753318282,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1696168924,
+                    "size": 3
+                },
+                "stuff we're working on": {
+                    "latest_date": 1699407339,
+                    "size": 5
+                },
+                "update branch button": {
+                    "latest_date": 1758934054,
+                    "size": 1
+                },
+                "welcome!": {
+                    "latest_date": 1695726793,
+                    "size": 4
+                }
+            }
+        }
+    },
+    "time": 1761693383.1128263
+}
