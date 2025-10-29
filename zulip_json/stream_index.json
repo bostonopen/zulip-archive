@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 547559855,
+            "latest_id": 547608720,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -109,8 +109,8 @@
                     "size": 38
                 },
                 "2025-12 meetup": {
-                    "latest_date": 1761674807,
-                    "size": 5
+                    "latest_date": 1761694458,
+                    "size": 7
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1759008267,
@@ -161,8 +161,8 @@
                     "size": 6
                 },
                 "CarGurus": {
-                    "latest_date": 1757982876,
-                    "size": 9
+                    "latest_date": 1761697367,
+                    "size": 10
                 },
                 "Dave's Support Group": {
                     "latest_date": 1745924235,
@@ -359,5 +359,5 @@
             }
         }
     },
-    "time": 1761693383.1128263
+    "time": 1761701040.9493928
 }
