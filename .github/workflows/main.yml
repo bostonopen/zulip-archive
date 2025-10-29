@@ -17,5 +17,5 @@ jobs:
         # Using the GitHub Token that is provided automatically by GitHub Actions
         # (no setup needed).
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        delete_history: true
+        delete_history: false
         archive_branch: main
