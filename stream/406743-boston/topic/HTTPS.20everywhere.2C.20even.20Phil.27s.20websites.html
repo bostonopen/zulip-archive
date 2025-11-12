@@ -100,5 +100,73 @@
 
 
 
-<hr><p>Last updated: Nov 12 2025 at 22:17 UTC</p>
+<a name="555238762"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555238762" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555238762">(Nov 12 2025 at 23:02)</a>:</h4>
+<p>Yeah, I'm really not sure. I don't remember installing anything via snap. According to <a href="https://askubuntu.com/questions/1261242/how-to-list-packages-manually-installed-by-snap">https://askubuntu.com/questions/1261242/how-to-list-packages-manually-installed-by-snap</a> I do have some stuff installed via snap:</p>
+<div class="codehilite"><pre><span></span><code>pdurbin@server4:~$ ls -l /snap/bin
+total 0
+lrwxrwxrwx 1 root root  7 Sep 30 08:26 lxc -&gt; lxd.lxc
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.benchmark -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.buginfo -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.check-kernel -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.lxc -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.lxc-to-lxd -&gt; /usr/bin/snap
+lrwxrwxrwx 1 root root 13 Sep 30 08:26 lxd.migrate -&gt; /usr/bin/snap
+pdurbin@server4:~$ ls -l /var/lib/snapd/snaps
+total 419916
+-rw------- 2 root root 66871296 Sep 26 20:26 core20_2669.snap
+-rw------- 2 root root 66871296 Nov  6 16:56 core20_2682.snap
+-rw------- 1 root root 93745152 Nov 26  2024 lxd_31333.snap
+-rw------- 2 root root 95842304 Sep 30 08:26 lxd_35819.snap
+drwxr-xr-x 2 root root     4096 Apr  8  2022 partial
+-rw------- 2 root root 53235712 Aug 22 23:46 snapd_25202.snap
+-rw------- 2 root root 53399552 Oct 21 04:01 snapd_25577.snap
+</code></pre></div>
+
+
+
+<a name="555239102"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555239102" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555239102">(Nov 12 2025 at 23:05)</a>:</h4>
+<p>I'm using Apache right now. This seems fairly relevant: <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu">https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu</a></p>
+
+
+
+<a name="555239198"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555239198" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555239198">(Nov 12 2025 at 23:06)</a>:</h4>
+<p>So one of your sites is on Github Pages and the other is on Digital Ocean via Apache?</p>
+
+
+
+<a name="555239336"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555239336" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555239336">(Nov 12 2025 at 23:07)</a>:</h4>
+<p>I have a lot of subdomains.</p>
+
+
+
+<a name="555239415"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555239415" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555239415">(Nov 12 2025 at 23:08)</a>:</h4>
+<div class="codehilite"><pre><span></span><code>pdurbin@server4:~$ ls -1 /etc/apache2/sites-enabled
+000-default.conf
+api.greptilian.com.conf
+blog.greptilian.com.conf
+bostonopen.dev.conf
+irc.greptilian.com.conf
+movies.greptilian.com.conf
+music.thedurbins.com.conf
+people.greptilian.com.conf
+thedurbins.com.conf
+unread.greptilian.com.conf
+wiki.greptilian.com.conf
+</code></pre></div>
+
+
+
+<a name="555239465"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/HTTPS%20everywhere%2C%20even%20Phil%27s%20websites/near/555239465" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Philip Durbin <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/HTTPS.20everywhere.2C.20even.20Phil.27s.20websites.html#555239465">(Nov 12 2025 at 23:08)</a>:</h4>
+<p>(I never got <code>bostonopen.dev.conf</code> working because .dev domains require HTTPS.)</p>
+
+
+
+<hr><p>Last updated: Nov 12 2025 at 23:17 UTC</p>
 </html>
