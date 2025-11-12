@@ -1,0 +1,92 @@
+[
+    {
+        "content": "<p>Yesterday I set up HTTPS for <a href=\"https://greptilian.com\">https://greptilian.com</a></p>",
+        "id": 555231220,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985071
+    },
+    {
+        "content": "<p>I still need to work on subdomains of <a href=\"http://greptilian.com\">greptilian.com</a>. And stuff I host for <a href=\"http://thedurbins.com\">http://thedurbins.com</a> , including subdomains.</p>",
+        "id": 555231323,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985127
+    },
+    {
+        "content": "<p>What tech did you use?</p>",
+        "id": 555231536,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985216
+    },
+    {
+        "content": "<p>For <a href=\"https://greptilian.com\">https://greptilian.com</a> ? It's hosted on GitHub Pages. See <a href=\"https://github.com/pdurbin/pdurbin.github.com\">https://github.com/pdurbin/pdurbin.github.com</a></p>",
+        "id": 555231643,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985257
+    },
+    {
+        "content": "<p>It was mostly a matter of updating DNS records.</p>",
+        "id": 555231722,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985293
+    },
+    {
+        "content": "<p>Oh so the webserver didn't even come into play.</p>",
+        "id": 555231748,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985307
+    },
+    {
+        "content": "<p>right</p>",
+        "id": 555231765,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985313
+    },
+    {
+        "content": "<p>My reasoning has always been that GitHub Pages will have much better uptime than my little Digital Ocean droplet. So that's where I host the URL for \"me\" on the Internet.</p>",
+        "id": 555231863,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985370
+    },
+    {
+        "content": "<p>Huh, <code>sudo apt install caddy</code> doesn't work without some other steps: <a href=\"https://caddyserver.com/docs/install#debian-ubuntu-raspbian\">https://caddyserver.com/docs/install#debian-ubuntu-raspbian</a></p>",
+        "id": 555232339,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985518
+    },
+    {
+        "content": "<p>I'm on Ubuntu 22.04.</p>",
+        "id": 555232435,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985540
+    },
+    {
+        "content": "<p>I'm pretty sure it's in the normal Debian repo. Caddy probably likes to encourage people to install the latest version from their own repo.</p>",
+        "id": 555232502,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985578
+    },
+    {
+        "content": "<p>Did you actually try <code>sudo apt install caddy</code> without adding their key?</p>",
+        "id": 555232701,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985660
+    },
+    {
+        "content": "<p>Yeah. Here's what it says:</p>\n<p>No apt package \"caddy\", but there is a snap with that name.</p>",
+        "id": 555232882,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762985737
+    },
+    {
+        "content": "<p>oh jeez. well I thought Ubuntu hijacks apt with snap anyway. maybe you turned that off somehow. I don't use Ubuntu anymore mainly because of this.</p>",
+        "id": 555232994,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985789
+    },
+    {
+        "content": "<p>Like the same is said for chromium and maybe firefox</p>",
+        "id": 555233027,
+        "sender_full_name": "Dan",
+        "timestamp": 1762985804
+    }
+]

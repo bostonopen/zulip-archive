@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 554808858,
+            "latest_id": 555233027,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -200,6 +200,10 @@
                     "latest_date": 1755134297,
                     "size": 6
                 },
+                "HTTPS everywhere, even Phil's websites": {
+                    "latest_date": 1762985804,
+                    "size": 15
+                },
                 "Hacker Culture (CCC, HOPE, hackerspaces)": {
                     "latest_date": 1755738723,
                     "size": 59
@@ -363,5 +367,5 @@
             }
         }
     },
-    "time": 1762982233.4458609
+    "time": 1762985855.7421272
 }
