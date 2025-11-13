@@ -124,5 +124,35 @@
         "id": 555239465,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1762988928
+    },
+    {
+        "content": "<p>Hey, it worked! <a href=\"https://blog.greptilian.com\">https://blog.greptilian.com</a></p>",
+        "id": 555243201,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762991237
+    },
+    {
+        "content": "<p><a href=\"https://wiki.greptilian.com\">https://wiki.greptilian.com</a></p>",
+        "id": 555243232,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762991262
+    },
+    {
+        "content": "<p>Let's Encrypt has been around for a decade. Not sure why it took me so long. Thanks for the nudge! <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 555243306,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762991313
+    },
+    {
+        "content": "<p><a href=\"https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu\">https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu</a> was really good.</p>\n<p>And <code>sudo certbot --apache</code> \"just worked\". I simply followed the prompts.</p>",
+        "id": 555243424,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762991411
+    },
+    {
+        "content": "<p>I guess I'm not sure what to do if I want to add a new subdomain. Re-run <code>sudo certbot --apache</code>? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 555243449,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1762991438
     }
 ]
