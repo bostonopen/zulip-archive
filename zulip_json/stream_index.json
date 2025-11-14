@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 555254674,
+            "latest_id": 555477315,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -256,6 +256,10 @@
                     "latest_date": 1727301407,
                     "size": 6
                 },
+                "Rust Meetup": {
+                    "latest_date": 1763076589,
+                    "size": 1
+                },
                 "Sandstorm": {
                     "latest_date": 1753407898,
                     "size": 11
@@ -367,5 +371,5 @@
             }
         }
     },
-    "time": 1763075847.2532218
+    "time": 1763083376.2889748
 }
