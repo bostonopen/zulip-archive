@@ -16,5 +16,17 @@
         "id": 556646557,
         "sender_full_name": "Dan",
         "timestamp": 1763253980
+    },
+    {
+        "content": "<p>It was great! Much warmer today so we say outside in the sun the whole time. There were four of us.</p>",
+        "id": 556714508,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763326774
+    },
+    {
+        "content": "<p>Next Sunday, a week from today, they're having a meetup in Cambridge to hack on the Rust standard library. <a href=\"https://www.meetup.com/bostonrust/\">https://www.meetup.com/bostonrust/</a></p>\n<p>In theory I could go there before our meetup (<a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/2025-11.20meetup/with/555249391\">#boston &gt; 2025-11 meetup</a>) if I leave early.</p>",
+        "id": 556714626,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763326893
     }
 ]

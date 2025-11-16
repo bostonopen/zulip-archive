@@ -250,5 +250,11 @@
         "id": 555249391,
         "sender_full_name": "Yamil Suarez",
         "timestamp": 1762995262
+    },
+    {
+        "content": "<p>I went to a Rust meetup today (<a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/Rust.20Meetup/with/556714626\">#boston &gt; Rust Meetup</a>) and was told the Silhouette Lounge can get a bit loud. Hopefully not at 4pm. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 556714695,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763326960
     }
 ]
