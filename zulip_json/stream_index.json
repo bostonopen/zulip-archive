@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 556964794,
+            "latest_id": 558109016,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -321,8 +321,8 @@
                     "size": 12
                 },
                 "fun": {
-                    "latest_date": 1758752894,
-                    "size": 16
+                    "latest_date": 1763523363,
+                    "size": 20
                 },
                 "gear": {
                     "latest_date": 1748561516,
@@ -371,5 +371,5 @@
             }
         }
     },
-    "time": 1763521830.6702895
+    "time": 1763526147.0765712
 }

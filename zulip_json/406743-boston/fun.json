@@ -94,5 +94,29 @@
         "id": 541339329,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1758752894
+    },
+    {
+        "content": "<p><a href=\"https://hadley.github.io/genzplyr/\">https://hadley.github.io/genzplyr/</a></p>",
+        "id": 558108200,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763522817
+    },
+    {
+        "content": "<p>You know I might have played it differently.</p>",
+        "id": 558108315,
+        "sender_full_name": "Dan",
+        "timestamp": 1763522901
+    },
+    {
+        "content": "<p>I'd go with <code>vibe_check</code> for <code>filter</code>. <code>yeet</code> for <code>pull</code></p>",
+        "id": 558108465,
+        "sender_full_name": "Dan",
+        "timestamp": 1763523000
+    },
+    {
+        "content": "<p>my 16 year old had notes as well</p>",
+        "id": 558109016,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763523363
     }
 ]
