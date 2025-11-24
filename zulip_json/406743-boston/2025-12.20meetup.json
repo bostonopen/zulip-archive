@@ -70,5 +70,17 @@
         "id": 553651642,
         "sender_full_name": "Dave Hanft",
         "timestamp": 1762271655
+    },
+    {
+        "content": "<p>I went ahead and <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/574a1a8b96bb76e8c967bb65ecd5180959b55f0c\">updated</a> <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> to say we're meeting on Dec 14th at 7pm. See you there!</p>",
+        "id": 558945889,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763956182
+    },
+    {
+        "content": "<p>Ah, I just thought of something for the Yankee Swap, if I can find it! I think it's somewhere in my attic. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 558945941,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1763956244
     }
 ]
