@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 562013423,
+            "latest_id": 562209272,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -264,6 +264,10 @@
                     "latest_date": 1753407898,
                     "size": 11
                 },
+                "Scott McCloud": {
+                    "latest_date": 1764988360,
+                    "size": 2
+                },
                 "Security Now": {
                     "latest_date": 1744590948,
                     "size": 3
@@ -371,5 +375,5 @@
             }
         }
     },
-    "time": 1764984044.9412887
+    "time": 1764990486.5447783
 }
