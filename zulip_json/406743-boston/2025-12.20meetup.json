@@ -100,5 +100,11 @@
         "id": 562378062,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1765160452
+    },
+    {
+        "content": "<p>Ok, this is what I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/bb754064b68ca5c54371bafbac63131be17b3114\">put</a> on the website:</p>\n<p>\"If you want, bring a small item of low value and participate in a Yankee swap! Otherwise, you're very welcome to simply watch the fun.\"</p>\n<p>Please feel free to edit! <span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> I hope this works for you!</p>",
+        "id": 562455866,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1765197372
     }
 ]
