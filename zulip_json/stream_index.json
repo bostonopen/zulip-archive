@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 562370523,
+            "latest_id": 562378096,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -109,8 +109,8 @@
                     "size": 69
                 },
                 "2025-12 meetup": {
-                    "latest_date": 1765152163,
-                    "size": 15
+                    "latest_date": 1765160452,
+                    "size": 17
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1759008267,
@@ -265,8 +265,8 @@
                     "size": 11
                 },
                 "Scott McCloud": {
-                    "latest_date": 1764988360,
-                    "size": 2
+                    "latest_date": 1765160487,
+                    "size": 3
                 },
                 "Security Now": {
                     "latest_date": 1744590948,
@@ -375,5 +375,5 @@
             }
         }
     },
-    "time": 1765157114.4953666
+    "time": 1765164019.2425346
 }
