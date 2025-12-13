@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 563639419,
+            "latest_id": 563643474,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -109,8 +109,8 @@
                     "size": 69
                 },
                 "2025-12 meetup": {
-                    "latest_date": 1765651078,
-                    "size": 28
+                    "latest_date": 1765656291,
+                    "size": 30
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1759008267,
@@ -379,5 +379,5 @@
             }
         }
     },
-    "time": 1765653258.69504
+    "time": 1765657180.4006348
 }
