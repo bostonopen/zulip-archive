@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 563463428,
+            "latest_id": 563629097,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -276,6 +276,10 @@
                     "latest_date": 1752801798,
                     "size": 14
                 },
+                "Software Foundations books by Benjamin Pierce": {
+                    "latest_date": 1765640576,
+                    "size": 2
+                },
                 "State of the Map US 2025": {
                     "latest_date": 1750765123,
                     "size": 20
@@ -375,5 +379,5 @@
             }
         }
     },
-    "time": 1765639046.0817611
+    "time": 1765642900.3911905
 }

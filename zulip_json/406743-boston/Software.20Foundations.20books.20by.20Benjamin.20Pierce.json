@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>Looks interesting: <a href=\"https://softwarefoundations.cis.upenn.edu\">https://softwarefoundations.cis.upenn.edu</a></p>",
+        "id": 563629075,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1765640558
+    },
+    {
+        "content": "<p>From a Meetup post:</p>\n<p>\"To start with I am suggesting Benjamine Pierce's Software Foundations set of books (<a href=\"https://softwarefoundations.cis.upenn.edu/\">https://softwarefoundations.cis.upenn.edu/</a>) for a few reasons. They are freely available, they cover material that is useful to know and is not generally encountered during self study, and, I have take Pierce's software foundations course using a previous edition of these books. Finally, I believe the topics of these books, such as programming languages, type theory, formal specifications and verification to currently be useful as well as being rather future proof.\"</p>",
+        "id": 563629097,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1765640576
+    }
+]
