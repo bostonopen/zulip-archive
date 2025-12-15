@@ -214,5 +214,11 @@
         "id": 563719456,
         "sender_full_name": "Dan",
         "timestamp": 1765756365
+    },
+    {
+        "content": "<p>The Yankee swap was fun! <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 563815040,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1765803296
     }
 ]
