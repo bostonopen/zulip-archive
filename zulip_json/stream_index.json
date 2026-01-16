@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 568457401,
+            "latest_id": 568531547,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -269,8 +269,8 @@
                     "size": 7
                 },
                 "Python Books + Resources": {
-                    "latest_date": 1768576414,
-                    "size": 3
+                    "latest_date": 1768601013,
+                    "size": 4
                 },
                 "RoboBoston Annual Robot Block Party 🤖": {
                     "latest_date": 1727301407,
@@ -399,5 +399,5 @@
             }
         }
     },
-    "time": 1768598374.7112474
+    "time": 1768601982.1797762
 }

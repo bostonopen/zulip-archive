@@ -16,5 +16,11 @@
         "id": 568457401,
         "sender_full_name": "Dave Hanft",
         "timestamp": 1768576414
+    },
+    {
+        "content": "<p>Actually, come to think of it, you could ask in <a class=\"stream\" data-stream-id=\"393690\" href=\"/#narrow/channel/393690-python\">#python</a> as well.</p>",
+        "id": 568531547,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1768601013
     }
 ]
