@@ -622,5 +622,29 @@
         "id": 568096949,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1768432503
+    },
+    {
+        "content": "<p>I went and and forked it to <a href=\"https://github.com/pdurbin/a-better-porchfest\">https://github.com/pdurbin/a-better-porchfest</a> and setup GitHub Pages at <a href=\"https://pdurbin.github.io/a-better-porchfest/\">https://pdurbin.github.io/a-better-porchfest/</a></p>\n<p>That way we can see what the app looks like.</p>",
+        "id": 568338842,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1768525159
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> I'll definitely treat your repo as upstream from mine. If I end up making any improvements, I'll make a pull request. No promises!</p>",
+        "id": 568339152,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1768525392
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> you were interested in this. ^^</p>",
+        "id": 568339232,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1768525441
+    },
+    {
+        "content": "<p>Also, should we rename this topic? Maybe \"a-better-porchfest\"? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 568340976,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1768526936
     }
 ]

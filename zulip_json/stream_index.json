@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 568326969,
+            "latest_id": 568340976,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -117,8 +117,8 @@
                     "size": 2
                 },
                 "Afternoon hack meetup": {
-                    "latest_date": 1768432503,
-                    "size": 104
+                    "latest_date": 1768526936,
+                    "size": 108
                 },
                 "Apache 2 vs. AGPL": {
                     "latest_date": 1733252326,
@@ -391,5 +391,5 @@
             }
         }
     },
-    "time": 1768519172.240912
+    "time": 1768527594.5608213
 }
