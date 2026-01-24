@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 569884659,
+            "latest_id": 569896429,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -113,8 +113,8 @@
                     "size": 49
                 },
                 "2026-01 meetup": {
-                    "latest_date": 1769271726,
-                    "size": 7
+                    "latest_date": 1769282012,
+                    "size": 9
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
@@ -177,8 +177,8 @@
                     "size": 32
                 },
                 "FOSDEM 2026": {
-                    "latest_date": 1769261795,
-                    "size": 3
+                    "latest_date": 1769281896,
+                    "size": 4
                 },
                 "FOSSDEM 2024": {
                     "latest_date": 1706989655,
@@ -399,5 +399,5 @@
             }
         }
     },
-    "time": 1769279275.3421485
+    "time": 1769282150.6020072
 }
