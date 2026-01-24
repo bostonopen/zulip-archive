@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 569724795,
+            "latest_id": 569867730,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -177,8 +177,8 @@
                     "size": 32
                 },
                 "FOSDEM 2026": {
-                    "latest_date": 1768518242,
-                    "size": 2
+                    "latest_date": 1769261795,
+                    "size": 3
                 },
                 "FOSSDEM 2024": {
                     "latest_date": 1706989655,
@@ -399,5 +399,5 @@
             }
         }
     },
-    "time": 1769261382.1408021
+    "time": 1769264299.1342547
 }
