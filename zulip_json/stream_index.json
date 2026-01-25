@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 569959933,
+            "latest_id": 569961359,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -245,8 +245,8 @@
                     "size": 33
                 },
                 "Multiplayer Museum": {
-                    "latest_date": 1737243963,
-                    "size": 2
+                    "latest_date": 1769354984,
+                    "size": 3
                 },
                 "Night Shift Esplanade": {
                     "latest_date": 1754696578,
@@ -399,5 +399,5 @@
             }
         }
     },
-    "time": 1769354339.3464246
+    "time": 1769358215.6840146
 }
