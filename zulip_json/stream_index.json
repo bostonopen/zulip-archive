@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 569961359,
+            "latest_id": 569986167,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -113,8 +113,8 @@
                     "size": 49
                 },
                 "2026-01 meetup": {
-                    "latest_date": 1769296411,
-                    "size": 11
+                    "latest_date": 1769379200,
+                    "size": 12
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
@@ -245,8 +245,8 @@
                     "size": 33
                 },
                 "Multiplayer Museum": {
-                    "latest_date": 1769354984,
-                    "size": 3
+                    "latest_date": 1769379148,
+                    "size": 5
                 },
                 "Night Shift Esplanade": {
                     "latest_date": 1754696578,
@@ -399,5 +399,5 @@
             }
         }
     },
-    "time": 1769375884.478674
+    "time": 1769379532.2279186
 }
