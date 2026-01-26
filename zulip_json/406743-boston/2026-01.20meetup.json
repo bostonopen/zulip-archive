@@ -88,5 +88,11 @@
         "id": 570148669,
         "sender_full_name": "Dan",
         "timestamp": 1769447895
+    },
+    {
+        "content": "<p>I guess we'll never know <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 570205637,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1769469269
     }
 ]
