@@ -64,5 +64,23 @@
         "id": 571205846,
         "sender_full_name": "Dan",
         "timestamp": 1769872465
+    },
+    {
+        "content": "<p>There was a talk on Bonfire, which I saw come up on Hacker News. It's a fediverse application, or perhaps application suite. If I understand right it has a lot of the features of the different things all in one. Microblogs, blogs, events.</p>",
+        "id": 571214528,
+        "sender_full_name": "Dan",
+        "timestamp": 1769878910
+    },
+    {
+        "content": "<p>I was chatting with someone about perhaps making a local Boston one for Boston area FOSS meetups. Would be cool to migrate our account there.</p>",
+        "id": 571214636,
+        "sender_full_name": "Dan",
+        "timestamp": 1769878987
+    },
+    {
+        "content": "<p>And then if we're all on the fediverse we can get better cross pollination perhaps.</p>",
+        "id": 571214714,
+        "sender_full_name": "Dan",
+        "timestamp": 1769879052
     }
 ]
