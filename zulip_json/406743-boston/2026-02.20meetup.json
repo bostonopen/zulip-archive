@@ -172,5 +172,11 @@
         "id": 571560370,
         "sender_full_name": "Dan",
         "timestamp": 1770086331
+    },
+    {
+        "content": "<p>sure! go for it <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 571644437,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1770120858
     }
 ]
