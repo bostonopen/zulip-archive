@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 571894747,
+            "latest_id": 572279905,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -117,8 +117,8 @@
                     "size": 16
                 },
                 "2026-02 meetup": {
-                    "latest_date": 1770207958,
-                    "size": 34
+                    "latest_date": 1770342326,
+                    "size": 35
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
@@ -145,8 +145,8 @@
                     "size": 6
                 },
                 "Boston Hackers": {
-                    "latest_date": 1738894332,
-                    "size": 19
+                    "latest_date": 1770338533,
+                    "size": 21
                 },
                 "Boston Open Dev Project": {
                     "latest_date": 1748205505,
@@ -403,5 +403,5 @@
             }
         }
     },
-    "time": 1770333718.0627832
+    "time": 1770342980.654053
 }
