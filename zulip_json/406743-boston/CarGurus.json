@@ -64,5 +64,11 @@
         "id": 547840901,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1761789568
+    },
+    {
+        "content": "<p>There's another event at CarGurus coming up, also hosted by Boston Python, on March 3rd, about git: <a href=\"https://www.meetup.com/bostonpython/events/313210778/\">https://www.meetup.com/bostonpython/events/313210778/</a></p>",
+        "id": 573191564,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1770779375
     }
 ]
