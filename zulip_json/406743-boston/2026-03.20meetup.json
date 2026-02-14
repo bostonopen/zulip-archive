@@ -76,5 +76,35 @@
         "id": 573917820,
         "sender_full_name": "Adrian",
         "timestamp": 1771093841
+    },
+    {
+        "content": "<p>my bad, I fixed the link above</p>",
+        "id": 573917956,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771093966
+    },
+    {
+        "content": "<p>all good haha</p>",
+        "id": 573917984,
+        "sender_full_name": "Adrian",
+        "timestamp": 1771093989
+    },
+    {
+        "content": "<p>Do we want to meet in Coolidge Corner, like usual, or mix it up? I was sort of thinking about <a href=\"https://maps.app.goo.gl/Rxc91vumkD2PRJmu8\">Time Out</a>.</p>",
+        "id": 573918101,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771094105
+    },
+    {
+        "content": "<p>i can probably meet wherever. would definitely prefer places accessible via transit from like north cambridge but im interested enough that id be down to travel a little</p>",
+        "id": 573918323,
+        "sender_full_name": "Adrian",
+        "timestamp": 1771094326
+    },
+    {
+        "content": "<p>oh i do have a potential conflict that weekend, but it should only be one day so ill try and figure that out. if the meetups are like late evening it should be fine</p>",
+        "id": 573920791,
+        "sender_full_name": "Adrian",
+        "timestamp": 1771096632
     }
 ]
