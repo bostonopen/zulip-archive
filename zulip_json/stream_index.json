@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 573984575,
+            "latest_id": 574011465,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -313,8 +313,8 @@
                     "size": 20
                 },
                 "Stoat": {
-                    "latest_date": 1770952306,
-                    "size": 1
+                    "latest_date": 1771194107,
+                    "size": 2
                 },
                 "Tetris tournament": {
                     "latest_date": 1705259242,
@@ -415,5 +415,5 @@
             }
         }
     },
-    "time": 1771190577.8218622
+    "time": 1771194135.3165042
 }
