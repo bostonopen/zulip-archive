@@ -52,5 +52,29 @@
         "id": 573983815,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1771168804
+    },
+    {
+        "content": "<p>Fixed. I <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/be005d1ec19b33a56bd746d1df22e493f761a916\">switched</a> it to more boring, standard, OpenStreetMap tiles:</p>\n<p><a href=\"/user_uploads/56571/Ib-9LiZwkJB_6a9AFyiV0Y8V/Screenshot-2026-02-15-at-10.23.09AM.png\">Screenshot 2026-02-15 at 10.23.09 AM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/Ib-9LiZwkJB_6a9AFyiV0Y8V/Screenshot-2026-02-15-at-10.23.09AM.png\" title=\"Screenshot 2026-02-15 at 10.23.09 AM.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"2074x1224\" src=\"/user_uploads/thumbnail/56571/Ib-9LiZwkJB_6a9AFyiV0Y8V/Screenshot-2026-02-15-at-10.23.09AM.png/840x560.webp\"></a></div>",
+        "id": 573984029,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771169050
+    },
+    {
+        "content": "<p>Anyway, feedback welcome!</p>",
+        "id": 573984045,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771169061
+    },
+    {
+        "content": "<p>Here's how it looks on mobile. Could be better but good enough for now, I'd say.</p>\n<p><a href=\"/user_uploads/56571/iEL_l3s9njGTFtbtxkBEEXFZ/Screenshot_20260215-102909.png\">Screenshot_20260215-102909.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/iEL_l3s9njGTFtbtxkBEEXFZ/Screenshot_20260215-102909.png\" title=\"Screenshot_20260215-102909.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"720x1600\" src=\"/user_uploads/thumbnail/56571/iEL_l3s9njGTFtbtxkBEEXFZ/Screenshot_20260215-102909.png/840x560.webp\"></a></div>",
+        "id": 573984395,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771169376
+    },
+    {
+        "content": "<p>If you zoom in you'll see I have it centered on the dome at MIT:</p>\n<p><a href=\"/user_uploads/56571/V6FbeIB1Gd_xacxmeJK0WSyi/Screenshot-2026-02-15-at-10.31.06AM.png\">Screenshot 2026-02-15 at 10.31.06 AM.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/V6FbeIB1Gd_xacxmeJK0WSyi/Screenshot-2026-02-15-at-10.31.06AM.png\" title=\"Screenshot 2026-02-15 at 10.31.06 AM.png\"><img data-original-content-type=\"image/png\" data-original-dimensions=\"2074x1234\" src=\"/user_uploads/thumbnail/56571/V6FbeIB1Gd_xacxmeJK0WSyi/Screenshot-2026-02-15-at-10.31.06AM.png/840x560.webp\"></a></div><p>I guess I could move the center west a bit so dots aren't as cut off. But who knows, maybe we'll meet downtown some day. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 573984575,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771169548
     }
 ]
