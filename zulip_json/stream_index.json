@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 574011465,
+            "latest_id": 574014453,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -121,8 +121,8 @@
                     "size": 47
                 },
                 "2026-03 meetup": {
-                    "latest_date": 1771096632,
-                    "size": 18
+                    "latest_date": 1771196838,
+                    "size": 20
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
@@ -313,8 +313,8 @@
                     "size": 20
                 },
                 "Stoat": {
-                    "latest_date": 1771194107,
-                    "size": 2
+                    "latest_date": 1771194239,
+                    "size": 4
                 },
                 "Tetris tournament": {
                     "latest_date": 1705259242,
@@ -377,8 +377,8 @@
                     "size": 10
                 },
                 "map of places we've met": {
-                    "latest_date": 1771169548,
-                    "size": 13
+                    "latest_date": 1771195411,
+                    "size": 18
                 },
                 "our own Zulip": {
                     "latest_date": 1755219700,
@@ -415,5 +415,5 @@
             }
         }
     },
-    "time": 1771194135.3165042
+    "time": 1771197885.5694551
 }

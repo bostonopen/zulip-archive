@@ -76,5 +76,35 @@
         "id": 573984575,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1771169548
+    },
+    {
+        "content": "<p>I think the map is very useful. I wonder if we could use one for upcoming meetings as well.</p>",
+        "id": 574012145,
+        "sender_full_name": "Dan",
+        "timestamp": 1771194605
+    },
+    {
+        "content": "<p>Leaflet is outgoing technology btw. maplibre is where new things are happening. Though, there's a compatibility layer I think.</p>",
+        "id": 574012264,
+        "sender_full_name": "Dan",
+        "timestamp": 1771194682
+    },
+    {
+        "content": "<p>Case in point - maplibre is usually vector based, and it has better tools for that. Leaflet can do vector with old protomaps libraries but the protomaps guy himself told me to use maplibre :-)</p>\n<p>So in this case that means that you would have been able to try out different styles while using the same map data. With raster, you're stuck with what was rendered for you.</p>",
+        "id": 574012474,
+        "sender_full_name": "Dan",
+        "timestamp": 1771194885
+    },
+    {
+        "content": "<p>But all is not lost. How much server space you got? We could theoretically host those watercolor tiles ourselves :-D</p>",
+        "id": 574012665,
+        "sender_full_name": "Dan",
+        "timestamp": 1771195034
+    },
+    {
+        "content": "<p>Though it looks like they're a business so maybe it would break a license.</p>",
+        "id": 574013068,
+        "sender_full_name": "Dan",
+        "timestamp": 1771195411
     }
 ]
