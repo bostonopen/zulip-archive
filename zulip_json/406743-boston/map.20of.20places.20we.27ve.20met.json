@@ -124,5 +124,11 @@
         "id": 574023067,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1771206452
+    },
+    {
+        "content": "<p>maplibre is a pretty big part of the OSM ecosystem these days. It's a fork of Mapbox from when they went closed source.</p>",
+        "id": 574024207,
+        "sender_full_name": "Dan",
+        "timestamp": 1771207610
     }
 ]
