@@ -4,5 +4,11 @@
         "id": 574398590,
         "sender_full_name": "Yamil Suarez",
         "timestamp": 1771367930
+    },
+    {
+        "content": "<p>Here's the pull request: <a href=\"https://github.com/matplotlib/matplotlib/pull/31132\">https://github.com/matplotlib/matplotlib/pull/31132</a></p>",
+        "id": 574419799,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771381856
     }
 ]
