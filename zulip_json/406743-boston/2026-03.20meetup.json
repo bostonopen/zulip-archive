@@ -208,5 +208,11 @@
         "id": 575195921,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1771797972
+    },
+    {
+        "content": "<p>That <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span> is all I need. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> </p>\n<p>I <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/62e09f6cdff97de69bf32e70b302df9c10d8a473\">updated</a> the <a href=\"https://bostonopen.dev/\">website</a> with this:</p>\n<ul>\n<li>When: Sunday, March 15th, 2026 at 7pm</li>\n<li>Where: Time Out Market Boston</li>\n</ul>\n<p>However, I could be convinced to meet earlier.</p>",
+        "id": 575197073,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771798951
     }
 ]
