@@ -184,5 +184,29 @@
         "id": 575062269,
         "sender_full_name": "Adrian",
         "timestamp": 1771651560
+    },
+    {
+        "content": "<p>Hmm, now I have a conflict on March 22nd.</p>\n<p><span class=\"user-mention\" data-user-id=\"1029124\">@Adrian</span> are you saying March 15th is a conflict for you?</p>",
+        "id": 575195233,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771797284
+    },
+    {
+        "content": "<p>it shouldnt be. i think the other thing i might be doing that day should be over by like 4-5 pm</p>",
+        "id": 575195286,
+        "sender_full_name": "Adrian",
+        "timestamp": 1771797354
+    },
+    {
+        "content": "<p>although i rechecked the dates and my +1 will also be leaving around that time too, so they prob still wont make it unless we do 3/8 or saturdays</p>",
+        "id": 575195317,
+        "sender_full_name": "Adrian",
+        "timestamp": 1771797402
+    },
+    {
+        "content": "<p>Gotcha. Well, March 8th doesn't work for <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> </p>\n<p>Lately we've been meeting at 7pm so you should have plenty of time to finish up your other thing.</p>",
+        "id": 575195921,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771797972
     }
 ]
