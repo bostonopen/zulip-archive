@@ -220,5 +220,17 @@
         "id": 575204955,
         "sender_full_name": "Dan",
         "timestamp": 1771806027
+    },
+    {
+        "content": "<p>Ah, bummer. Well, I'm happy to change it. Just lemme know.</p>",
+        "id": 575214032,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1771812437
+    },
+    {
+        "content": "<p>Sure. Well go with whichever has the most attendees in the end.</p>",
+        "id": 575216312,
+        "sender_full_name": "Dan",
+        "timestamp": 1771814400
     }
 ]
