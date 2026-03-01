@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 576358004,
+            "latest_id": 576561863,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -121,8 +121,8 @@
                     "size": 47
                 },
                 "2026-03 meetup": {
-                    "latest_date": 1771978495,
-                    "size": 41
+                    "latest_date": 1772405357,
+                    "size": 43
                 },
                 "2026-05 meetup": {
                     "latest_date": 1772230425,
@@ -133,8 +133,8 @@
                     "size": 4
                 },
                 "AI could end scarcity, end humanity, or boost growth": {
-                    "latest_date": 1772166988,
-                    "size": 2
+                    "latest_date": 1772405542,
+                    "size": 3
                 },
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
@@ -427,5 +427,5 @@
             }
         }
     },
-    "time": 1772403713.0199604
+    "time": 1772407313.7956178
 }
