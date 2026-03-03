@@ -124,5 +124,29 @@
         "id": 572474131,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1770417933
+    },
+    {
+        "content": "<p><a href=\"https://www.jwz.org/blog/2026/03/that-one-xkcd-thing-now-interactive/\">https://www.jwz.org/blog/2026/03/that-one-xkcd-thing-now-interactive/</a></p>",
+        "id": 576962027,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772540641
+    },
+    {
+        "content": "<p>hat tip to <span class=\"user-mention\" data-user-id=\"1029124\">@Adrian</span> for posting this</p>",
+        "id": 576962057,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772540651
+    },
+    {
+        "content": "<p>reminds me of Fantastic Contraption: <a href=\"https://en.wikipedia.org/wiki/Fantastic_Contraption_(2016_video_game)\">https://en.wikipedia.org/wiki/Fantastic_Contraption_(2016_video_game)</a></p>",
+        "id": 576962106,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772540677
+    },
+    {
+        "content": "<p>Oh, well, I guess I played the Flash version: <a href=\"https://en.wikipedia.org/wiki/Fantastic_Contraption_(2008_video_game)\">https://en.wikipedia.org/wiki/Fantastic_Contraption_(2008_video_game)</a></p>",
+        "id": 576962239,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772540714
     }
 ]
