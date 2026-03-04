@@ -154,5 +154,17 @@
         "id": 577001845,
         "sender_full_name": "Dan",
         "timestamp": 1772550880
+    },
+    {
+        "content": "<p>Oh wow, it's really fun to play with <a href=\"https://editor.p5js.org/isohedral/full/vJa5RiZWs\">https://editor.p5js.org/isohedral/full/vJa5RiZWs</a> (linked from the article above).</p>",
+        "id": 577103728,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772585250
+    },
+    {
+        "content": "<p>I'm looking at <a href=\"https://en.wikipedia.org/wiki/The_Incredible_Machine\">https://en.wikipedia.org/wiki/The_Incredible_Machine</a> but I don't think I played any of these. They look fun.</p>",
+        "id": 577103876,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1772585326
     }
 ]
