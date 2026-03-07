@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 577623974,
+            "latest_id": 577914869,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -159,6 +159,10 @@
                 "Blender": {
                     "latest_date": 1748140879,
                     "size": 6
+                },
+                "Boston Bitdown": {
+                    "latest_date": 1772889091,
+                    "size": 1
                 },
                 "Boston Hackers": {
                     "latest_date": 1770338533,
@@ -427,5 +431,5 @@
             }
         }
     },
-    "time": 1772887366.0029764
+    "time": 1772890630.3616998
 }
