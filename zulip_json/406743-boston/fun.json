@@ -172,5 +172,11 @@
         "id": 577623974,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1772757001
+    },
+    {
+        "content": "<p>\"Your company's new AI agent workflow\" - <a href=\"https://www.youtube.com/watch?v=rIkDBrSAl_s\">https://www.youtube.com/watch?v=rIkDBrSAl_s</a></p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"rIkDBrSAl_s\" href=\"https://www.youtube.com/watch?v=rIkDBrSAl_s\"><img src=\"https://uploads.zulipusercontent.net/3852766413fbef0f6eebdc53f8b5ea092e04e952/68747470733a2f2f692e7974696d672e636f6d2f76692f72496b44427253416c5f732f6d7164656661756c742e6a7067\"></a></div>",
+        "id": 578056828,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773019736
     }
 ]
