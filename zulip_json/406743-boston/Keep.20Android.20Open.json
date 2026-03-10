@@ -1,0 +1,44 @@
+[
+    {
+        "content": "<p>I know we've <a href=\"#narrow/channel/406743-boston/topic/FSF40.20celebration/near/542512552\">mentioned</a> how Android is closing its walls, but I thought I'd kick off this Keep Android Open topic an link to their website: <a href=\"https://keepandroidopen.org\">https://keepandroidopen.org</a></p>",
+        "id": 578284535,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105173
+    },
+    {
+        "content": "<p>\"You, <strong>the consumer</strong>, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it.\"</p>",
+        "id": 578284698,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105206
+    },
+    {
+        "content": "<p>\"You, <strong>the creator</strong>, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”.\"</p>",
+        "id": 578284766,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105221
+    },
+    {
+        "content": "<p>It does feel like a broken promise to me.</p>",
+        "id": 578284964,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105260
+    },
+    {
+        "content": "<p>Here's the original announcement: <a href=\"https://android-developers.googleblog.com/2025/08/elevating-android-security.html\">https://android-developers.googleblog.com/2025/08/elevating-android-security.html</a></p>",
+        "id": 578285224,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105312
+    },
+    {
+        "content": "<p>\"F-Droid is under threat.\" -- <a href=\"https://f-droid.org\">https://f-droid.org</a></p>",
+        "id": 578285526,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105371
+    },
+    {
+        "content": "<p>\"Android, currently an open platform where anyone can develop and distribute applications freely, is to become a locked-down platform, requiring that developers everywhere register centrally with Google in order to be able to distribute their software.\" -- <a href=\"https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html\">https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html</a></p>",
+        "id": 578285767,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773105417
+    }
+]

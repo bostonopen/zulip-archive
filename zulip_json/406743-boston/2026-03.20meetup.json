@@ -256,5 +256,17 @@
         "id": 576561621,
         "sender_full_name": "Dan",
         "timestamp": 1772405357
+    },
+    {
+        "content": "<p>Just a reminder that we're meeting on Sunday at 7pm at Time Out in the Fenway. Links to maps and such are here: <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 578278732,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773102617
+    },
+    {
+        "content": "<p>When we meet at a restaurant we're always asked how big of a table we need. Time Out is much more relaxed. Should be nice.</p>",
+        "id": 578278868,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773102726
     }
 ]
