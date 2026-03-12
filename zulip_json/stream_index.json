@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 578438382,
+            "latest_id": 578771281,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -200,6 +200,10 @@
                     "latest_date": 1708288784,
                     "size": 32
                 },
+                "Eastern Edge Food Hall": {
+                    "latest_date": 1773278368,
+                    "size": 3
+                },
                 "FOSDEM 2026": {
                     "latest_date": 1769884789,
                     "size": 15
@@ -247,6 +251,10 @@
                 "Hacker Culture (CCC, HOPE, hackerspaces)": {
                     "latest_date": 1755738723,
                     "size": 59
+                },
+                "High Street Place Food Hall": {
+                    "latest_date": 1773278458,
+                    "size": 1
                 },
                 "Java": {
                     "latest_date": 1700886178,
@@ -435,5 +443,5 @@
             }
         }
     },
-    "time": 1773271439.389318
+    "time": 1773280709.7016523
 }
