@@ -52,5 +52,35 @@
         "id": 578438382,
         "sender_full_name": "Shane Robertson",
         "timestamp": 1773158909
+    },
+    {
+        "content": "<p>You referring to the Motorola deal with GrapheneOS <span class=\"user-mention\" data-user-id=\"1045081\">@Shane Robertson</span> ?</p>",
+        "id": 579476517,
+        "sender_full_name": "Dan",
+        "timestamp": 1773528597
+    },
+    {
+        "content": "<p>Yeppers. Admittedly still not sure how I feel about it but I am trying to be optimistic. Motorola has had a decent track-record as far as I recall</p>",
+        "id": 579476550,
+        "sender_full_name": "Shane Robertson",
+        "timestamp": 1773528649
+    },
+    {
+        "content": "<p>The FDroid guy told me at FSF40 that it's still really bad that the number of users exposed to Free options will be dramatically reduced. Even if some of us can get GrapheneOS phones.</p>",
+        "id": 579476572,
+        "sender_full_name": "Dan",
+        "timestamp": 1773528674
+    },
+    {
+        "content": "<p>Agreed, it will definitely be a gut punch (or maybe a shiv?) to software freedom even with the partnership Motorola and GrapheneOS have. The good news is the less-tech-savvy people around me are now getting annoyed with all these changes. My mom has been talking about buying a European phone and she has very little experience with tech. So I think word is spreading even outside of our little tech spheres!</p>",
+        "id": 579476776,
+        "sender_full_name": "Shane Robertson",
+        "timestamp": 1773528934
+    },
+    {
+        "content": "<p>Again though, I err to the side of optimism against my own best interest</p>",
+        "id": 579476865,
+        "sender_full_name": "Shane Robertson",
+        "timestamp": 1773529056
     }
 ]

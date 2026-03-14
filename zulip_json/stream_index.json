@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 579473428,
+            "latest_id": 579477284,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -121,8 +121,8 @@
                     "size": 47
                 },
                 "2026-03 meetup": {
-                    "latest_date": 1773361793,
-                    "size": 46
+                    "latest_date": 1773529475,
+                    "size": 49
                 },
                 "2026-05 meetup": {
                     "latest_date": 1772230425,
@@ -161,8 +161,8 @@
                     "size": 6
                 },
                 "Boston Bitdown": {
-                    "latest_date": 1772889091,
-                    "size": 1
+                    "latest_date": 1773528722,
+                    "size": 2
                 },
                 "Boston Hackers": {
                     "latest_date": 1770338533,
@@ -253,16 +253,16 @@
                     "size": 59
                 },
                 "High Street Place Food Hall": {
-                    "latest_date": 1773278458,
-                    "size": 1
+                    "latest_date": 1773528797,
+                    "size": 2
                 },
                 "Java": {
                     "latest_date": 1700886178,
                     "size": 7
                 },
                 "Keep Android Open": {
-                    "latest_date": 1773158909,
-                    "size": 9
+                    "latest_date": 1773529056,
+                    "size": 14
                 },
                 "Libre Boston": {
                     "latest_date": 1747486669,
@@ -443,5 +443,5 @@
             }
         }
     },
-    "time": 1773527031.0343413
+    "time": 1773530753.6232994
 }

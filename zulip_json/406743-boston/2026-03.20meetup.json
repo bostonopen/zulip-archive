@@ -274,5 +274,23 @@
         "id": 579075331,
         "sender_full_name": "Morgan Jassen",
         "timestamp": 1773361793
+    },
+    {
+        "content": "<p>Hey, plans turned out such that I'll be out of town. Sorry to miss it! Hope to see photos.</p>",
+        "id": 579475907,
+        "sender_full_name": "Dan",
+        "timestamp": 1773527769
+    },
+    {
+        "content": "<p><a href=\"https://floss.social/@bostonopen/116229951769005492\">https://floss.social/@bostonopen/116229951769005492</a></p>",
+        "id": 579476338,
+        "sender_full_name": "Dan",
+        "timestamp": 1773528331
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/2026-03.20meetup/near/575665170\">said</a>:</p>\n<blockquote>\n<p><span class=\"user-mention silent\" data-user-id=\"815615\">Dave Hanft</span> ok, great, we'll keep the Dave-friendly 7pm time, just in case you can make it. Fingers crossed! <span aria-label=\"fingers crossed\" class=\"emoji emoji-1f91e\" role=\"img\" title=\"fingers crossed\">:fingers_crossed:</span></p>\n</blockquote>\n<p>Not looking good for tomorrow. We have multiple child illness's <span aria-label=\"mask\" class=\"emoji emoji-1f637\" role=\"img\" title=\"mask\">:mask:</span> planning on April. <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> we should catch up in between now and then if possible too!</p>",
+        "id": 579477284,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1773529475
     }
 ]
