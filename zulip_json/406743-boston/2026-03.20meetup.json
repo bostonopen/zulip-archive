@@ -292,5 +292,17 @@
         "id": 579477284,
         "sender_full_name": "Dave Hanft",
         "timestamp": 1773529475
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> bummer but at I don't have to carry the ukulele I'd like to give back to you. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> I hope the kiddos feel better! And, yeah, lemme know about breakfast downtown or whatever. <span aria-label=\"breakfast\" class=\"emoji emoji-1f95e\" role=\"img\" title=\"breakfast\">:breakfast:</span> </p>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> sorry you can't make it! Thanks, as always, for tooting! <span aria-label=\"elephant\" class=\"emoji emoji-1f418\" role=\"img\" title=\"elephant\">:elephant:</span></p>",
+        "id": 579492780,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773538606
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"740762\">@Morgan Jassen</span> glad you're coming. I think I was out of town when you came a while back.</p>",
+        "id": 579492832,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1773538641
     }
 ]
