@@ -160,5 +160,11 @@
         "id": 579061468,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1773352847
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/map.20of.20places.20we.27ve.20met/near/573918244\">said</a>:</p>\n<blockquote>\n<p>Maybe the marker could be bigger the more often we've met at the same place to convey where we meet most often. <img alt=\":shrugdog:\" class=\"emoji\" src=\"https://avatars.zulip.com/56571/emoji/images/5f6ac244.png\" title=\"shrugdog\"></p>\n</blockquote>\n<p>I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/1cbc66a311256103d0f30053aa4835b7095ca145\">made</a> the Hamilton marker the same size as the others.</p>",
+        "id": 580955033,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1774214562
     }
 ]
