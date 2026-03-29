@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 582362354,
+            "latest_id": 582384732,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -320,6 +320,10 @@
                     "latest_date": 1727301407,
                     "size": 6
                 },
+                "Roccos in north end": {
+                    "latest_date": 1774764389,
+                    "size": 3
+                },
                 "Rust Meetup": {
                     "latest_date": 1763330398,
                     "size": 7
@@ -413,8 +417,8 @@
                     "size": 18
                 },
                 "map of places we've met": {
-                    "latest_date": 1774486467,
-                    "size": 35
+                    "latest_date": 1774764145,
+                    "size": 36
                 },
                 "our own Zulip": {
                     "latest_date": 1755219700,
@@ -451,5 +455,5 @@
             }
         }
     },
-    "time": 1774760957.6652215
+    "time": 1774767672.1568766
 }
