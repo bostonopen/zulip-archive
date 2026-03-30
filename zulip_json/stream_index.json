@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 582449507,
+            "latest_id": 582670352,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -373,8 +373,8 @@
                     "size": 5
                 },
                 "Watch City Steampunk Festival": {
-                    "latest_date": 1769648705,
-                    "size": 18
+                    "latest_date": 1774913275,
+                    "size": 19
                 },
                 "Zulip contributions": {
                     "latest_date": 1758838384,
@@ -459,5 +459,5 @@
             }
         }
     },
-    "time": 1774910038.703804
+    "time": 1774913580.6743956
 }
