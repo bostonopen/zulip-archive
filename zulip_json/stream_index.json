@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 583604046,
+            "latest_id": 583708773,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -197,8 +197,8 @@
                     "size": 12
                 },
                 "Codex": {
-                    "latest_date": 1775306385,
-                    "size": 3
+                    "latest_date": 1775416579,
+                    "size": 5
                 },
                 "Dave's Support Group": {
                     "latest_date": 1745924235,
@@ -421,8 +421,8 @@
                     "size": 3
                 },
                 "juggling": {
-                    "latest_date": 1775326794,
-                    "size": 28
+                    "latest_date": 1775416691,
+                    "size": 29
                 },
                 "map of places we've met": {
                     "latest_date": 1774764145,
@@ -463,5 +463,5 @@
             }
         }
     },
-    "time": 1775414484.1650739
+    "time": 1775417563.7108922
 }

@@ -16,5 +16,17 @@
         "id": 583581483,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1775306385
+    },
+    {
+        "content": "<p>Still hacking away with Codex. I'm down from 85% to 46% left until April 10th but I got the app far enough for my needs, I think. If anyone is interested in the code, I pushed it to <a href=\"https://github.com/gdcc/people.dataverse.org\">https://github.com/gdcc/people.dataverse.org</a></p>",
+        "id": 583708556,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1775416473
+    },
+    {
+        "content": "<p>It's so much fun!</p>",
+        "id": 583708667,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1775416579
     }
 ]
