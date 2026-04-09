@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 583708773,
+            "latest_id": 584357904,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -125,8 +125,8 @@
                     "size": 60
                 },
                 "2026-04 meetup": {
-                    "latest_date": 1774214219,
-                    "size": 8
+                    "latest_date": 1775702772,
+                    "size": 9
                 },
                 "2026-05 meetup": {
                     "latest_date": 1774826335,
@@ -189,8 +189,8 @@
                     "size": 7
                 },
                 "Boston Web Dev Learning Group": {
-                    "latest_date": 1770428957,
-                    "size": 7
+                    "latest_date": 1775708208,
+                    "size": 9
                 },
                 "CarGurus": {
                     "latest_date": 1770779375,
@@ -463,5 +463,5 @@
             }
         }
     },
-    "time": 1775700346.1505218
+    "time": 1775711286.0794353
 }
