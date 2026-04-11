@@ -70,5 +70,17 @@
         "id": 584547335,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1775771960
+    },
+    {
+        "content": "<p>/poll Should we expect you Sunday night?<br>\nyes<br>\nno<br>\nmaybe</p>",
+        "id": 584788428,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1775871947
+    },
+    {
+        "content": "<p><span class=\"user-mention channel-wildcard-mention\" data-user-id=\"*\">@channel</span> I'm trying a poll above. This is for meeting at Time Out on Sunday at 7pm. Details at <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a> . All are welcome!</p>",
+        "id": 584788524,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1775872080
     }
 ]
