@@ -22,5 +22,35 @@
         "id": 573918418,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1771094427
+    },
+    {
+        "content": "<p>In <a href=\"https://github.com/bostonopen/people/pull/15\">https://github.com/bostonopen/people/pull/15</a> I fixed the Zulip link so it actually goes somewhere public.</p>",
+        "id": 585042122,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776005734
+    },
+    {
+        "content": "<p>We've been simply appending names to the file:</p>\n<div class=\"codehilite\"><pre><span></span><code>% cat people.tsv\n\nGitHub Username Zulip ID\npdurbin 652874\nholmesworcester\nHarshKapadia2 653420\norblivion 655359\n...\n</code></pre></div>",
+        "id": 585042210,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776005799
+    },
+    {
+        "content": "<p>Instead, should we keep it sorted by GitHub username?</p>",
+        "id": 585042266,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776005832
+    },
+    {
+        "content": "<p>Or sort it by how likely you are to interact with someone on the list? That is, by how often they come?</p>",
+        "id": 585042310,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776005865
+    },
+    {
+        "content": "<p>Or should we just leave it alone and keep appending? <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 585042331,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776005876
     }
 ]
