@@ -130,5 +130,23 @@
         "id": 585086858,
         "sender_full_name": "Dan",
         "timestamp": 1776043825
+    },
+    {
+        "content": "<p>15 people! Nice turn out! Thanks for coming, everyone! I had a blast talking to everyone.</p>",
+        "id": 585093257,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1776049150
+    },
+    {
+        "content": "<p>Oh wow you're right. 13 in the photo, one behind the camera, and one who left early.</p>",
+        "id": 585098717,
+        "sender_full_name": "Dan",
+        "timestamp": 1776053897
+    },
+    {
+        "content": "<p>Tied with Debian Trixie release party for our biggest turnout.</p>",
+        "id": 585098888,
+        "sender_full_name": "Dan",
+        "timestamp": 1776054112
     }
 ]
