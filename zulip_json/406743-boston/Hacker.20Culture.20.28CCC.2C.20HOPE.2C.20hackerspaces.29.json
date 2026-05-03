@@ -352,5 +352,11 @@
         "id": 535411795,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1755738723
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> <a href=\"#narrow/channel/406743-boston/topic/Hacker.20Culture.20.28CCC.2C.20HOPE.2C.20hackerspaces.29/near/407284752\">said</a>:</p>\n<blockquote>\n<p>at my place in Dover, New Hampshire</p>\n</blockquote>\n<p>If you host again someday, maybe the afterparty can be in Laconia <span aria-label=\"crazy\" class=\"emoji emoji-1f61c\" role=\"img\" title=\"crazy\">:crazy:</span> <a href=\"https://omny.fm/shows/wbz-newsradio-1030-news-audio/laconia-first-n-h-city-to-allow-public-drinking-in-social-districts\">https://omny.fm/shows/wbz-newsradio-1030-news-audio/laconia-first-n-h-city-to-allow-public-drinking-in-social-districts</a></p>",
+        "id": 592581584,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1777831773
     }
 ]

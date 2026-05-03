@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 592481433,
+            "latest_id": 592581584,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -257,8 +257,8 @@
                     "size": 2
                 },
                 "Hacker Culture (CCC, HOPE, hackerspaces)": {
-                    "latest_date": 1755738723,
-                    "size": 59
+                    "latest_date": 1777831773,
+                    "size": 60
                 },
                 "High Street Place Food Hall": {
                     "latest_date": 1774719752,
@@ -471,5 +471,5 @@
             }
         }
     },
-    "time": 1777830268.1045165
+    "time": 1777834622.0326848
 }
