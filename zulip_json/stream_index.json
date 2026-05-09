@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 592886207,
+            "latest_id": 593926532,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -268,6 +268,10 @@
                     "latest_date": 1773539635,
                     "size": 2
                 },
+                "It's getting bad out there": {
+                    "latest_date": 1778298219,
+                    "size": 1
+                },
                 "Java": {
                     "latest_date": 1700886178,
                     "size": 7
@@ -471,5 +475,5 @@
             }
         }
     },
-    "time": 1778284867.0277405
+    "time": 1778300487.699035
 }
