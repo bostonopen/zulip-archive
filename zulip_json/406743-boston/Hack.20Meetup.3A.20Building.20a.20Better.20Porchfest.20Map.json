@@ -10,5 +10,41 @@
         "id": 568344042,
         "sender_full_name": "Dave Hanft",
         "timestamp": 1768528725
+    },
+    {
+        "content": "<p>The Bluesky folks in Boston are putting Porchfest on the \"Atmosphere\" (analogous to the Fediverse):</p>\n<p><a href=\"https://blacksky.community/profile/did:plc:pqerwmnouevyltxyoayhholf/post/3mlge5zvv2k2a\">https://blacksky.community/profile/did:plc:pqerwmnouevyltxyoayhholf/post/3mlge5zvv2k2a</a></p>",
+        "id": 593991711,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340652
+    },
+    {
+        "content": "<p>They have events and maps built into the system I guess. Atmosphere is pretty nice but of course it's somewhat more centralized. They're in an interesting middle zone.</p>",
+        "id": 593991783,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340703
+    },
+    {
+        "content": "<p>I guess they already have \"multi-events\".</p>",
+        "id": 593991840,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340755
+    },
+    {
+        "content": "<p>Conferences etc</p>",
+        "id": 593991848,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340761
+    },
+    {
+        "content": "<p>It's so much easier to sell a company on making an integration. Bluesky has a bunch of users. Things are automatically compatible. It's pretty nice. It bothers me because I prefer the Fediverse <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span>.</p>",
+        "id": 593991949,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340849
+    },
+    {
+        "content": "<p>There's also this unofficial Somerville Porchfest map:</p>\n<p><a href=\"https://www.porchfest.io/\">https://www.porchfest.io/</a></p>",
+        "id": 593992064,
+        "sender_full_name": "Dan",
+        "timestamp": 1778340910
     }
 ]
