@@ -76,5 +76,11 @@
         "id": 594015756,
         "sender_full_name": "Dan",
         "timestamp": 1778356565
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map/near/594004502\">said</a>:</p>\n<blockquote>\n<p>There's also <a href=\"https://viewporchfest.com\">https://viewporchfest.com</a> which I heard about at <a href=\"https://omny.fm/shows/wbz-newsradio-1030-news-audio/attending-somerville-porchfest-interactive-map-might-help-you-plan\">https://omny.fm/shows/wbz-newsradio-1030-news-audio/attending-somerville-porchfest-interactive-map-might-help-you-plan</a></p>\n<p>It also says it's powered by Atmosphere.</p>\n<p>They interview the creator about it. The transcript says \"Tim Sakaroff\" but I wonder that's a misspelling and if it's this guy: <a href=\"https://www.timsakharov.com\">https://www.timsakharov.com</a></p>\n</blockquote>\n<p>Well it seems like everyone and their sister is building porchfest apps now haha</p>",
+        "id": 594023093,
+        "sender_full_name": "Dave Hanft",
+        "timestamp": 1778361110
     }
 ]
