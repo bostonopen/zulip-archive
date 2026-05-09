@@ -46,5 +46,29 @@
         "id": 593992064,
         "sender_full_name": "Dan",
         "timestamp": 1778340910
+    },
+    {
+        "content": "<p>There's also <a href=\"https://viewporchfest.com\">https://viewporchfest.com</a> which I heard about at <a href=\"https://omny.fm/shows/wbz-newsradio-1030-news-audio/attending-somerville-porchfest-interactive-map-might-help-you-plan\">https://omny.fm/shows/wbz-newsradio-1030-news-audio/attending-somerville-porchfest-interactive-map-might-help-you-plan</a></p>\n<p>It also says it's powered by Atmosphere.</p>\n<p>They interview the creator about it. The transcript says \"Tim Sakaroff\" but I wonder that's a misspelling and if it's this guy: <a href=\"https://www.timsakharov.com\">https://www.timsakharov.com</a></p>",
+        "id": 594004502,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1778349197
+    },
+    {
+        "content": "<p>Huh.</p>",
+        "id": 594010238,
+        "sender_full_name": "Dan",
+        "timestamp": 1778352641
+    },
+    {
+        "content": "<p>Okay well that sort of covers our use case. Not sure the usability on the run is what I'd want.</p>",
+        "id": 594010328,
+        "sender_full_name": "Dan",
+        "timestamp": 1778352713
+    },
+    {
+        "content": "<p>Oh wow I think this is coincidentally a different Atmosphere.</p>",
+        "id": 594010410,
+        "sender_full_name": "Dan",
+        "timestamp": 1778352787
     }
 ]
