@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 594318544,
+            "latest_id": 596889612,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -277,8 +277,8 @@
                     "size": 7
                 },
                 "Keep Android Open": {
-                    "latest_date": 1773529056,
-                    "size": 14
+                    "latest_date": 1779415653,
+                    "size": 18
                 },
                 "Libre Boston": {
                     "latest_date": 1747486669,
@@ -475,5 +475,5 @@
             }
         }
     },
-    "time": 1779404490.5917013
+    "time": 1779420587.0731452
 }

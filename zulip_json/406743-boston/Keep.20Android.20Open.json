@@ -82,5 +82,29 @@
         "id": 579476865,
         "sender_full_name": "Shane Robertson",
         "timestamp": 1773529056
+    },
+    {
+        "content": "<p><a href=\"https://opensourcesecurity.io/2026/2026-05-fdroid-hans-steiner/\">https://opensourcesecurity.io/2026/2026-05-fdroid-hans-steiner/</a> was a good listen.</p>",
+        "id": 596889060,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779415322
+    },
+    {
+        "content": "<p>\"But there’s a tendency there, I can give you a whole list of examples, where they take a security issue, make a nice design, but that just always seems to fall in the direction of locking people into Google more.\"</p>",
+        "id": 596889137,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779415363
+    },
+    {
+        "content": "<p>\"The number of people who would be like, yeah, this is a great idea. I mean, they all work at Google.\"</p>",
+        "id": 596889441,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779415553
+    },
+    {
+        "content": "<p>\"the people that are communicating this are not the AOSP team as it has been in the past... it’s clearly a PR campaign with a lot of PR people carefully managing how it’s going out.\"</p>",
+        "id": 596889612,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779415653
     }
 ]
