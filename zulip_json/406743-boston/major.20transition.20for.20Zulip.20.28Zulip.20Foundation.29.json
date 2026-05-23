@@ -16,5 +16,11 @@
         "id": 597188200,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1779496590
+    },
+    {
+        "content": "<p>The thread on Hacker News: <a href=\"https://news.ycombinator.com/item?id=48152168\">https://news.ycombinator.com/item?id=48152168</a> (thanks, <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>, for pointing this out)</p>",
+        "id": 597305152,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779539540
     }
 ]

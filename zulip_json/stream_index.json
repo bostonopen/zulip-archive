@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 597188200,
+            "latest_id": 597305152,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -129,8 +129,8 @@
                     "size": 25
                 },
                 "2026-05 meetup": {
-                    "latest_date": 1776642467,
-                    "size": 9
+                    "latest_date": 1779537907,
+                    "size": 10
                 },
                 "AI and open source": {
                     "latest_date": 1771391504,
@@ -437,8 +437,8 @@
                     "size": 29
                 },
                 "major transition for Zulip (Zulip Foundation)": {
-                    "latest_date": 1779496590,
-                    "size": 3
+                    "latest_date": 1779539540,
+                    "size": 4
                 },
                 "map of places we've met": {
                     "latest_date": 1774764145,
@@ -479,5 +479,5 @@
             }
         }
     },
-    "time": 1779534543.78896
+    "time": 1779542451.184914
 }
