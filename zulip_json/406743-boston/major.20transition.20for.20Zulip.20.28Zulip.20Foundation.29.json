@@ -22,5 +22,11 @@
         "id": 597305152,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1779539540
+    },
+    {
+        "content": "<p>\"The biggest risk to Zulip's ability to succeed over the next few years is not risk of spending time on side projects. It's risk of not having the financial resources even to hire remarkable people who want to take a big pay cut to work on Zulip.\" -- <a href=\"https://news.ycombinator.com/item?id=48160413\">https://news.ycombinator.com/item?id=48160413</a></p>",
+        "id": 597311442,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779545203
     }
 ]
