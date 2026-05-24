@@ -58,5 +58,29 @@
         "id": 597297452,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1779537907
+    },
+    {
+        "content": "<p>omg my username is <code>I'll_logic</code> instead of <code>ill_logic</code>. I thought maybe I made a typo in my password manager but the login actually works. (maybe they just ignore the apostrophe?)</p>",
+        "id": 597415819,
+        "sender_full_name": "Dan",
+        "timestamp": 1779644316
+    },
+    {
+        "content": "<p>I feel like I may have created the account on my phone during a Libreplanet event.</p>",
+        "id": 597415845,
+        "sender_full_name": "Dan",
+        "timestamp": 1779644337
+    },
+    {
+        "content": "<p>Should I name you as the organizer <span class=\"user-mention\" data-user-id=\"652874\">@Philip Durbin</span> ? It's optional.</p>",
+        "id": 597416778,
+        "sender_full_name": "Dan",
+        "timestamp": 1779645017
+    },
+    {
+        "content": "<p>Also - I linked Signal and Zulip on their wiki. Bad idea?</p>",
+        "id": 597417195,
+        "sender_full_name": "Dan",
+        "timestamp": 1779645371
     }
 ]
