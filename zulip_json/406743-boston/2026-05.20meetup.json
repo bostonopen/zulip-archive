@@ -82,5 +82,23 @@
         "id": 597417195,
         "sender_full_name": "Dan",
         "timestamp": 1779645371
+    },
+    {
+        "content": "<p>It looks like last time we put <code>[https://bostonopen.dev Boston Open Dev]</code> as the organizer so I just did the same.</p>",
+        "id": 597425700,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779652068
+    },
+    {
+        "content": "<p>Okay you got in then?</p>",
+        "id": 597425720,
+        "sender_full_name": "Dan",
+        "timestamp": 1779652086
+    },
+    {
+        "content": "<p>Yeah. Thanks for adding the rest! I think the Signal and Zulip links are great.</p>",
+        "id": 597425731,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779652098
     }
 ]
