@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 597681902,
+            "latest_id": 597709923,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -129,8 +129,8 @@
                     "size": 25
                 },
                 "2026-05 meetup": {
-                    "latest_date": 1779740381,
-                    "size": 21
+                    "latest_date": 1779755688,
+                    "size": 22
                 },
                 "AI and open source": {
                     "latest_date": 1771391504,
@@ -479,5 +479,5 @@
             }
         }
     },
-    "time": 1779754342.9363008
+    "time": 1779771714.9857395
 }
