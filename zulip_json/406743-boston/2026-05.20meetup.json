@@ -136,5 +136,17 @@
         "id": 598233088,
         "sender_full_name": "Dan",
         "timestamp": 1779941171
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> looks great! Thanks!</p>",
+        "id": 598314359,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779970406
+    },
+    {
+        "content": "<p><span class=\"user-mention channel-wildcard-mention\" data-user-id=\"*\">@all</span> if you're planning on coming on Sunday (7pm at Time Out), please feel free to give a <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span></p>",
+        "id": 598314651,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1779970501
     }
 ]
