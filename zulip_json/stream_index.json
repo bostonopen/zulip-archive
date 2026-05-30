@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 598729770,
+            "latest_id": 598856757,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -205,8 +205,8 @@
                     "size": 12
                 },
                 "Code and Coffee": {
-                    "latest_date": 1780149044,
-                    "size": 3
+                    "latest_date": 1780174699,
+                    "size": 4
                 },
                 "Codex": {
                     "latest_date": 1775416579,
@@ -503,5 +503,5 @@
             }
         }
     },
-    "time": 1780174430.6819198
+    "time": 1780178391.3299947
 }
