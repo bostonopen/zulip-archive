@@ -172,5 +172,17 @@
         "id": 598682212,
         "sender_full_name": "Adrian",
         "timestamp": 1780113695
+    },
+    {
+        "content": "<p>It was a huge crowd! And I met one of developers behind the porchfest apps we <a href=\"#narrow/channel/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map/near/593991711\">noticed</a> the other day. And he's interested in making use of the CarGurus space, as <a href=\"#narrow/channel/406743-boston/topic/CarGurus/with/573191564\">previously discussed</a>.</p>",
+        "id": 598714735,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780143971
+    },
+    {
+        "content": "<p>On a related note, I just kicked off <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/atproto.20boston/near/598715653\">#boston &gt; atproto boston @ 💬</a> (the porchfest app is built on AT Protocol) since they have local meetups.</p>",
+        "id": 598715722,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780144919
     }
 ]

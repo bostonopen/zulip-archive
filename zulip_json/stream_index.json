@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 598682212,
+            "latest_id": 598716207,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -143,6 +143,10 @@
                 "Afternoon hack meetup": {
                     "latest_date": 1768526936,
                     "size": 108
+                },
+                "All Tech is Human": {
+                    "latest_date": 1780145381,
+                    "size": 1
                 },
                 "Apache 2 vs. AGPL": {
                     "latest_date": 1733252326,
@@ -285,8 +289,8 @@
                     "size": 18
                 },
                 "Libre Boston": {
-                    "latest_date": 1780113695,
-                    "size": 29
+                    "latest_date": 1780144919,
+                    "size": 31
                 },
                 "LibrePlanet 2024": {
                     "latest_date": 1714991272,
@@ -404,6 +408,10 @@
                     "latest_date": 1760375489,
                     "size": 1
                 },
+                "atproto boston": {
+                    "latest_date": 1780145292,
+                    "size": 2
+                },
                 "bostonopen .github/README.md": {
                     "latest_date": 1758581636,
                     "size": 1
@@ -483,5 +491,5 @@
             }
         }
     },
-    "time": 1780139893.1903539
+    "time": 1780147506.7733312
 }
