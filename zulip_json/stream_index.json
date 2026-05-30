@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 598671127,
+            "latest_id": 598682212,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -285,8 +285,8 @@
                     "size": 18
                 },
                 "Libre Boston": {
-                    "latest_date": 1780102787,
-                    "size": 28
+                    "latest_date": 1780113695,
+                    "size": 29
                 },
                 "LibrePlanet 2024": {
                     "latest_date": 1714991272,
@@ -483,5 +483,5 @@
             }
         }
     },
-    "time": 1780109560.6838427
+    "time": 1780122124.358655
 }
