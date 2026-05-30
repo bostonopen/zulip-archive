@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 598716207,
+            "latest_id": 598724490,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -129,8 +129,8 @@
                     "size": 25
                 },
                 "2026-05 meetup": {
-                    "latest_date": 1780060715,
-                    "size": 28
+                    "latest_date": 1780152990,
+                    "size": 30
                 },
                 "AI and open source": {
                     "latest_date": 1771391504,
@@ -201,8 +201,8 @@
                     "size": 12
                 },
                 "Code and Coffee": {
-                    "latest_date": 1780020817,
-                    "size": 2
+                    "latest_date": 1780149044,
+                    "size": 3
                 },
                 "Codex": {
                     "latest_date": 1775416579,
@@ -274,6 +274,10 @@
                 },
                 "Hub Hall": {
                     "latest_date": 1773539635,
+                    "size": 2
+                },
+                "Huntington Hackers": {
+                    "latest_date": 1780149558,
                     "size": 2
                 },
                 "It's getting bad out there": {
@@ -384,6 +388,10 @@
                     "latest_date": 1705259242,
                     "size": 15
                 },
+                "Time Out Market": {
+                    "latest_date": 1780150805,
+                    "size": 3
+                },
                 "Tinfoil hats": {
                     "latest_date": 1714696343,
                     "size": 5
@@ -491,5 +499,5 @@
             }
         }
     },
-    "time": 1780147506.7733312
+    "time": 1780153475.2790787
 }

@@ -166,5 +166,17 @@
         "id": 598559101,
         "sender_full_name": "Dan",
         "timestamp": 1780060715
+    },
+    {
+        "content": "<p>Signal hasn't locked me out of the desktop version yet so I was able to check but thanks. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> From what I understand I need to connect to Signal via phone every so often or I'll get locked out.</p>",
+        "id": 598721334,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780150098
+    },
+    {
+        "content": "<p>6 yes and 3 maybe</p>",
+        "id": 598724490,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780152990
     }
 ]
