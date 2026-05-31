@@ -16,5 +16,17 @@
         "id": 598729770,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1780156968
+    },
+    {
+        "content": "<p><a href=\"https://atmo.rsvp/p/atproto.boston/e/3mm55mfacxkjm\">https://atmo.rsvp/p/atproto.boston/e/3mm55mfacxkjm</a></p>",
+        "id": 598879090,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1780193608
+    },
+    {
+        "content": "<p>Our next meetup (with proper details)!</p>",
+        "id": 598879115,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1780193637
     }
 ]
