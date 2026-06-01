@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>who runs the website for this group? I'd love to see it used as the handle for the atproto account. maybe we could post the meetups via atproto as well via <a href=\"http://atmo.rsvp\">atmo.rsvp</a>? idk if the group has a newsletter or blog but that could be done via <a href=\"http://standard.site\">standard.site</a> as well</p>",
+        "id": 599023315,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1780257587
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> and I do. Do we have an atproto account? <span aria-label=\"thinking\" class=\"emoji emoji-1f914\" role=\"img\" title=\"thinking\">:thinking:</span></p>",
+        "id": 599032943,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780265205
+    },
+    {
+        "content": "<p>Nope</p>",
+        "id": 599036910,
+        "sender_full_name": "Dan",
+        "timestamp": 1780269460
+    }
+]

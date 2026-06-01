@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 599020097,
+            "latest_id": 599036910,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -428,6 +428,10 @@
                     "latest_date": 1758581636,
                     "size": 1
                 },
+                "bostonopen.dev atproto identity": {
+                    "latest_date": 1780269460,
+                    "size": 3
+                },
                 "bostonopen.dev domain": {
                     "latest_date": 1706489052,
                     "size": 1
@@ -503,5 +507,5 @@
             }
         }
     },
-    "time": 1780264999.2700694
+    "time": 1780272285.1525311
 }
