@@ -34,5 +34,11 @@
         "id": 599289129,
         "sender_full_name": "Tynan Purdy",
         "timestamp": 1780364551
+    },
+    {
+        "content": "<p>and yes, this is an events app similar to Luma but on atproto. sign in with your bluesky account to rsvp!</p>",
+        "id": 599585746,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1780424758
     }
 ]
