@@ -34,5 +34,11 @@
         "id": 600986020,
         "sender_full_name": "Adrian",
         "timestamp": 1780838525
+    },
+    {
+        "content": "<p>Let's ping some regulars like <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> <span class=\"user-mention\" data-user-id=\"659178\">@Pete</span> <span class=\"user-mention\" data-user-id=\"712386\">@Yamil Suarez</span> <span class=\"user-mention\" data-user-id=\"815615\">@Dave Hanft</span> <span class=\"user-mention\" data-user-id=\"775680\">@Tanmay Sharma</span> to see if we can get another <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span> for Sunday, June 14th at 7pm.</p>",
+        "id": 601000662,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1780845577
     }
 ]
