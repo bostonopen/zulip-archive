@@ -58,5 +58,11 @@
         "id": 601030406,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1780875456
+    },
+    {
+        "content": "<p>I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/99d3c13a5ada986ae49d4946383c719e440ace16\">updated</a> the website to say we're meeting on June 21st. At Time Out. At 7pm. See you there! <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>",
+        "id": 602472085,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781260564
     }
 ]
