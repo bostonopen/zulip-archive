@@ -22,5 +22,11 @@
         "id": 602966031,
         "sender_full_name": "Adrian",
         "timestamp": 1781405300
+    },
+    {
+        "content": "<p>Well, at least one person asked for a Google Calendar link and I use it myself so I don't want it go away. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> </p>\n<p>But sure, if you want to make a pull request to also add an ics file, please go for it!</p>",
+        "id": 603063099,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781443156
     }
 ]
