@@ -28,5 +28,29 @@
         "id": 603063099,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1781443156
+    },
+    {
+        "content": "<p>Can you at least have partial functionality as a Google user with the ICS link?</p>",
+        "id": 603089876,
+        "sender_full_name": "Dan",
+        "timestamp": 1781453486
+    },
+    {
+        "content": "<p>Wondering for my own purposes, not even for a tech event.</p>",
+        "id": 603089942,
+        "sender_full_name": "Dan",
+        "timestamp": 1781453511
+    },
+    {
+        "content": "<p>As a Google Calendar user, I find ics files to be a poor user experience. You click the ics file. It shows up in your \"downloads\" folder. You dig around in Google Calendar for the right place to import the file. You click import, you browse for the ics file. It's really not great.</p>",
+        "id": 603093799,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781455105
+    },
+    {
+        "content": "<p>I imagine it sucks. I'm just curious if it at least works though as a lowest common denominator for everything. (Though, on a phone I'm surprised that the Google Calendar app doesn't intercept it as soon as you download it)</p>",
+        "id": 603099170,
+        "sender_full_name": "Dan",
+        "timestamp": 1781457205
     }
 ]
