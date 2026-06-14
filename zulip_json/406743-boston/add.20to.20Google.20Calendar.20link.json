@@ -4,5 +4,23 @@
         "id": 602915616,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1781387319
+    },
+    {
+        "content": "<p>I wonder if an ICS link to subscribe to would be better</p>",
+        "id": 602965871,
+        "sender_full_name": "Adrian",
+        "timestamp": 1781405243
+    },
+    {
+        "content": "<p>Then it can be add once and have all future meetups show up</p>",
+        "id": 602965930,
+        "sender_full_name": "Adrian",
+        "timestamp": 1781405263
+    },
+    {
+        "content": "<p><a href=\"http://FOSSRIT.github.io\">FOSSRIT.github.io</a> has a calendar with an ICS feed thats generated with Jekyll if thats a workflow that fits how this site is built</p>",
+        "id": 602966031,
+        "sender_full_name": "Adrian",
+        "timestamp": 1781405300
     }
 ]

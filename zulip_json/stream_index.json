@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 602915616,
+            "latest_id": 602966031,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -425,8 +425,8 @@
                     "size": 1
                 },
                 "add to Google Calendar link": {
-                    "latest_date": 1781387319,
-                    "size": 1
+                    "latest_date": 1781405300,
+                    "size": 4
                 },
                 "atproto boston": {
                     "latest_date": 1780145292,
@@ -515,5 +515,5 @@
             }
         }
     },
-    "time": 1781391751.7562125
+    "time": 1781409175.4826753
 }
