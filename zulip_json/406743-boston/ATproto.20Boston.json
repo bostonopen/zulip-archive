@@ -52,5 +52,17 @@
         "id": 602308930,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1781215553
+    },
+    {
+        "content": "<p>we were there till closing at 9:30</p>",
+        "id": 603427804,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1781540884
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/2026-06.20meetup/near/602472085\">said</a> in <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/2026-06.20meetup/with/602472085\">#boston &gt; 2026-06 meetup</a>:</p>\n<blockquote>\n<p>I just <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/99d3c13a5ada986ae49d4946383c719e440ace16\">updated</a> the website to say we're meeting on June 21st. At Time Out. At 7pm. See you there! <a href=\"https://bostonopen.dev\">https://bostonopen.dev</a></p>\n</blockquote>\n<p>happy to help cross promote this in the atmosphere! best way would be to set up the group account with the @bostonopen.dev handle and post it as an event on <a href=\"http://atmo.rsvp\">atmo.rsvp</a>. that will circulate it to all the atmosphere event sites and things like <a href=\"http://calendar.city/boston\">calendar.city/boston</a></p>",
+        "id": 603428287,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1781540996
     }
 ]
