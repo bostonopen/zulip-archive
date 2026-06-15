@@ -70,5 +70,11 @@
         "id": 603203236,
         "sender_full_name": "Adrian",
         "timestamp": 1781494028
+    },
+    {
+        "content": "<p>Oh, I see what you mean. Subscribing to a calendar. The main problem (eventually) is having too many subscribed calendars in your sidebar. Plus, it sounds like you'd want to maintain a history whereas my solution is focused only on the <a href=\"https://github.com/bostonopen/bostonopen.github.io/blob/f988c54bcb29c7c4690a9beed15d58ed79653cbf/_data/next_meetup.yml\">next event</a>.</p>",
+        "id": 603297599,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781517241
     }
 ]
