@@ -58,5 +58,17 @@
         "id": 603100175,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1781457615
+    },
+    {
+        "content": "<p>One time ICS downloads aren't a good experience. Instead what I do is copy the link to the ICS and \"subscribe\" to the url. Then google calendar does the downloading and updating of events for you as they change</p>",
+        "id": 603203065,
+        "sender_full_name": "Adrian",
+        "timestamp": 1781493968
+    },
+    {
+        "content": "<p>I also wouldn't be surprised if it's possible to set up a Google Calendar link to automate setting that up.</p>",
+        "id": 603203236,
+        "sender_full_name": "Adrian",
+        "timestamp": 1781494028
     }
 ]
