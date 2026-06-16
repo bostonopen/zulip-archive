@@ -64,5 +64,11 @@
         "id": 603428287,
         "sender_full_name": "Tynan Purdy",
         "timestamp": 1781540996
+    },
+    {
+        "content": "<p>Huh, interesting. Thanks. I think the first step would be to get on ATproto. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 603525318,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781564566
     }
 ]
