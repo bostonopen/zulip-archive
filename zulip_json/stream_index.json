@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 604916642,
+            "latest_id": 604973644,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -133,8 +133,8 @@
                     "size": 35
                 },
                 "2026-06 meetup": {
-                    "latest_date": 1781881646,
-                    "size": 17
+                    "latest_date": 1781895499,
+                    "size": 19
                 },
                 "AI and open source": {
                     "latest_date": 1771391504,
@@ -425,8 +425,8 @@
                     "size": 1
                 },
                 "add to Google Calendar link": {
-                    "latest_date": 1781648721,
-                    "size": 14
+                    "latest_date": 1781896084,
+                    "size": 15
                 },
                 "atproto boston": {
                     "latest_date": 1780145292,
@@ -515,5 +515,5 @@
             }
         }
     },
-    "time": 1781891690.5796885
+    "time": 1781898424.969398
 }

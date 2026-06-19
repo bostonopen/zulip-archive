@@ -82,5 +82,11 @@
         "id": 603933949,
         "sender_full_name": "Adrian",
         "timestamp": 1781648721
+    },
+    {
+        "content": "<p>Let's make sure to talk about this on Sunday. I'm curious about this for my own purposes. I don't know the proper behavior of ICS. I would think that deleting items would imply that the event didn't happen.</p>",
+        "id": 604973644,
+        "sender_full_name": "Dan",
+        "timestamp": 1781896084
     }
 ]
