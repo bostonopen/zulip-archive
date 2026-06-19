@@ -76,5 +76,29 @@
         "id": 604671325,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1781818610
+    },
+    {
+        "content": "<p>Okay so that's 6PM Atlantic time. But it'll last more than an hour right?</p>",
+        "id": 604892956,
+        "sender_full_name": "Dan",
+        "timestamp": 1781876822
+    },
+    {
+        "content": "<p>No that's 6PM eastern. The Wikipedia article for UTC-4 must have a map of standard time not daylight saving.</p>",
+        "id": 604893928,
+        "sender_full_name": "Dan",
+        "timestamp": 1781877016
+    },
+    {
+        "content": "<p>Well hopefully it'll not be unbearably loud.</p>",
+        "id": 604894175,
+        "sender_full_name": "Dan",
+        "timestamp": 1781877063
+    },
+    {
+        "content": "<p>Maybe it'll be nice outside.</p>",
+        "id": 604916642,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1781881646
     }
 ]
