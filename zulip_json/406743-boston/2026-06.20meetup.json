@@ -118,5 +118,29 @@
         "id": 605392802,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1782055880
+    },
+    {
+        "content": "<p><img alt=\"IMG_20260621_182043980_HDR.jpg\" class=\"inline-image\" data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" data-original-src=\"/user_uploads/56571/sZCl_1_PaLMi49w-N87TWeMK/IMG_20260621_182043980_HDR.jpg\" src=\"/user_uploads/thumbnail/56571/sZCl_1_PaLMi49w-N87TWeMK/IMG_20260621_182043980_HDR.jpg/840x560.webp\"></p>",
+        "id": 605477197,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1782080846
+    },
+    {
+        "content": "<p>We are outside </p>\n<p><img alt=\"IMG_20260621_192047983_HDR.jpg\" class=\"inline-image\" data-original-content-type=\"image/jpeg\" data-original-dimensions=\"3264x2448\" data-original-src=\"/user_uploads/56571/l0LmMB_F8DITd400Avvt6NiW/IMG_20260621_192047983_HDR.jpg\" src=\"/user_uploads/thumbnail/56571/l0LmMB_F8DITd400Avvt6NiW/IMG_20260621_192047983_HDR.jpg/840x560.webp\"></p>",
+        "id": 605490327,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1782084096
+    },
+    {
+        "content": "<p>Look for us around here:<br>\n<a href=\"https://comaps.at/8mvEfgK4yp/My_Position\">https://comaps.at/8mvEfgK4yp/My_Position</a> (or geo:42.3439454,-71.1027382)</p>\n<p><a href=\"/user_uploads/56571/3aQ5ZPKHFp-Wb-SOYm-Bp_11/IMG_20260621_191759_924.jpg\">IMG_20260621_191759_924.jpg</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/56571/3aQ5ZPKHFp-Wb-SOYm-Bp_11/IMG_20260621_191759_924.jpg\" title=\"IMG_20260621_191759_924.jpg\"><img data-original-content-type=\"image/jpeg\" data-original-dimensions=\"2268x4032\" src=\"/user_uploads/thumbnail/56571/3aQ5ZPKHFp-Wb-SOYm-Bp_11/IMG_20260621_191759_924.jpg/840x560.webp\"></a></div>",
+        "id": 605491823,
+        "sender_full_name": "Dan",
+        "timestamp": 1782084456
+    },
+    {
+        "content": "<p>Though we might move</p>",
+        "id": 605491861,
+        "sender_full_name": "Dan",
+        "timestamp": 1782084465
     }
 ]
