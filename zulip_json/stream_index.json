@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 607129761,
+            "latest_id": 607473615,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -292,6 +292,10 @@
                     "latest_date": 1780427541,
                     "size": 3
                 },
+                "IQSS is hiring a Senior QA and Production Support Manager": {
+                    "latest_date": 1782853689,
+                    "size": 1
+                },
                 "It's getting bad out there": {
                     "latest_date": 1778298219,
                     "size": 1
@@ -519,5 +523,5 @@
             }
         }
     },
-    "time": 1782849145.7070928
+    "time": 1782854777.6940167
 }
