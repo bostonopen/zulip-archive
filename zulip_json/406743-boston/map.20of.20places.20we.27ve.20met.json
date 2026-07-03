@@ -214,5 +214,11 @@
         "id": 582384513,
         "sender_full_name": "Adrian",
         "timestamp": 1774764145
+    },
+    {
+        "content": "<p>I switched the map to some cleaner-looking tiles: <a href=\"https://github.com/bostonopen/bostonopen.github.io/pull/21\">https://github.com/bostonopen/bostonopen.github.io/pull/21</a></p>",
+        "id": 608083417,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1783089652
     }
 ]
