@@ -70,5 +70,11 @@
         "id": 609693784,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1783864903
+    },
+    {
+        "content": "<p>FYIs Phil and I are gonna show up an hour early for a little hacking and a little juggling after.</p>\n<p>In particular I want to hack on the Boston Open website, switch the map to MapLibre to get rid of the annoying scrolling behavior on mobile.</p>",
+        "id": 609700632,
+        "sender_full_name": "Dan",
+        "timestamp": 1783871428
     }
 ]
