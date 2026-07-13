@@ -100,5 +100,23 @@
         "id": 609730937,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1783900443
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"740762\">@Morgan Jassen</span> did you get a pic of the juggling? <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 609744433,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1783910895
+    },
+    {
+        "content": "<p>Thanks for coming, everyone! That was fun! Let's do it again next month: <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/2026-08.20meetup/with/609716083\">#boston &gt; 2026-08 meetup</a> <span aria-label=\"tada\" class=\"emoji emoji-1f389\" role=\"img\" title=\"tada\">:tada:</span></p>",
+        "id": 609744478,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1783910942
+    },
+    {
+        "content": "<p>I like the pic so much I <a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/e8117ae81e2f549b739eb438566427688a64d965\">updated</a> the <a href=\"https://bostonopen.dev/\">website</a> to use it. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 609749080,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1783914262
     }
 ]
