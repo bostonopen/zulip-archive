@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 609749080,
+            "latest_id": 609833574,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -137,8 +137,8 @@
                     "size": 24
                 },
                 "2026-07 meetup": {
-                    "latest_date": 1783914262,
-                    "size": 20
+                    "latest_date": 1783945666,
+                    "size": 21
                 },
                 "2026-08 meetup": {
                     "latest_date": 1783884550,
@@ -441,8 +441,8 @@
                     "size": 16
                 },
                 "add to calendar links": {
-                    "latest_date": 1783913002,
-                    "size": 1
+                    "latest_date": 1783947893,
+                    "size": 2
                 },
                 "atproto boston": {
                     "latest_date": 1780145292,
@@ -485,8 +485,8 @@
                     "size": 3
                 },
                 "juggling": {
-                    "latest_date": 1775416691,
-                    "size": 29
+                    "latest_date": 1783945850,
+                    "size": 30
                 },
                 "major transition for Zulip (Zulip Foundation)": {
                     "latest_date": 1779545203,
@@ -539,5 +539,5 @@
             }
         }
     },
-    "time": 1783938204.3324666
+    "time": 1783948880.491089
 }
