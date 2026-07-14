@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 609970274,
+            "latest_id": 609993206,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -384,6 +384,10 @@
                     "latest_date": 1765160487,
                     "size": 3
                 },
+                "Seacoast New Hampshire FOSS Meetup": {
+                    "latest_date": 1783989558,
+                    "size": 2
+                },
                 "Security Now": {
                     "latest_date": 1744590948,
                     "size": 3
@@ -539,5 +543,5 @@
             }
         }
     },
-    "time": 1783986744.6725051
+    "time": 1783995264.3167667
 }
