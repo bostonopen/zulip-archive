@@ -220,5 +220,23 @@
         "id": 608083417,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1783089652
+    },
+    {
+        "content": "<p>I'm close to converting everything to MapLibre. The main benefit is that we can make it less annoying to scroll on mobile. Secondary benefits are related to newer features since Leaflet is the \"previous gen\" map UI.</p>",
+        "id": 611134100,
+        "sender_full_name": "Dan",
+        "timestamp": 1784224895
+    },
+    {
+        "content": "<p>The main holdup is that Leaflet has a nice \"circle marker\" feature that Phil used that is not straightforward to replicate. It can be done but I might need a plugin or to do some work myself.</p>",
+        "id": 611134406,
+        "sender_full_name": "Dan",
+        "timestamp": 1784224940
+    },
+    {
+        "content": "<p>One cool thing we'll have BTW is 3D buildings!</p>",
+        "id": 611134531,
+        "sender_full_name": "Dan",
+        "timestamp": 1784224965
     }
 ]
