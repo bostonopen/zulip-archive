@@ -82,5 +82,11 @@
         "id": 610967610,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1784167256
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"1087130\">Tynan Purdy</span> <a href=\"#narrow/channel/406743-boston/topic/ATproto.20Boston/near/611092281\">said</a> in <a class=\"stream-topic\" data-stream-id=\"406743\" href=\"/#narrow/channel/406743-boston/topic/ATproto.20Boston/with/611092281\">#boston &gt; ATproto Boston</a>:</p>\n<blockquote>\n<p>Hey friends! ATProto Boston is having an event in a couple weeks. There will be pizza and talks and demos, plus all sorts of great folk working on the open social web and digital agency. I hope to see you there!  </p>\n<p><a href=\"https://bsky.app/profile/did:plc:pqerwmnouevyltxyoayhholf/post/3mqpucmcoqs26\">https://bsky.app/profile/did:plc:pqerwmnouevyltxyoayhholf/post/3mqpucmcoqs26</a></p>\n</blockquote>",
+        "id": 611092374,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1784213595
     }
 ]
