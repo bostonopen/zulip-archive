@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>There are some people in the Boston area starting up a local OSM meetup. They were enthused by meeting each other at State of the Map US these last couple of years.</p>",
+        "id": 611555246,
+        "sender_full_name": "Dan",
+        "timestamp": 1784495526
+    },
+    {
+        "content": "<p>There has been one meetup already, a few months back. There will be one coming up on <strong>July 29th</strong> which is a <strong>Wednesday</strong>, though it will be <strong>virtual</strong>. I think that is to accommodate people who can't make it IRL. I'll plan to be there. I'll keep you posted when specific details arise.</p>",
+        "id": 611555396,
+        "sender_full_name": "Dan",
+        "timestamp": 1784495675
+    },
+    {
+        "content": "<p>Hopefully there will also be IRL events. One of the organizers wanted to do a group edit day at some point which would be fun, and very IRL.</p>",
+        "id": 611555514,
+        "sender_full_name": "Dan",
+        "timestamp": 1784495754
+    }
+]
