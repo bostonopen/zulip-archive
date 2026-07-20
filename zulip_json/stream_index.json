@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 611663177,
+            "latest_id": 611757941,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -201,8 +201,8 @@
                     "size": 23
                 },
                 "Boston OpenStreetMap meetup": {
-                    "latest_date": 1784553417,
-                    "size": 6
+                    "latest_date": 1784580163,
+                    "size": 8
                 },
                 "Boston Perl Mongers": {
                     "latest_date": 1757033450,
@@ -547,5 +547,5 @@
             }
         }
     },
-    "time": 1784577118.4980726
+    "time": 1784581791.569713
 }
