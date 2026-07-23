@@ -100,5 +100,17 @@
         "id": 610872985,
         "sender_full_name": "Morgan Jassen",
         "timestamp": 1784134154
+    },
+    {
+        "content": "<p>Whelp, only <span class=\"user-mention\" data-user-id=\"1029124\">@Adrian</span> and I voted above and he put an <span aria-label=\"cross mark\" class=\"emoji emoji-274c\" role=\"img\" title=\"cross mark\">:cross_mark:</span> on Aug 9th but I think it's the best day for me so I'm picking that one and will update the website. Sorry, <span class=\"user-mention\" data-user-id=\"1029124\">@Adrian</span>! I hope others can make it!</p>",
+        "id": 612335531,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1784807351
+    },
+    {
+        "content": "<p><a href=\"https://github.com/bostonopen/bostonopen.github.io/commit/e3b5520780450bb11e61dde047215c63a8bd33d1\">Updated</a>!</p>\n<p>Here are the details for the next open source meetup:</p>\n<ul>\n<li>When: Sunday, August 9, 2026 at 7pm</li>\n<li>Where: <a href=\"https://www.timeout.com/time-out-market-boston\">Time Out Market Boston</a>, 401 Park Dr, Boston, MA 02215 (<a href=\"https://maps.app.goo.gl/Rxc91vumkD2PRJmu8\">Google Maps</a>)</li>\n<li>Discuss: <a href=\"#narrow/channel/406743-boston/topic/2026-08.20meetup/near/609638253\">Zulip thread</a></li>\n</ul>\n<p>Add to calendar: <a href=\"https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Boston+Open+Dev+Meetup&amp;dates=20260809T190000%2F20260809T220000&amp;ctz=America%2FNew_York&amp;location=Time+Out+Market+Boston%2C+401+Park+Dr%2C+Boston%2C+MA+02215&amp;details=Discuss%3A+Zulip+thread%3A+https%3A%2F%2Fosdc.zulipchat.com%2F%23narrow%2Fchannel%2F406743-boston%2Ftopic%2F2026-08.20meetup%2Fnear%2F609638253%0A%0Ahttps%3A%2F%2Fbostonopen.dev\">Google Calendar</a> (<a href=\"webcal://bostonopen.dev/meetup.ics\">webcal</a>, <a href=\"https://bostonopen.dev/meetup.ics\">ICS</a>)</p>",
+        "id": 612336255,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1784807587
     }
 ]
