@@ -94,5 +94,17 @@
         "id": 594318544,
         "sender_full_name": "Dan",
         "timestamp": 1778510796
+    },
+    {
+        "content": "<p>So are we still thinking of building any porchfest maps? Brookline Porchfest is on Sep 26th: <a href=\"https://www.brooklineporchfest.org\">https://www.brooklineporchfest.org</a></p>",
+        "id": 612742559,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1784992713
+    },
+    {
+        "content": "<p>A possible direction:</p>\n<ul>\n<li>Make a repo at <a href=\"https://github.com/bostonopen/porchfest\">https://github.com/bostonopen/porchfest</a></li>\n<li>Make directory: brookline<ul>\n<li>Make directory: brookline/2025<ul>\n<li>Vibe code something based on the 2025 KML: <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map/near/540222064\">#boston &gt; Hack Meetup: Building a Better Porchfest Map @ 💬</a> </li>\n</ul>\n</li>\n<li>Make directory: brookline/2026<ul>\n<li>Wait for the KML to be published</li>\n<li>Make a 2026 version based on the 2025 version</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>",
+        "id": 612742997,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1784993201
     }
 ]

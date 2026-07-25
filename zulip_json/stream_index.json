@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 612479218,
+            "latest_id": 612742997,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -281,8 +281,8 @@
                     "size": 27
                 },
                 "Hack Meetup: Building a Better Porchfest Map": {
-                    "latest_date": 1778510796,
-                    "size": 16
+                    "latest_date": 1784993201,
+                    "size": 18
                 },
                 "Hacker Culture (CCC, HOPE, hackerspaces)": {
                     "latest_date": 1777850681,
@@ -547,5 +547,5 @@
             }
         }
     },
-    "time": 1784991616.9425895
+    "time": 1784995782.1495695
 }
