@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 612742997,
+            "latest_id": 612822385,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -217,8 +217,8 @@
                     "size": 10
                 },
                 "CarGurus": {
-                    "latest_date": 1784213595,
-                    "size": 15
+                    "latest_date": 1785074336,
+                    "size": 16
                 },
                 "Code and Coffee": {
                     "latest_date": 1783802383,
@@ -547,5 +547,5 @@
             }
         }
     },
-    "time": 1785071756.709705
+    "time": 1785078166.4718482
 }
