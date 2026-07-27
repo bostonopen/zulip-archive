@@ -106,5 +106,17 @@
         "id": 612742997,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1784993201
+    },
+    {
+        "content": "<p>Did the ATProto people end up coming up with something?</p>",
+        "id": 612874298,
+        "sender_full_name": "Dan",
+        "timestamp": 1785116255
+    },
+    {
+        "content": "<p>Well, there's <a href=\"https://www.porchfest.io\">https://www.porchfest.io</a> and <a href=\"https://viewporchfest.com\">https://viewporchfest.com</a> and yes, at least one of them was done by ATproto people. <span class=\"user-mention\" data-user-id=\"1087130\">@Tynan Purdy</span> would probably know. I don't know if either one is open source.</p>",
+        "id": 612874814,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785116729
     }
 ]
