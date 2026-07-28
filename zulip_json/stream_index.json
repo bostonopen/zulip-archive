@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 613226700,
+            "latest_id": 613259048,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -201,8 +201,8 @@
                     "size": 23
                 },
                 "Boston OpenStreetMap meetup": {
-                    "latest_date": 1784580163,
-                    "size": 8
+                    "latest_date": 1785260108,
+                    "size": 9
                 },
                 "Boston Perl Mongers": {
                     "latest_date": 1757033450,
@@ -213,8 +213,8 @@
                     "size": 7
                 },
                 "Boston Web Dev Learning Group": {
-                    "latest_date": 1785251872,
-                    "size": 12
+                    "latest_date": 1785260757,
+                    "size": 14
                 },
                 "CarGurus": {
                     "latest_date": 1785251730,
@@ -547,5 +547,5 @@
             }
         }
     },
-    "time": 1785259432.8972611
+    "time": 1785266372.6527421
 }
