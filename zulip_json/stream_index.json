@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 613189827,
+            "latest_id": 613226700,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -213,12 +213,12 @@
                     "size": 7
                 },
                 "Boston Web Dev Learning Group": {
-                    "latest_date": 1785242316,
-                    "size": 11
+                    "latest_date": 1785251872,
+                    "size": 12
                 },
                 "CarGurus": {
-                    "latest_date": 1785074336,
-                    "size": 16
+                    "latest_date": 1785251730,
+                    "size": 18
                 },
                 "Code and Coffee": {
                     "latest_date": 1783802383,
@@ -281,8 +281,8 @@
                     "size": 27
                 },
                 "Hack Meetup: Building a Better Porchfest Map": {
-                    "latest_date": 1785116729,
-                    "size": 20
+                    "latest_date": 1785251547,
+                    "size": 21
                 },
                 "Hacker Culture (CCC, HOPE, hackerspaces)": {
                     "latest_date": 1777850681,
@@ -547,5 +547,5 @@
             }
         }
     },
-    "time": 1785243073.7435298
+    "time": 1785251890.2794678
 }

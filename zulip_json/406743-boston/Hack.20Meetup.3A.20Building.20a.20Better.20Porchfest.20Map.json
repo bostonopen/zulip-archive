@@ -118,5 +118,11 @@
         "id": 612874814,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1785116729
+    },
+    {
+        "content": "<p>some stuff was made but hasn't moved in a bit afaik. For sure some of my folks would be interested in working together on it if y'all want to do it. We sketched out a data model to put it on atproto and someone made a client that just has manual data on a map at <a href=\"https://porchfest.at\">https://porchfest.at</a></p>",
+        "id": 613225425,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785251547
     }
 ]
