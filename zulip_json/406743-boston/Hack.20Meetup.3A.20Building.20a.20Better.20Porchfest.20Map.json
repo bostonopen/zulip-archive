@@ -130,5 +130,17 @@
         "id": 613305297,
         "sender_full_name": "Dave Hanft",
         "timestamp": 1785279516
+    },
+    {
+        "content": "<p>I should probably try to figure out who's in charge and contact them.</p>",
+        "id": 613316524,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785285712
+    },
+    {
+        "content": "<p>I've been assuming they'll just use Google Maps and produce a kml file, like last year.</p>",
+        "id": 613316556,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785285734
     }
 ]
