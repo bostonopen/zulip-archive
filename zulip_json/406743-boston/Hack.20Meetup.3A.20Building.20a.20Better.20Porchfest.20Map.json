@@ -148,5 +148,41 @@
         "id": 613450691,
         "sender_full_name": "Tynan Purdy",
         "timestamp": 1785338359
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"1087130\">@Tynan Purdy</span> cool, I went to one of their meetups years ago but I thought they only worked on political projects.</p>",
+        "id": 613551375,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785376767
+    },
+    {
+        "content": "<p>they focus on public good and open source stuff with a community stakeholder which often manifests in using public data in some useful way for a government site</p>",
+        "id": 613551492,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785376847
+    },
+    {
+        "content": "<p>I just realized the title of this thread. are yall planning a meetup date to build this?</p>",
+        "id": 613551594,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785376900
+    },
+    {
+        "content": "<p>No, we haven't planned anything formal. Just informal hacking. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> </p>\n<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> any insight on why <a href=\"https://pdurbin.github.io/a-better-porchfest/\">https://pdurbin.github.io/a-better-porchfest/</a> is throwing errors now?</p>\n<p><img alt=\"Screenshot 2026-07-29 at 10.00.26 PM.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"2936x1636\" data-original-src=\"/user_uploads/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png\" src=\"/user_uploads/thumbnail/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png/840x560.webp\"></p>\n<p><a href=\"https://github.com/pdurbin/a-better-porchfest\">https://github.com/pdurbin/a-better-porchfest</a> is the same as <a href=\"https://github.com/orblivion/a-better-porchfest\">https://github.com/orblivion/a-better-porchfest</a> except that I I set up GitHub Pages on it. I figured it would be a good starting point. I'd fork your repo over to the bostonopen org.</p>",
+        "id": 613551651,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785376962
+    },
+    {
+        "content": "<p>we could certainly put together an event for it. I recently got in touch with cambridge hackspace and they are open to hosting things with us</p>",
+        "id": 613551740,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377053
+    },
+    {
+        "content": "<p>how many cooks do we want? <span aria-label=\"crazy\" class=\"emoji emoji-1f61c\" role=\"img\" title=\"crazy\">:crazy:</span></p>",
+        "id": 613551931,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377199
     }
 ]
