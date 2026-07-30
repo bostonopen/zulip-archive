@@ -184,5 +184,65 @@
         "id": 613551931,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1785377199
+    },
+    {
+        "content": "<p>Here's a pic from the last time we hacked on the porchfest map:</p>\n<p><img alt=\"IMG_20250921_150233690_HDR.jpg\" class=\"inline-image\" data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" data-original-src=\"/user_uploads/56571/3Pq5s4PsFt1vEfa4iGuOxHqo/IMG_20250921_150233690_HDR.jpg\" src=\"/user_uploads/thumbnail/56571/3Pq5s4PsFt1vEfa4iGuOxHqo/IMG_20250921_150233690_HDR.jpg/840x560.webp\"></p>\n<p>From <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/540687910\">#boston &gt; 2025-09 meetup @ 💬</a></p>",
+        "id": 613552140,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377365
+    },
+    {
+        "content": "<p>so true lol. but it can be broken up into parts. we need a festing experience, a fest prep experience, a planner experience, backend, data model</p>",
+        "id": 613552231,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377421
+    },
+    {
+        "content": "<p>throw in a web and native app</p>",
+        "id": 613552262,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377438
+    },
+    {
+        "content": "<p>room for plenty of line cooks</p>",
+        "id": 613552276,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377450
+    },
+    {
+        "content": "<p>Well, like I say, I'm inclined to use <span class=\"user-mention\" data-user-id=\"655359\">@Dan</span>'s <a href=\"https://github.com/orblivion/a-better-porchfest\">https://github.com/orblivion/a-better-porchfest</a> as a starting point.</p>",
+        "id": 613552327,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377499
+    },
+    {
+        "content": "<p>He did a nice writeup here: <a href=\"https://www.linkedin.com/posts/danielkrol_last-sunday-i-organized-a-small-afternoon-activity-7378245073555050496-m4lF/\">https://www.linkedin.com/posts/danielkrol_last-sunday-i-organized-a-small-afternoon-activity-7378245073555050496-m4lF/</a></p>",
+        "id": 613552353,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377525
+    },
+    {
+        "content": "<p>\"Organizing any type of event like this is always more stressful than my fantasy scenario where everyone \"gets it\" right away and we're off to the races and get the whole thing done in three hours.\" <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 613552440,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377599
+    },
+    {
+        "content": "<p>I take extreme offense to being directed to the linkedin[dot]com domain</p>",
+        "id": 613552506,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377659
+    },
+    {
+        "content": "<p>but yes all good points</p>",
+        "id": 613552576,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1785377724
+    },
+    {
+        "content": "<p>I only post on LinkedIn when I take a big trip for work. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 613552734,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785377856
     }
 ]
