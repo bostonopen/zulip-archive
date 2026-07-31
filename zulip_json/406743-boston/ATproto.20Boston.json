@@ -106,5 +106,11 @@
         "id": 613450857,
         "sender_full_name": "Tynan Purdy",
         "timestamp": 1785338402
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"1087130\">@Tynan Purdy</span> you had me at brewery. Nice place!</p>",
+        "id": 613762858,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1785456760
     }
 ]
