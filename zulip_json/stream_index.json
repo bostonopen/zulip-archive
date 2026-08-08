@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 615389430,
+            "latest_id": 615393208,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -332,6 +332,10 @@
                     "latest_date": 1776639411,
                     "size": 5
                 },
+                "MinuteCon": {
+                    "latest_date": 1786222044,
+                    "size": 3
+                },
                 "Montreal": {
                     "latest_date": 1759789261,
                     "size": 33
@@ -492,6 +496,10 @@
                     "latest_date": 1734385866,
                     "size": 3
                 },
+                "job market for recent computer science graduates": {
+                    "latest_date": 1786221349,
+                    "size": 1
+                },
                 "juggling": {
                     "latest_date": 1783945850,
                     "size": 30
@@ -547,5 +555,5 @@
             }
         }
     },
-    "time": 1786220756.1928434
+    "time": 1786224424.546595
 }
