@@ -142,5 +142,47 @@
         "id": 615494697,
         "sender_full_name": "Morgan Jassen",
         "timestamp": 1786305768
+    },
+    {
+        "content": "<p>We're going to sit outside, near Trilliam.</p>",
+        "id": 615507497,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786316667
+    },
+    {
+        "content": "<p>Heyo dropping in as well, lmk where you guys are seated</p>",
+        "id": 615507506,
+        "sender_full_name": "Siddharth Chauhan",
+        "timestamp": 1786316672
+    },
+    {
+        "content": "<p>I have a blue T-shirt and a black gnu hat.</p>",
+        "id": 615507594,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786316731
+    },
+    {
+        "content": "<p>Inside or outside?</p>",
+        "id": 615507819,
+        "sender_full_name": "Siddharth Chauhan",
+        "timestamp": 1786316893
+    },
+    {
+        "content": "<p>We're lost!</p>",
+        "id": 615508176,
+        "sender_full_name": "Dan",
+        "timestamp": 1786317221
+    },
+    {
+        "content": "<p>We're outside, near Trilliam <span aria-label=\"man shrugging\" class=\"emoji emoji-1f937-200d-2642\" role=\"img\" title=\"man shrugging\">:man_shrugging:</span></p>",
+        "id": 615508215,
+        "sender_full_name": "Dan",
+        "timestamp": 1786317260
+    },
+    {
+        "content": "<p>Okay they were getting beer</p>",
+        "id": 615508317,
+        "sender_full_name": "Dan",
+        "timestamp": 1786317329
     }
 ]
