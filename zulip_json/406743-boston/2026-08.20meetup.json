@@ -136,5 +136,11 @@
         "id": 615488592,
         "sender_full_name": "Adrian",
         "timestamp": 1786300109
+    },
+    {
+        "content": "<p><span aria-label=\"+1\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"+1\">:+1:</span></p>",
+        "id": 615494697,
+        "sender_full_name": "Morgan Jassen",
+        "timestamp": 1786305768
     }
 ]
