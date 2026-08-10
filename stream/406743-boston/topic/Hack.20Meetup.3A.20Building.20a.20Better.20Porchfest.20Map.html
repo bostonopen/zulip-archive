@@ -301,5 +301,22 @@
 
 
 
-<hr><p>Last updated: Aug 09 2026 at 23:28 UTC</p>
+<a name="615518308"></a>
+<h4><a href="https://osdc.zulipchat.com#narrow/stream/406743-boston/topic/Hack%20Meetup%3A%20Building%20a%20Better%20Porchfest%20Map/near/615518308" class="zl"><img src="http://bostonopen.dev/zulip-archive/assets/img/zulip.svg" alt="view this post on Zulip" style="width:20px;height:20px;"></a> Dan <a href="http://bostonopen.dev/zulip-archive/stream/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map.html#615518308">(Aug 10 2026 at 00:45)</a>:</h4>
+<p><span class="user-mention silent" data-user-id="652874">Philip Durbin</span> <a href="#narrow/channel/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map/near/613551651">said</a>:</p>
+<blockquote>
+<p>No, we haven't planned anything formal. Just informal hacking. <span aria-label="smile" class="emoji emoji-1f604" role="img" title="smile">:smile:</span> </p>
+<p><span class="user-mention silent" data-user-id="655359">Dan</span> any insight on why <a href="https://pdurbin.github.io/a-better-porchfest/">https://pdurbin.github.io/a-better-porchfest/</a> is throwing errors now?</p>
+<p><img alt="Screenshot 2026-07-29 at 10.00.26 PM.png" class="inline-image" data-original-content-type="image/png" data-original-dimensions="2936x1636" data-original-src="/user_uploads/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png" src="/user_uploads/thumbnail/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png/840x560.webp"></p>
+<p><a href="https://github.com/pdurbin/a-better-porchfest">https://github.com/pdurbin/a-better-porchfest</a> is the same as <a href="https://github.com/orblivion/a-better-porchfest">https://github.com/orblivion/a-better-porchfest</a> except that I I set up GitHub Pages on it. I figured it would be a good starting point. I'd fork your repo over to the bostonopen org.</p>
+</blockquote>
+<p>Looks like maplibre upgraded and turned into a module import only. Openfreemap actually pins it at version 5 in their example now (not sure if it was before). So do that and it'll get over that hump.</p>
+<div class="codehilite"><pre><span></span><code>&lt;!-- Maplibre GL --&gt;
+&lt;link href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" rel="stylesheet" /&gt;
+&lt;script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"&gt;&lt;/script&gt;
+</code></pre></div>
+
+
+
+<hr><p>Last updated: Aug 10 2026 at 01:37 UTC</p>
 </html>

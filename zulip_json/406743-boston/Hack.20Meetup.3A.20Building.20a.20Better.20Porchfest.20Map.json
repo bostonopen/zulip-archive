@@ -256,5 +256,11 @@
         "id": 615389430,
         "sender_full_name": "Dan",
         "timestamp": 1786217738
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Hack.20Meetup.3A.20Building.20a.20Better.20Porchfest.20Map/near/613551651\">said</a>:</p>\n<blockquote>\n<p>No, we haven't planned anything formal. Just informal hacking. <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> </p>\n<p><span class=\"user-mention silent\" data-user-id=\"655359\">Dan</span> any insight on why <a href=\"https://pdurbin.github.io/a-better-porchfest/\">https://pdurbin.github.io/a-better-porchfest/</a> is throwing errors now?</p>\n<p><img alt=\"Screenshot 2026-07-29 at 10.00.26 PM.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"2936x1636\" data-original-src=\"/user_uploads/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png\" src=\"/user_uploads/thumbnail/56571/eDC2K_W2JEo0xfZQaQBSEIuO/Screenshot-2026-07-29-at-10.00.26PM.png/840x560.webp\"></p>\n<p><a href=\"https://github.com/pdurbin/a-better-porchfest\">https://github.com/pdurbin/a-better-porchfest</a> is the same as <a href=\"https://github.com/orblivion/a-better-porchfest\">https://github.com/orblivion/a-better-porchfest</a> except that I I set up GitHub Pages on it. I figured it would be a good starting point. I'd fork your repo over to the bostonopen org.</p>\n</blockquote>\n<p>Looks like maplibre upgraded and turned into a module import only. Openfreemap actually pins it at version 5 in their example now (not sure if it was before). So do that and it'll get over that hump.</p>\n<div class=\"codehilite\"><pre><span></span><code>&lt;!-- Maplibre GL --&gt;\n&lt;link href=\"https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css\" rel=\"stylesheet\" /&gt;\n&lt;script src=\"https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js\"&gt;&lt;/script&gt;\n</code></pre></div>",
+        "id": 615518308,
+        "sender_full_name": "Dan",
+        "timestamp": 1786322751
     }
 ]
