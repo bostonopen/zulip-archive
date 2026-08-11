@@ -268,5 +268,17 @@
         "id": 615607748,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1786363464
+    },
+    {
+        "content": "<p>I'm playing around at <a href=\"https://greptilian.com/a-better-porchfest/brookline/2025/\">https://greptilian.com/a-better-porchfest/brookline/2025/</a></p>",
+        "id": 615750676,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786412776
+    },
+    {
+        "content": "<p>The code is here: <a href=\"https://github.com/pdurbin/a-better-porchfest\">https://github.com/pdurbin/a-better-porchfest</a></p>",
+        "id": 615750696,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786412797
     }
 ]
