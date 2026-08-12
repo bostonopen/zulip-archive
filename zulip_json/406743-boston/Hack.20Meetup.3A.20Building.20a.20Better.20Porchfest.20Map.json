@@ -286,5 +286,41 @@
         "id": 615989737,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1786501932
+    },
+    {
+        "content": "<p>Was the slider there before?</p>",
+        "id": 616076425,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537202
+    },
+    {
+        "content": "<p>Play button could perhaps be useful if you want to see if there is a trend for location of gigs</p>",
+        "id": 616076548,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537243
+    },
+    {
+        "content": "<p>Oh and you imported the data looks like.</p>",
+        "id": 616076630,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537263
+    },
+    {
+        "content": "<p>Wow it's really slow to load the map for whatever reason.</p>",
+        "id": 616076859,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537337
+    },
+    {
+        "content": "<p>Well if openfreemap is slow I could help you self-host the map. (Something I've been doing for my job for a few months)</p>",
+        "id": 616077250,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537447
+    },
+    {
+        "content": "<p>I'm going to guess a few megs for all of Brookline.</p>",
+        "id": 616077353,
+        "sender_full_name": "Dan",
+        "timestamp": 1786537483
     }
 ]
