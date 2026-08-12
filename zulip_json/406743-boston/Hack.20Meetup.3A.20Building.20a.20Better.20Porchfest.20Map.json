@@ -322,5 +322,17 @@
         "id": 616077353,
         "sender_full_name": "Dan",
         "timestamp": 1786537483
+    },
+    {
+        "content": "<p>Huh, it's not especially slow for me.</p>",
+        "id": 616188198,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786572655
+    },
+    {
+        "content": "<p>No, I added the slider.</p>",
+        "id": 616188237,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786572668
     }
 ]
