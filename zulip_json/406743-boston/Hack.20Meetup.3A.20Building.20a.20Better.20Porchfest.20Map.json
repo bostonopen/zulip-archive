@@ -334,5 +334,17 @@
         "id": 616188237,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1786572668
+    },
+    {
+        "content": "<p>To be clear I mean the underlying map is slow to load. The markers are fine.</p>",
+        "id": 616312033,
+        "sender_full_name": "Dan",
+        "timestamp": 1786626988
+    },
+    {
+        "content": "<p>So maybe openfreemap is slow. Or maybe my browser has an issue with it.</p>",
+        "id": 616312171,
+        "sender_full_name": "Dan",
+        "timestamp": 1786627030
     }
 ]
