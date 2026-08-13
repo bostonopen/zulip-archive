@@ -346,5 +346,17 @@
         "id": 616312171,
         "sender_full_name": "Dan",
         "timestamp": 1786627030
+    },
+    {
+        "content": "<p>Wasnt openfremap having load issues with the real world r/place clone a while back? I wonder if theres throttling as an anti bot measure or something</p>",
+        "id": 616420252,
+        "sender_full_name": "Adrian",
+        "timestamp": 1786660807
+    },
+    {
+        "content": "<p>Their tech stack is cool tho \"There is no tile server running; only nginx serving a Btrfs image with 300 million hard-linked files. This was my idea; I haven’t read about anyone else doing this in production, but it works really well. (You can read more about it on GitHub.)\"</p>",
+        "id": 616420417,
+        "sender_full_name": "Adrian",
+        "timestamp": 1786660887
     }
 ]
