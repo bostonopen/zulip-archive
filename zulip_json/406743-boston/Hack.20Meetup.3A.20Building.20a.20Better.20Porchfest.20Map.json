@@ -382,5 +382,11 @@
         "id": 616620208,
         "sender_full_name": "Adrian",
         "timestamp": 1786737668
+    },
+    {
+        "content": "<p>The circle gets wider for each additional band at the same porch. In this dataset, the most bands any porch has is four.</p>\n<p>Darker blue means more total time you'll hear music at that porch.</p>",
+        "id": 616697593,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1786794425
     }
 ]
