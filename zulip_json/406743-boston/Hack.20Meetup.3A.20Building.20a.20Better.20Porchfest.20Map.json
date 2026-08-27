@@ -388,5 +388,23 @@
         "id": 616697593,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1786794425
+    },
+    {
+        "content": "<p>I'll try it on laptop to see if it's faster.</p>\n<p>We could also self-host the tiles if we really want, I have experience in that now <span aria-label=\"grinning face with smiling eyes\" class=\"emoji emoji-1f601\" role=\"img\" title=\"grinning face with smiling eyes\">:grinning_face_with_smiling_eyes:</span>. It really wouldn't be much disk space just for one town like that.</p>",
+        "id": 619538956,
+        "sender_full_name": "Dan",
+        "timestamp": 1787836127
+    },
+    {
+        "content": "<p>Yeah it's a little faster on laptop. Not blazing.</p>",
+        "id": 619544730,
+        "sender_full_name": "Dan",
+        "timestamp": 1787837480
+    },
+    {
+        "content": "<p>It's pretty fast.</p>",
+        "id": 619545013,
+        "sender_full_name": "Dan",
+        "timestamp": 1787837548
     }
 ]
