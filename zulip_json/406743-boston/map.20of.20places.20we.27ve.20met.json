@@ -280,5 +280,23 @@
         "id": 619685733,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1787881658
+    },
+    {
+        "content": "<p>I created an issue: <a href=\"https://github.com/bostonopen/bostonopen.github.io/issues/26\">https://github.com/bostonopen/bostonopen.github.io/issues/26</a></p>",
+        "id": 619776347,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787917726
+    },
+    {
+        "content": "<p>I reverted. Using this PR: <a href=\"https://github.com/bostonopen/bostonopen.github.io/pull/27\">https://github.com/bostonopen/bostonopen.github.io/pull/27</a></p>\n<p>Back to noisy, busy tiles, I guess. At least they're free! <span aria-label=\"sweat smile\" class=\"emoji emoji-1f605\" role=\"img\" title=\"sweat smile\">:sweat_smile:</span></p>",
+        "id": 619777709,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787918116
+    },
+    {
+        "content": "<p>Oh I see. Well the maplibre/openfreemap ones will look clean again.</p>",
+        "id": 619851107,
+        "sender_full_name": "Dan",
+        "timestamp": 1787938053
     }
 ]
