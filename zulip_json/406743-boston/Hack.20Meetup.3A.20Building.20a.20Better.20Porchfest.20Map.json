@@ -406,5 +406,29 @@
         "id": 619545013,
         "sender_full_name": "Dan",
         "timestamp": 1787837548
+    },
+    {
+        "content": "<p>I need to get it working on mobile.</p>",
+        "id": 619681410,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787878767
+    },
+    {
+        "content": "<p>Self hosting sounds interesting but I'm probably too cheap to pay for a server, beyond the $4 per month I pay for a Digital Ocean droplet, I mean.</p>",
+        "id": 619681861,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787879011
+    },
+    {
+        "content": "<p>Well you're hosting a JavaScript file and HTML etc. Do you have very limited space for assets?</p>",
+        "id": 619685652,
+        "sender_full_name": "Dan",
+        "timestamp": 1787881610
+    },
+    {
+        "content": "<p>I'm using a lot of my 10 GB already:</p>\n<div class=\"codehilite\"><pre><span></span><code>pdurbin@server4:~$ df -hl\nFilesystem      Size  Used Avail Use% Mounted on\ntmpfs            46M  1.1M   45M   3% /run\n/dev/vda1       9.6G  7.2G  2.4G  76% /\ntmpfs           228M     0  228M   0% /dev/shm\ntmpfs           5.0M     0  5.0M   0% /run/lock\n/dev/vda15      105M  6.1M   99M   6% /boot/efi\ntmpfs            46M  8.0K   46M   1% /run/user/1000\n</code></pre></div>",
+        "id": 619685838,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787881741
     }
 ]

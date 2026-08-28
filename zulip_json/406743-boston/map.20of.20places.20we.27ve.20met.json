@@ -250,5 +250,35 @@
         "id": 611440415,
         "sender_full_name": "Dan",
         "timestamp": 1784383714
+    },
+    {
+        "content": "<p>D'oh! Our map now says \"API key required\" all over it:</p>\n<p><img alt=\"Screenshot 2026-08-27 at 9.04.36 PM.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"2036x1214\" data-original-src=\"/user_uploads/56571/0w5lEhrLEznh_sMyUbgd8yMT/Screenshot-2026-08-27-at-9.04.36PM.png\" src=\"/user_uploads/thumbnail/56571/0w5lEhrLEznh_sMyUbgd8yMT/Screenshot-2026-08-27-at-9.04.36PM.png/840x560.webp\"></p>",
+        "id": 619682044,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787879143
+    },
+    {
+        "content": "<p>We had the same problem at work today and Shihua fixed it for us: <a href=\"https://github.com/IQSS/dataverse-installations/pull/338\">https://github.com/IQSS/dataverse-installations/pull/338</a></p>",
+        "id": 619682137,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787879212
+    },
+    {
+        "content": "<p>Does yours use cartocdn?</p>",
+        "id": 619685367,
+        "sender_full_name": "Dan",
+        "timestamp": 1787881442
+    },
+    {
+        "content": "<p>The change I was making would fix it I think, because it switchws to openfreemap, except I was only like 90% of the way toward retreating your features in maplibre.</p>",
+        "id": 619685590,
+        "sender_full_name": "Dan",
+        "timestamp": 1787881570
+    },
+    {
+        "content": "<p>Yeah, cartocdn. I was thinking I should just revert <a href=\"https://github.com/bostonopen/bostonopen.github.io/pull/21\">https://github.com/bostonopen/bostonopen.github.io/pull/21</a></p>",
+        "id": 619685733,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1787881658
     }
 ]
