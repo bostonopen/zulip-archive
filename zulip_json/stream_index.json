@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 619851107,
+            "latest_id": 619921337,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -513,8 +513,8 @@
                     "size": 5
                 },
                 "map of places we've met": {
-                    "latest_date": 1787938053,
-                    "size": 50
+                    "latest_date": 1787966626,
+                    "size": 51
                 },
                 "our own Zulip": {
                     "latest_date": 1779495236,
@@ -559,5 +559,5 @@
             }
         }
     },
-    "time": 1787951084.5911903
+    "time": 1787974171.3183782
 }
