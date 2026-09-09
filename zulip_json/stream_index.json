@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 622707451,
+            "latest_id": 622987003,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -155,6 +155,10 @@
                 "AI could end scarcity, end humanity, or boost growth": {
                     "latest_date": 1772405542,
                     "size": 3
+                },
+                "ATProto Boston meetup 9/10 @ Aeronaut": {
+                    "latest_date": 1788992760,
+                    "size": 1
                 },
                 "ATproto Boston": {
                     "latest_date": 1785456760,
@@ -563,5 +567,5 @@
             }
         }
     },
-    "time": 1788985458.7579486
+    "time": 1788994513.0436814
 }
