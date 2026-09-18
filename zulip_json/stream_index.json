@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 625099274,
+            "latest_id": 625099894,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -184,6 +184,10 @@
                     "latest_date": 1747793794,
                     "size": 9
                 },
+                "BSides CambridgeMA": {
+                    "latest_date": 1789684951,
+                    "size": 2
+                },
                 "Beyond40": {
                     "latest_date": 1759710928,
                     "size": 1
@@ -345,8 +349,8 @@
                     "size": 5
                 },
                 "MinuteCon": {
-                    "latest_date": 1786222044,
-                    "size": 3
+                    "latest_date": 1789684988,
+                    "size": 4
                 },
                 "Montreal": {
                     "latest_date": 1759789261,
@@ -571,5 +575,5 @@
             }
         }
     },
-    "time": 1789684760.1207147
+    "time": 1789693238.9022717
 }
