@@ -28,5 +28,17 @@
         "id": 625099274,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1789684684
+    },
+    {
+        "content": "<p>I see that <span aria-label=\"thumbs up\" class=\"emoji emoji-1f44d\" role=\"img\" title=\"thumbs up\">:thumbs_up:</span>! Great!</p>",
+        "id": 625423286,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1789825480
+    },
+    {
+        "content": "<p>Here are the details for the next open source meetup:</p>\n<ul>\n<li>When: Sunday, October 18, 2026 at 7pm</li>\n<li>Where: <a href=\"https://www.timeout.com/time-out-market-boston\">Time Out Market Boston</a>, 401 Park Dr, Boston, MA 02215 (<a href=\"https://maps.app.goo.gl/Rxc91vumkD2PRJmu8\">Google Maps</a>)</li>\n<li>Discuss: <a href=\"#narrow/channel/406743-boston/topic/2026-10.20meetup/near/624212036\">Zulip thread</a></li>\n</ul>\n<p>See you then!</p>",
+        "id": 625423371,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1789825529
     }
 ]
