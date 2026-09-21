@@ -436,5 +436,17 @@
         "id": 625604121,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1789946850
+    },
+    {
+        "content": "<p>I pushed a more mobile-friendly version: <a href=\"https://greptilian.com/a-better-porchfest/brookline/2025/\">https://greptilian.com/a-better-porchfest/brookline/2025/</a></p>",
+        "id": 625616323,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1789955455
+    },
+    {
+        "content": "<p>Url says 2025. Is that correct?</p>",
+        "id": 625624205,
+        "sender_full_name": "Adrian",
+        "timestamp": 1789959732
     }
 ]
