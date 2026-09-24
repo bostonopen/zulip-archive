@@ -304,5 +304,11 @@
         "id": 619921337,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1787966626
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"655359\">@Dan</span> you're right, vector/maplibre/openfreemap does look clean. I just switched us to it in <a href=\"https://github.com/bostonopen/bostonopen.github.io/pull/28\">https://github.com/bostonopen/bostonopen.github.io/pull/28</a></p>",
+        "id": 626488132,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1790214054
     }
 ]
