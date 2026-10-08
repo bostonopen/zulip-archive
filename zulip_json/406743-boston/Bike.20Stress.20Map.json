@@ -688,5 +688,11 @@
         "id": 543414681,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1759787940
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/Bike.20Stress.20Map/near/522234810\">said</a>:</p>\n<blockquote>\n<p>These are the two issues I opened</p>\n</blockquote>\n<p>I just left this comment: <a href=\"https://github.com/BostonCyclistsUnion/LabsWebsiteMap/issues/6#issuecomment-6049842231\">https://github.com/BostonCyclistsUnion/LabsWebsiteMap/issues/6#issuecomment-6049842231</a></p>\n<p>In short, I vibe coded my own map. Let's discuss it here: <a class=\"message-link\" href=\"/#narrow/channel/406743-boston/topic/Boston.20Bike.20Lanes/near/630001975\">#boston &gt; Boston Bike Lanes @ 💬</a>  <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span></p>",
+        "id": 630002270,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791420723
     }
 ]
