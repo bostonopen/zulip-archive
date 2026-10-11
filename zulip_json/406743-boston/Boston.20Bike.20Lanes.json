@@ -22,5 +22,11 @@
         "id": 630686299,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1791675307
+    },
+    {
+        "content": "<p>I added a blue dot for one's location and the ability to rotate and tilt.</p>\n<p>I'm very impressed with MapLibre! <a href=\"https://maplibre.org\">https://maplibre.org</a></p>",
+        "id": 630755640,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791724452
     }
 ]
