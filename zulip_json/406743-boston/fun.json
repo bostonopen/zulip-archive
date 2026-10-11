@@ -256,5 +256,23 @@
         "id": 623661664,
         "sender_full_name": "Tynan Purdy",
         "timestamp": 1789161750
+    },
+    {
+        "content": "<p>LGTM (Looks Good to Me) - Claude Opus 5.5 music video - <a href=\"https://www.youtube.com/watch?v=3TNpOD6bov8\">https://www.youtube.com/watch?v=3TNpOD6bov8</a></p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"3TNpOD6bov8\" href=\"https://www.youtube.com/watch?v=3TNpOD6bov8\"><img src=\"https://uploads.zulipusercontent.net/2d98a335ff2664189e612b8631270e7b30b1fd16/68747470733a2f2f692e7974696d672e636f6d2f76692f33544e704f4436626f76382f6d7164656661756c742e6a7067\"></a></div>",
+        "id": 630686364,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791675348
+    },
+    {
+        "content": "<p>i hate that this is so catchy</p>",
+        "id": 630687443,
+        "sender_full_name": "Adrian",
+        "timestamp": 1791676370
+    },
+    {
+        "content": "<p>but also at the same time i feel bad sharing it lol</p>",
+        "id": 630687456,
+        "sender_full_name": "Adrian",
+        "timestamp": 1791676380
     }
 ]
