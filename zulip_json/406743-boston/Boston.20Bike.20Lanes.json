@@ -28,5 +28,17 @@
         "id": 630755640,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1791724452
+    },
+    {
+        "content": "<p>I keep adding towns:</p>\n<p><code>[\"name\"~\"^(Arlington|Bedford|Boston|Brookline|Cambridge|Lexington|Milton|Newton|Somerville|Watertown)$\"]</code></p>",
+        "id": 631140097,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791852163
+    },
+    {
+        "content": "<p>I used it to bike to the Blue Hills today. Worked like a charm.</p>",
+        "id": 631140166,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791852187
     }
 ]
