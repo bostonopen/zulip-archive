@@ -70,5 +70,17 @@
         "id": 631639704,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1791982361
+    },
+    {
+        "content": "<p>No kidding! It's more clear that there's a bike lane at all. OCM perhaps could use some styling improvements even if they don't want to take the time to move to vector.</p>",
+        "id": 631781884,
+        "sender_full_name": "Dan",
+        "timestamp": 1792014345
+    },
+    {
+        "content": "<p>Though OCM is for biking in general not just lanes. So you can afford to make a bigger contrast. Then again if they switch to vector they can show and hide other items of interest via UI buttons.</p>",
+        "id": 631782114,
+        "sender_full_name": "Dan",
+        "timestamp": 1792014434
     }
 ]
