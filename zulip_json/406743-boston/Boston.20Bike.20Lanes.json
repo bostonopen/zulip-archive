@@ -52,5 +52,23 @@
         "id": 631488654,
         "sender_full_name": "Dan",
         "timestamp": 1791940155
+    },
+    {
+        "content": "<p>I'd argue that mine is much more clear about which side of the road the bike lane is on:</p>\n<p><img alt=\"Screenshot 2026-10-14 at 8.45.30 AM.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"3164x2062\" data-original-src=\"/user_uploads/56571/h44Nb7D97cU5GR3d8PtGpZ-N/Screenshot-2026-10-14-at-8.45.30AM.png\" src=\"/user_uploads/thumbnail/56571/h44Nb7D97cU5GR3d8PtGpZ-N/Screenshot-2026-10-14-at-8.45.30AM.png/840x560.webp\"></p>",
+        "id": 631637097,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791981980
+    },
+    {
+        "content": "<p>Another comparison (and the <a href=\"https://github.com/cyclosm/cyclosm-cartocss-style/issues/700\">issue</a> I opened):</p>\n<p><img alt=\"Screenshot 2026-10-14 at 8.50.50 AM.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"3164x2062\" data-original-src=\"/user_uploads/56571/RhqXguABVdedKyVKid4FCnHk/Screenshot-2026-10-14-at-8.50.50AM.png\" src=\"/user_uploads/thumbnail/56571/RhqXguABVdedKyVKid4FCnHk/Screenshot-2026-10-14-at-8.50.50AM.png/840x560.webp\"></p>",
+        "id": 631639369,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791982301
+    },
+    {
+        "content": "<p>I just live in a world where it really matters which side of the street the bike lane is on.</p>",
+        "id": 631639704,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1791982361
     }
 ]
