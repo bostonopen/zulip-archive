@@ -52,5 +52,17 @@
         "id": 632113218,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1792107675
+    },
+    {
+        "content": "<p>Howdy, y'all! I met Adrian today at a coffee &amp; code event (hi, Adrian!) and he mentioned that you all were meeting up tomorrow. I'd love to come by, if there's room for one more!</p>",
+        "id": 632625927,
+        "sender_full_name": "Spencer Elkington",
+        "timestamp": 1792268039
+    },
+    {
+        "content": "<p>Lots of room at Time Out Market!</p>",
+        "id": 632639841,
+        "sender_full_name": "Dan",
+        "timestamp": 1792272786
     }
 ]
