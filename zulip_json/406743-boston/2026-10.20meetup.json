@@ -94,5 +94,11 @@
         "id": 632805975,
         "sender_full_name": "Dan",
         "timestamp": 1792339806
+    },
+    {
+        "content": "<p>I'm pretty sure the Green Line is fine right now: <a href=\"https://www.mbta.com/schedules/Green\">https://www.mbta.com/schedules/Green</a></p>",
+        "id": 632823446,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1792350086
     }
 ]
