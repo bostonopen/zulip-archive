@@ -112,5 +112,29 @@
         "id": 632847037,
         "sender_full_name": "Dan",
         "timestamp": 1792364772
+    },
+    {
+        "content": "<p><img alt=\"4044.jpg\" class=\"inline-image\" data-original-content-type=\"image/jpeg\" data-original-dimensions=\"4080x3072\" data-original-src=\"/user_uploads/56571/ZIRYevdu1YMpICJPrH9oj0M6/4044.jpg\" src=\"/user_uploads/thumbnail/56571/ZIRYevdu1YMpICJPrH9oj0M6/4044.jpg/840x560.webp\"></p>",
+        "id": 632861348,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1792371294
+    },
+    {
+        "content": "<p>Hearing good things about <a href=\"https://nx.dev\">https://nx.dev</a></p>",
+        "id": 632865207,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1792373265
+    },
+    {
+        "content": "<p>And git worktree</p>",
+        "id": 632865228,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1792373280
+    },
+    {
+        "content": "<p>nx as an alternative to <a href=\"https://dagger.io\">https://dagger.io</a></p>",
+        "id": 632865812,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1792373654
     }
 ]
