@@ -508,5 +508,29 @@
         "id": 626194995,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1790129594
+    },
+    {
+        "content": "<p>I actually did clock this before the last meetup but was too much a stranger to geek out about it! The first thing my wife and I did after moving was go to the Stoneham Porchfest (<a href=\"https://www.stonehamporchfest.com/locations\">https://www.stonehamporchfest.com/locations</a>) and it was simultaneously a) incredible to attend and b) very confusing to figure out. I have my scratch notes from trying to plan, they're an absolute napkin nightmare</p>",
+        "id": 637310994,
+        "sender_full_name": "Spencer Elkington",
+        "timestamp": 1793735881
+    },
+    {
+        "content": "<p>I'd imagine that Porchfests are... probably not <em>too</em> popular around here in the wintertime, so if you're looking to spend the season tuning that up, I'd be happy to help! Especially around route planning, there's a lot of potential to give organizers something plug-and-play that they can toy around with</p>",
+        "id": 637311221,
+        "sender_full_name": "Spencer Elkington",
+        "timestamp": 1793735948
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"1217311\">@Spencer Elkington</span> if you want to go ahead and add <a href=\"https://bostonopen.dev/porchfest/stoneham/2026/\">https://bostonopen.dev/porchfest/stoneham/2026/</a> based on that data, please go ahead! That's what I did for Brookline. I played around at <a href=\"https://bostonopen.dev/porchfest/brookline/2025/\">https://bostonopen.dev/porchfest/brookline/2025/</a> until the 2026 data came out.</p>",
+        "id": 637335947,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1793742858
+    },
+    {
+        "content": "<p>Super down! I'll pull it down and mess around with it a bit <span aria-label=\"grinning face with smiling eyes\" class=\"emoji emoji-1f601\" role=\"img\" title=\"grinning face with smiling eyes\">:grinning_face_with_smiling_eyes:</span></p>",
+        "id": 637342329,
+        "sender_full_name": "Spencer Elkington",
+        "timestamp": 1793744893
     }
 ]
