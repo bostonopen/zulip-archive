@@ -532,5 +532,23 @@
         "id": 637342329,
         "sender_full_name": "Spencer Elkington",
         "timestamp": 1793744893
+    },
+    {
+        "content": "<p>It occurred to me that if you're in a city and you're just looking for things to do I bet you could make use of an interface like this.</p>",
+        "id": 637640153,
+        "sender_full_name": "Dan",
+        "timestamp": 1793828051
+    },
+    {
+        "content": "<p>If there's a good source of What's On</p>",
+        "id": 637640214,
+        "sender_full_name": "Dan",
+        "timestamp": 1793828068
+    },
+    {
+        "content": "<p>Hmm, like the map on <a href=\"https://www.thebostoncalendar.com\">https://www.thebostoncalendar.com</a> ?</p>",
+        "id": 637648125,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1793830508
     }
 ]
