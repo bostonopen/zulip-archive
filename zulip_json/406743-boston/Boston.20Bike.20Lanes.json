@@ -106,5 +106,17 @@
         "id": 633153717,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1792450939
+    },
+    {
+        "content": "<p>theres a new app on ios for adding info to OSM! great for adding bike lane info</p>",
+        "id": 639536786,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1794419194
+    },
+    {
+        "content": "<p><a href=\"https://apps.apple.com/us/app/streetcomplete/id6808344816\">https://apps.apple.com/us/app/streetcomplete/id6808344816</a></p>",
+        "id": 639537075,
+        "sender_full_name": "Tynan Purdy",
+        "timestamp": 1794419274
     }
 ]
