@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 639616119,
+            "latest_id": 640171615,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -209,8 +209,8 @@
                     "size": 6
                 },
                 "Boston Bike Lanes": {
-                    "latest_date": 1794419274,
-                    "size": 20
+                    "latest_date": 1794594594,
+                    "size": 22
                 },
                 "Boston Bitdown": {
                     "latest_date": 1777953168,
@@ -513,8 +513,8 @@
                     "size": 1
                 },
                 "fun": {
-                    "latest_date": 1794174998,
-                    "size": 54
+                    "latest_date": 1794594446,
+                    "size": 55
                 },
                 "gear": {
                     "latest_date": 1748561516,
@@ -587,5 +587,5 @@
             }
         }
     },
-    "time": 1794578115.5046966
+    "time": 1794602718.0151496
 }
