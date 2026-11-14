@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>Did anyone read <a href=\"https://www.anthropic.com/research/redesigning-source-control\">https://www.anthropic.com/research/redesigning-source-control</a> ?</p>\n<p>You can also listen to it at <a href=\"https://www.youtube.com/watch?v=5VgUMjmCYcE\">https://www.youtube.com/watch?v=5VgUMjmCYcE</a> (but he mispronounces \"Scion\" <span aria-label=\"smile\" class=\"emoji emoji-1f604\" role=\"img\" title=\"smile\">:smile:</span> )</p>\n<div class=\"youtube-video message_inline_image\"><a data-id=\"5VgUMjmCYcE\" href=\"https://www.youtube.com/watch?v=5VgUMjmCYcE\"><img src=\"https://uploads.zulipusercontent.net/5bfeaa414a4d3460dad2fea2e96fcf1e1d41ccfe/68747470733a2f2f692e7974696d672e636f6d2f76692f355667554d6a6d435963452f6d7164656661756c742e6a7067\"></a></div>",
+        "id": 640230550,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794610855
+    },
+    {
+        "content": "<p>hat tip to <span class=\"user-mention\" data-user-id=\"712386\">@Yamil Suarez</span> for putting this on my radar</p>",
+        "id": 640230606,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794610871
+    }
+]
