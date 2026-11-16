@@ -40,5 +40,17 @@
         "id": 640231317,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1794611127
+    },
+    {
+        "content": "<p><img alt=\"IMG_1472.jpeg\" class=\"inline-image\" data-original-content-type=\"image/jpeg\" data-original-dimensions=\"3021x2401\" data-original-src=\"/user_uploads/56571/mvQfwb0LE3ZkmQ1aDfSjRUHq/IMG_1472.jpeg\" src=\"/user_uploads/thumbnail/56571/mvQfwb0LE3ZkmQ1aDfSjRUHq/IMG_1472.jpeg/840x560.webp\"></p>",
+        "id": 640625198,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794802812
+    },
+    {
+        "content": "<p>See you next time! Thanks for coming!</p>",
+        "id": 640625234,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794802837
     }
 ]
