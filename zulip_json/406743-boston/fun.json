@@ -328,5 +328,29 @@
         "id": 640171007,
         "sender_full_name": "Dan",
         "timestamp": 1794594446
+    },
+    {
+        "content": "<p><img alt=\"cpp.webp\" class=\"inline-image\" data-original-content-type=\"image/webp\" data-original-dimensions=\"1080x1107\" data-original-src=\"/user_uploads/56571/Qw3IGSDeakTSlqcIQ_HGB6mo/cpp.webp\" src=\"/user_uploads/thumbnail/56571/Qw3IGSDeakTSlqcIQ_HGB6mo/cpp.webp/840x560.webp\"></p>",
+        "id": 641394897,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794956726
+    },
+    {
+        "content": "<p>Maybe I don't get it. Even a genie can't do it? Or is the genie built with c++ and the change broke him somehow?</p>",
+        "id": 641399582,
+        "sender_full_name": "Dan",
+        "timestamp": 1794958145
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"652874\">Philip Durbin</span> <a href=\"#narrow/channel/406743-boston/topic/fun/near/638559499\">said</a>:</p>\n<blockquote>\n<p><img alt=\"0d4ece7a567ab3b1b301d69b5fafb19357affe84586bae931b5bd9d056ff4871.png\" class=\"inline-image\" data-original-content-type=\"image/png\" data-original-dimensions=\"1023x656\" data-original-src=\"/user_uploads/56571/f-krbP6OdZqXlpTy3hHjQZSI/0d4ece7a567ab3b1b301d69b5fafb19357affe84586bae931b5bd9d056ff4871.png\" src=\"/user_uploads/thumbnail/56571/f-krbP6OdZqXlpTy3hHjQZSI/0d4ece7a567ab3b1b301d69b5fafb19357affe84586bae931b5bd9d056ff4871.png/840x560.webp\"></p>\n</blockquote>\n<p>See for stuff like this I start with <code>ls</code> and make sure I'm referring to the right thing and then go back and replace it with <code>rm -rf</code></p>",
+        "id": 641399881,
+        "sender_full_name": "Dan",
+        "timestamp": 1794958229
+    },
+    {
+        "content": "<p>ha, exactly</p>",
+        "id": 641413426,
+        "sender_full_name": "Philip Durbin",
+        "timestamp": 1794963112
     }
 ]
