@@ -2,7 +2,7 @@
     "streams": {
         "boston": {
             "id": 406743,
-            "latest_id": 642070296,
+            "latest_id": 642213603,
             "topic_data": {
                 "2023-10 meetup": {
                     "latest_date": 1697419806,
@@ -157,8 +157,8 @@
                     "size": 9
                 },
                 "2026-12 meetup": {
-                    "latest_date": 1795135593,
-                    "size": 3
+                    "latest_date": 1795180573,
+                    "size": 4
                 },
                 "AI and open source": {
                     "latest_date": 1771391504,
@@ -421,8 +421,8 @@
                     "size": 11
                 },
                 "Scion": {
-                    "latest_date": 1795135903,
-                    "size": 4
+                    "latest_date": 1795180656,
+                    "size": 5
                 },
                 "Scott McCloud": {
                     "latest_date": 1765160487,
@@ -595,5 +595,5 @@
             }
         }
     },
-    "time": 1795167594.6205006
+    "time": 1795198654.1278923
 }
