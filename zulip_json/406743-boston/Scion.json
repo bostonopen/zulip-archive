@@ -10,5 +10,17 @@
         "id": 640230606,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1794610871
+    },
+    {
+        "content": "<p>I'm incredibly skeptical</p>",
+        "id": 642069727,
+        "sender_full_name": "Adrian",
+        "timestamp": 1795135718
+    },
+    {
+        "content": "<ol>\n<li>\"More code\" keeps getting said as if its somehow implicitly better</li>\n<li>Its the humans behind the communities who make it good. Being slow is a feature of open source. The code review and writing is a bottleneck but its mostly a moot bottleneck because the bigger bottleneck is human consensus building. And you can't automate that away or remove that without removing humans. And then youve just removed the majority of what makes open source communities what they are</li>\n</ol>",
+        "id": 642070296,
+        "sender_full_name": "Adrian",
+        "timestamp": 1795135903
     }
 ]
