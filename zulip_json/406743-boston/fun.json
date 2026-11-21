@@ -352,5 +352,11 @@
         "id": 641413426,
         "sender_full_name": "Philip Durbin",
         "timestamp": 1794963112
+    },
+    {
+        "content": "<p>Actually what I really do (now that I just did a couple high stakes deletions) is I move it to a file or directory called deleteme, then delete it. The move can be doublechecked and even undone, and <code>rm deleteme</code> is very unlikely to be a mistake. Though given this comic I should be careful to <code>cd</code> to the directory before deleting so I don't have to add a slash.</p>",
+        "id": 642555309,
+        "sender_full_name": "Dan",
+        "timestamp": 1795296413
     }
 ]
